@@ -64,7 +64,7 @@ function init() {
   // Grab a reference to the dropdown select element
   var selector = d3.select("#selDataset");
     // Use the list of sample names to populate the select options
-  d3.json("./static/data/NBAdataJSON2.json").then((data) => {
+  d3.json("./static/data/NBAdataJSON.json").then((data) => {
     var year_list = ["All Data"]
     for (var i = 0; i < data.length; i++) {
       var player_year = data[i].draft_year
