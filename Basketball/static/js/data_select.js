@@ -12,7 +12,7 @@ function multiplemax(test_array) {
   return [listtest, max];
 };
 function buildMetadata(sample) {
-  d3.json("./static/data/NBAdataJSON2.json").then(function(nbaData) {
+  d3.json("./static/data/NBAdataJSON.json").then(function(nbaData) {
     var sorted_year = [];
     if (sample == "All Data"){
       sorted_year = nbaData;
@@ -24,12 +24,12 @@ function buildMetadata(sample) {
         };
       };   
     };  
-    // console.log(sorted_year)
 
     // find the player highest salary for that years draft
     var maxSalary = _.max(sorted_year, function (player) {
       return player.salary;
     });
+
     var salary_index = sorted_year.indexOf(maxSalary); 
     var high_salary = sorted_year[salary_index];
     
@@ -54,7 +54,6 @@ function buildMetadata(sample) {
     sampleMeta.append("p").text("Top Drafted College: ").attr("class","b")
     .append("span").text(`${top_college[0]}, ${top_college[1]}`).attr("class", "n");
     
-    // console.log(JSON.stringify(sorted_year));
     year_data = sorted_year;
 
   });
@@ -65,7 +64,7 @@ function init() {
   // Grab a reference to the dropdown select element
   var selector = d3.select("#selDataset");
     // Use the list of sample names to populate the select options
-  d3.json("./static/data/NBAdataJSON-1.json").then((data) => {
+  d3.json("./static/data/NBAdataJSON2.json").then((data) => {
     var year_list = ["All Data"]
     for (var i = 0; i < data.length; i++) {
       var player_year = data[i].draft_year
@@ -89,10 +88,7 @@ function init() {
     buildMetadata(firstSample);
     buildPosition(firstSample);
     buildMap(firstSample);
-     
-    // plotly function
-
-
+    buildPlotly(firstSample);
   });
 }
 
@@ -101,10 +97,7 @@ function optionChanged(newSample) {
   buildMetadata(newSample);
   buildPosition(newSample);
   updateMap(newSample);  
-  
-  // plotly function
-
-
+  buildPlotly(newSample);
 };
 
 // Initialize the dashboard

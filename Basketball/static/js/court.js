@@ -71,7 +71,7 @@ var toolTip = d3.select("body")
 .classed("tooltip", true);
 
 function buildPosition(sample) {
-  d3.json("./static/data/NBAdataJSON2.json").then(function(nbaData) {
+  d3.json("./static/data/NBAdataJSON.json").then(function(nbaData) {
     var sorted_year = [];
     if (sample == "All Data"){
       sorted_year = nbaData;
