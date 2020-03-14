@@ -1,0 +1,709 @@
+player_id,birthDate,draft_year,name,position,college,salary,season_end,season_start,team,lat,long
+ackeral01,"January 21, 1983",2005.0,Alex Acker,Shooting Guard,Pepperdine University,839209,2007,2006,Detroit Pistons,34.0414045,-118.7095814
+acyqu01,"October 6, 1990",2012.0,Quincy Acy,Power Forward,Baylor University,1914544,2017,2016,Brooklyn Nets,31.5469132,-97.1210998
+adamsha01,"June 20, 1984",2006.0,Hassan Adams,Shooting Guard,University of Arizona,412718,2007,2006,New Jersey Nets,32.2318851,-110.9501094
+adamsjo01,"July 8, 1994",2014.0,Jordan Adams,Shooting Guard,University of California,1465080,2017,2016,Memphis Grizzlies,37.8718992,-122.2585399
+adamsst01,"July 20, 1993",2013.0,Steven Adams,Center,University of Pittsburgh,22471910,2018,2017,Oklahoma City Thunder,40.4443533,-79.960835
+adebaba01,"July 18, 1997",2017.0,Bam Adebayo,Center,University of Kentucky,2490360,2018,2017,Miami Heat,38.0306511,-84.5039697
+afflaar01,"October 15, 1985",2007.0,Arron Afflalo,Shooting Guard,University of California,12500000,2017,2016,Sacramento Kings,37.8718992,-122.2585399
+agerma01,"February 9, 1984",2006.0,Maurice Ager,Shooting Guard,Michigan State University,1042440,2009,2008,New Jersey Nets,42.701848,-84.4821719
+alabiso01,"March 21, 1988",2010.0,Solomon Alabi,Center,Florida State University,830000,2012,2011,Toronto Raptors,30.4418778,-84.2984889
+aldrico01,"October 31, 1988",2010.0,Cole Aldrich,Center,University of Kansas,7643979,2017,2016,Minnesota Timberwolves,38.9543439,-95.2557961
+aldrila01,"July 19, 1985",2006.0,LaMarcus Aldridge,Power Forward,University of Texas at Austin,21461010,2018,2017,San Antonio Spurs,30.2849185,-97.7340567
+alexaco02,"April 27, 1977",2000.0,Courtney Alexander,Point Guard,California State University,2168193,2004,2003,New Orleans Hornets,34.0667698,-118.1684392
+alexajo01,"December 26, 1986",2008.0,Joe Alexander,Small Forward,West Virginia University,2583360,2010,2009,Chicago Bulls,39.6480359,-79.9697147
+allenja01,"April 21, 1998",2017.0,Jarrett Allen,Center,University of Texas at Austin,1713720,2018,2017,Brooklyn Nets,30.2849185,-97.7340567
+allenla01,"February 4, 1989",2011.0,Lavoy Allen,Power Forward,Temple University,4000000,2017,2016,Indiana Pacers,39.9805942,-75.1557376
+allento01,"January 11, 1982",2004.0,Tony Allen,Shooting Guard,Oklahoma State University,5505618,2017,2016,Memphis Grizzlies,36.1270236,-97.07372219999999
+almonmo01,"February 2, 1985",2007.0,Morris Almond,Shooting Guard,Rice University,1081440,2009,2008,Utah Jazz,29.7173941,-95.40183119999999
+aminual01,"September 21, 1990",2010.0,Al-Farouq Aminu,Power Forward,Wake Forest University,7680965,2017,2016,Portland Trail Blazers,36.1355052,-80.2791958
+anderja01,"March 25, 1989",2010.0,James Anderson,Small Forward,Oklahoma State University,1463520,2012,2011,San Antonio Spurs,36.1270236,-97.07372219999999
+anderju01,"November 19, 1993",2015.0,Justin Anderson,Small Forward,University of Virginia,1579440,2018,2017,Philadelphia 76ers,38.0335529,-78.5079772
+anderky01,"September 20, 1993",2014.0,Kyle Anderson,Small Forward,University of California,2151704,2018,2017,San Antonio Spurs,37.8718992,-122.2585399
+anderry01,"May 6, 1988",2008.0,Ryan Anderson,Power Forward,University of California,19578455,2018,2017,Houston Rockets,37.8718992,-122.2585399
+anigbik01,"October 17, 1998",2017.0,Ike Anigbogu,Center,University of California,950000,2018,2017,Indiana Pacers,37.8718992,-122.2585399
+anthoca01,"May 29, 1984",2003.0,Carmelo Anthony,Small Forward,Syracuse University,26243760,2018,2017,Oklahoma City Thunder,43.0391534,-76.1351158
+anunoog01,"July 17, 1997",2017.0,OG Anunoby,Small Forward,Indiana University,1645200,2018,2017,Toronto Raptors,39.1754487,-86.512627
+araujra01,"August 12, 1980",2004.0,Rafael Araujo,Center,Brigham Young University,2395200,2007,2006,Utah Jazz,40.2518435,-111.6493156
+archiro01,"March 29, 1980",2002.0,Robert Archibald,Center,University of Illinois at Urbana-Champaign,563679,2004,2003,Orlando Magic,40.1019523,-88.2271615
+arenagi01,"January 6, 1982",2001.0,Gilbert Arenas,Point Guard,University of Arizona,20807922,2013,2012,Orlando Magic,32.2318851,-110.9501094
+arizatr01,"June 30, 1985",2004.0,Trevor Ariza,Small Forward,University of California,8579089,2015,2014,Houston Rockets,37.8718992,-122.2585399
+armstbr01,"June 16, 1980",2001.0,Brandon Armstrong,Shooting Guard,Pepperdine University,995650,2004,2003,New Jersey Nets,34.0414045,-118.7095814
+armsthi01,"November 11, 1984",2006.0,Hilton Armstrong,Center,University of Connecticut,2801198,2010,2009,Houston Rockets,41.8077414,-72.2539805
+arthuda01,"March 25, 1988",2008.0,Darrell Arthur,Small Forward,University of Kansas,8070175,2017,2016,Denver Nuggets,38.9543439,-95.2557961
+augusdj01,"November 10, 1987",2008.0,D.J. Augustin,Point Guard,University of Texas at Austin,7250000,2018,2017,Orlando Magic,30.2849185,-97.7340567
+augusja01,"February 27, 1984",2006.0,James Augustine,Power Forward,University of Illinois at Urbana-Champaign,687456,2008,2007,Orlando Magic,40.1019523,-88.2271615
+pendeje02,"April 29, 1987",2009.0,Jeff Ayres,Center,Arizona State University,1828750,2015,2014,San Antonio Spurs,33.4242399,-111.9280527
+babbilu01,"June 20, 1989",2010.0,Luke Babbitt,Small Forward,University of Nevada,1974159,2018,2017,Miami Heat,39.5441917,-119.816397
+bacondw01,"August 30, 1995",2017.0,Dwayne Bacon,Shooting Guard,Florida State University,815615,2018,2017,Charlotte Hornets,30.4418778,-84.2984889
+bairsca01,"December 7, 1990",2014.0,Cameron Bairstow,Center,University of New Mexico,845059,2016,2015,Chicago Bulls,35.0843187,-106.6197812
+balkmre01,"July 14, 1984",2006.0,Renaldo Balkman,Small Forward,University of South Carolina,2112417,2010,2009,Denver Nuggets,33.9937575,-81.0299186
+balllo01,"October 27, 1997",2017.0,Lonzo Ball,Point Guard,University of California,6286560,2018,2017,Los Angeles Lakers,37.8718992,-122.2585399
+banksma01,"November 19, 1981",2003.0,Marcus Banks,Point Guard,University of Nevada,4847586,2011,2010,New Orleans Hornets,39.5441917,-119.816397
+barkler01,"February 21, 1978",2000.0,Erick Barkley,Point Guard,St. John's University,712200,2001,2000,Portland Trail Blazers,40.7220627,-73.79421119999999
+barneha02,"May 30, 1992",2012.0,Harrison Barnes,Power Forward,University of North Carolina,23112004,2018,2017,Dallas Mavericks,35.9049122,-79.0469134
+barnema02,"March 9, 1980",2002.0,Matt Barnes,Small Forward,University of California,6125000,2017,2016,Sacramento Kings,37.8718992,-122.2585399
+bartowi01,"January 6, 1991",2012.0,Will Barton,Shooting Guard,University of Memphis,3533333,2018,2017,Denver Nuggets,35.1187498,-89.9374928
+bassbr01,"April 30, 1985",2005.0,Brandon Bass,Power Forward,Louisiana State University,6900000,2015,2014,Boston Celtics,30.4132579,-91.1800023
+battish01,"September 9, 1978",2001.0,Shane Battier,Small Forward,Duke University,7354500,2011,2010,Memphis Grizzlies,36.0014258,-78.9382286
+baxtelo01,"January 27, 1979",2002.0,Lonny Baxter,Power Forward,University of Maryland,745248,2006,2005,Houston Rockets,38.9869183,-76.9425543
+bayleje01,"August 20, 1988",2008.0,Jerryd Bayless,Point Guard,University of Arizona,9424084,2017,2016,Philadelphia 76ers,32.2318851,-110.9501094
+bealbr01,"June 28, 1993",2012.0,Bradley Beal,Shooting Guard,University of Florida,23775506,2018,2017,Washington Wizards,29.6436325,-82.3549302
+beaslje01,"May 17, 1980",2003.0,Jerome Beasley,Power Forward,University of North Dakota,620046,2005,2004,Miami Heat,47.922891,-97.0768014
+beaslma01,"November 26, 1996",2016.0,Malik Beasley,Shooting Guard,Florida State University,1700640,2018,2017,Denver Nuggets,30.4418778,-84.2984889
+beaslmi01,"January 9, 1989",2008.0,Michael Beasley,Power Forward,Kansas State University,6262347,2012,2011,Minnesota Timberwolves,39.1974437,-96.5847249
+belljo01,"January 7, 1995",2017.0,Jordan Bell,Center,University of Oregon,815615,2018,2017,Golden State Warriors,44.0448302,-123.0726055
+belltr01,"November 10, 1980",2003.0,Troy Bell,Point Guard,Boston College,1478280,2006,2005,Memphis Grizzlies,42.3355488,-71.16849450000001
+bembrde01,"July 4, 1994",2016.0,DeAndre' Bembry,Shooting Guard,Saint Joseph's University,1567200,2018,2017,Atlanta Hawks,39.9951217,-75.23993279999999
+bennean01,"March 14, 1993",2013.0,Anthony Bennett,Power Forward,University of Nevada,5563920,2015,2014,Minnesota Timberwolves,39.5441917,-119.816397
+bensoke02,"August 13, 1988",2011.0,Keith Benson,Center,Oakland University,75000,2017,2016,Miami Heat,42.6679486,-83.2081632
+bentibe01,"March 29, 1995",2016.0,Ben Bentil,Power Forward,Providence College,250000,2017,2016,Boston Celtics,41.8440925,-71.4381653
+beverpa01,"July 12, 1988",2009.0,Patrick Beverley,Point Guard,University of Arkansas,6500000,2016,2015,Houston Rockets,36.0686895,-94.1748471
+blairde01,"April 22, 1989",2009.0,DeJuan Blair,Center,University of Pittsburgh,2000000,2016,2015,Phoenix Suns,40.4443533,-79.960835
+blakest01,"February 26, 1980",2003.0,Steve Blake,Point Guard,University of Maryland,4930000,2010,2009,Los Angeles Clippers,38.9869183,-76.9425543
+blalowi01,"September 8, 1983",2006.0,Will Blalock,Point Guard,Iowa State University,412718,2007,2006,Detroit Pistons,42.0266187,-93.6464654
+bledser01,"December 9, 1989",2010.0,Eric Bledsoe,Point Guard,University of Kentucky,14500000,2018,2017,Milwaukee Bucks,38.0306511,-84.5039697
+boganke01,"May 12, 1980",2003.0,Keith Bogans,Small Forward,University of Kentucky,5058198,2014,2013,Boston Celtics,38.0306511,-84.5039697
+bogutan01,"November 28, 1984",2005.0,Andrew Bogut,Power Forward,University of Utah,14000000,2014,2013,Golden State Warriors,40.7649368,-111.8421021
+bonnema01,"April 5, 1980",2003.0,Matt Bonner,Power Forward,University of Florida,3945000,2014,2013,San Antonio Spurs,29.6436325,-82.3549302
+bookede01,"October 30, 1996",2015.0,Devin Booker,Shooting Guard,University of Kentucky,2319360,2018,2017,Phoenix Suns,38.0306511,-84.5039697
+booketr01,"November 25, 1987",2010.0,Trevor Booker,Power Forward,Clemson University,9250000,2017,2016,Brooklyn Nets,34.6738437,-82.8368654
+boonejo01,"November 21, 1984",2006.0,Josh Boone,Center,University of Connecticut,2056968,2010,2009,New Jersey Nets,41.8077414,-72.2539805
+boozeca01,"November 20, 1981",2002.0,Carlos Boozer,Center,Duke University,15300000,2014,2013,Chicago Bulls,36.0014258,-78.9382286
+borchcu01,"September 13, 1980",2002.0,Curtis Borchardt,Center,Stanford University,1969993,2006,2005,Boston Celtics,37.4274745,-122.169719
+boshch01,"March 24, 1984",2003.0,Chris Bosh,Power Forward,Georgia Institute of Technology,25289390,2018,2017,Miami Heat,33.7756178,-84.39628499999999
+boumtru01,"May 20, 1978",2001.0,Ruben Boumtje-Boumtje,Center,Georgetown University,663679,2004,2003,Portland Trail Blazers,38.9076089,-77.07225849999999
+brackcr01,"October 9, 1987",2010.0,Craig Brackins,Power Forward,Iowa State University,1404960,2012,2011,Philadelphia 76ers,42.0266187,-93.6464654
+bradlav01,"November 26, 1990",2010.0,Avery Bradley,Point Guard,University of Texas at Austin,8808989,2018,2017,Los Angeles Clippers,30.2849185,-97.7340567
+bradlmi01,"April 18, 1979",2001.0,Michael Bradley,Power Forward,Villanova University,1292040,2004,2003,Toronto Raptors,40.0378952,-75.34333149999999
+bradlto01,"January 8, 1998",2017.0,Tony Bradley,Center,University of North Carolina,1414920,2018,2017,Utah Jazz,35.9049122,-79.0469134
+breweco01,"March 5, 1986",2007.0,Corey Brewer,Shooting Guard,University of Florida,8200000,2016,2015,Houston Rockets,29.6436325,-82.3549302
+breweja01,"November 19, 1980",2001.0,Jamison Brewer,Shooting Guard,Auburn University,720046,2005,2004,New York Knicks,32.5933574,-85.4951663
+brewero02,"March 20, 1985",2006.0,Ronnie Brewer,Shooting Guard,University of Arkansas,4790000,2011,2010,Chicago Bulls,36.0686895,-94.1748471
+brockjo01,"March 20, 1987",2009.0,Jon Brockman,Center,University of Washington,1000000,2013,2012,Houston Rockets,47.6912794,-122.3176141
+brogdma01,"December 11, 1992",2016.0,Malcolm Brogdon,Shooting Guard,University of Virginia,1312611,2018,2017,Milwaukee Bucks,38.0335529,-78.5079772
+brookaa01,"January 14, 1985",2007.0,Aaron Brooks,Point Guard,University of Oregon,3396250,2014,2013,Sacramento Kings,44.0448302,-123.0726055
+brookdi01,"January 22, 1996",2017.0,Dillon Brooks,Small Forward,University of Oregon,815615,2018,2017,Memphis Grizzlies,44.0448302,-123.0726055
+brookma01,"January 26, 1989",2011.0,MarShon Brooks,Shooting Guard,Providence College,1210080,2014,2013,Boston Celtics,41.8440925,-71.4381653
+brownda02,"June 28, 1979",2001.0,Damone Brown,Power Forward,Syracuse University,332817,2002,2001,Philadelphia 76ers,43.0391534,-76.1351158
+brownde03,"August 17, 1984",2006.0,Dee Brown,Point Guard,University of Illinois at Urbana-Champaign,412718,2007,2006,Utah Jazz,40.1019523,-88.2271615
+brownde04,"September 8, 1987",2009.0,Derrick Brown,Small Forward,Xavier University,854389,2012,2011,Charlotte Bobcats,39.149448,-84.47363740000002
+browner01,"May 17, 1979",2000.0,Ernest Brown,Center,Indian Hills Community College,332817,2002,2001,Miami Heat,41.044962,-92.394464
+brownja02,"October 24, 1996",2016.0,Jaylen Brown,Small Forward,University of California,4956480,2018,2017,Boston Celtics,37.8718992,-122.2585399
+brownke01,"March 18, 1981",2001.0,Kedrick Brown,Small Forward,Okaloosa-Walton Community College,2332388,2005,2004,Philadelphia 76ers,30.5394163,-86.475644
+brownsh01,"November 29, 1985",2006.0,Shannon Brown,Shooting Guard,Michigan State University,3500000,2014,2013,Phoenix Suns,42.701848,-84.4821719
+brownst02,"February 10, 1995",2017.0,Sterling Brown,Shooting Guard,Southern Methodist University,815615,2018,2017,Milwaukee Bucks,32.8412178,-96.78451749999999
+bryanth01,"July 31, 1997",2017.0,Thomas Bryant,Center,Indiana University,815615,2018,2017,Los Angeles Lakers,39.1754487,-86.512627
+budinch01,"May 22, 1988",2009.0,Chase Budinger,Small Forward,University of Arizona,5000000,2016,2015,Indiana Pacers,32.2318851,-110.9501094
+bullore01,"March 16, 1991",2013.0,Reggie Bullock,Shooting Guard,University of North Carolina,2500000,2018,2017,Detroit Pistons,35.9049122,-79.0469134
+burketr01,"November 12, 1992",2013.0,Trey Burke,Point Guard,University of Michigan,3386598,2017,2016,Washington Wizards,42.2780436,-83.7382241
+burksal01,"July 20, 1991",2011.0,Alec Burks,Shooting Guard,University of Colorado,10845506,2018,2017,Utah Jazz,40.00758099999999,-105.2659417
+burksan01,"February 25, 1980",2004.0,Antonio Burks,Point Guard,University of Memphis,641748,2006,2005,Memphis Grizzlies,35.1187498,-89.9374928
+butleca01,"March 13, 1980",2002.0,Caron Butler,Small Forward,University of Connecticut,10561960,2011,2010,Dallas Mavericks,41.8077414,-72.2539805
+butleji01,"September 14, 1989",2011.0,Jimmy Butler,Shooting Guard,Marquette University,19301070,2018,2017,Minnesota Timberwolves,43.0388337,-87.92856669999999
+butlera01,"May 23, 1979",2002.0,Rasual Butler,Shooting Guard,La Salle University,3945000,2010,2009,Los Angeles Clippers,40.0386037,-75.1566354
+calatni01,"February 7, 1989",2009.0,Nick Calathes,Shooting Guard,University of Florida,816482,2015,2014,Memphis Grizzlies,29.6436325,-82.3549302
+caldwke01,"February 18, 1993",2013.0,Kentavious Caldwell-Pope,Shooting Guard,University of Georgia,17745894,2018,2017,Los Angeles Lakers,33.9480053,-83.3773221
+canaais01,"May 21, 1991",2013.0,Isaiah Canaan,Shooting Guard,Murray State University,1015696,2017,2016,Chicago Bulls,36.6163842,-88.3214979
+caracde01,"May 4, 1988",2010.0,Derrick Caracter,Center,University of Texas at El Paso,473604,2011,2010,Los Angeles Lakers,31.7709368,-106.5046405
+cardibr01,"May 2, 1977",2000.0,Brian Cardinal,Power Forward,Purdue University,6750000,2010,2009,New York Knicks,40.4237054,-86.92119459999999
+carnero01,"April 15, 1984",2006.0,Rodney Carney,Shooting Guard,University of Memphis,1655760,2009,2008,Minnesota Timberwolves,35.1187498,-89.9374928
+carrode01,"July 27, 1986",2009.0,DeMarre Carroll,Small Forward,University of Missouri,14800000,2018,2017,Brooklyn Nets,38.9403808,-92.32773750000001
+cartemi01,"October 10, 1991",2013.0,Michael Carter-Williams,Point Guard,Syracuse University,3183526,2017,2016,Chicago Bulls,43.0391534,-76.1351158
+caulewi01,"August 18, 1993",2015.0,Willie Cauley-Stein,Center,University of Kentucky,3704160,2018,2017,Sacramento Kings,38.0306511,-84.5039697
+chalmli01,"November 10, 1980",2004.0,Lionel Chalmers,Point Guard,Xavier University,682050,2006,2005,Minnesota Timberwolves,39.149448,-84.47363740000002
+chalmma01,"May 19, 1986",2008.0,Mario Chalmers,Point Guard,University of Kansas,4300000,2016,2015,Memphis Grizzlies,38.9543439,-95.2557961
+chandwi01,"May 10, 1987",2007.0,Wilson Chandler,Shooting Guard,DePaul University,12016854,2018,2017,Denver Nuggets,41.9247559,-87.6566465
+childjo01,"June 20, 1983",2004.0,Josh Childress,Shooting Guard,Stanford University,7317500,2015,2014,Phoenix Suns,37.4274745,-122.169719
+chrisma01,"July 2, 1997",2016.0,Marquese Chriss,Power Forward,University of Washington,3073800,2018,2017,Phoenix Suns,47.6912794,-122.3176141
+chrisra01,"December 1, 1991",2015.0,Rakeem Christmas,Power Forward,Syracuse University,1052342,2017,2016,Indiana Pacers,43.0391534,-76.1351158
+chrisse01,"November 1, 1992",2014.0,Semaj Christon,Point Guard,Xavier University,543471,2017,2016,Oklahoma City Thunder,39.149448,-84.47363740000002
+clarkea01,"January 17, 1988",2009.0,Earl Clark,Power Forward,University of Louisville,4250000,2014,2013,Cleveland Cavaliers,38.2122761,-85.75850229999999
+clarkjo01,"June 7, 1992",2014.0,Jordan Clarkson,Shooting Guard,University of Missouri,12500000,2017,2016,Los Angeles Lakers,38.9403808,-92.32773750000001
+claxtsp01,"May 8, 1978",2000.0,Speedy Claxton,Point Guard,Hofstra University,6854546,2007,2006,Atlanta Hawks,40.7166872,-73.5993965
+cleavma01,"September 7, 1977",2000.0,Mateen Cleaves,Point Guard,Michigan State University,1441440,2003,2002,Sacramento Kings,42.701848,-84.4821719
+coleno01,"October 13, 1988",2011.0,Norris Cole,Point Guard,Cleveland State University,3036927,2016,2015,New Orleans Pelicans,41.5025072,-81.6746268
+collija02,"September 8, 1977",2000.0,Jason Collier,Center,Georgia Institute of Technology,1650000,2006,2005,Atlanta Hawks,33.7756178,-84.39628499999999
+collija03,"December 2, 1978",2001.0,Jarron Collins,Center,Stanford University,2625698,2007,2006,Utah Jazz,37.4274745,-122.169719
+collija04,"December 2, 1978",2001.0,Jason Collins,Power Forward,Stanford University,6200000,2009,2008,Minnesota Timberwolves,37.4274745,-122.169719
+collijo01,"September 23, 1997",2017.0,John Collins,Power Forward,Wake Forest University,1936920,2018,2017,Atlanta Hawks,36.1355052,-80.2791958
+collima01,"August 4, 1984",2006.0,Mardy Collins,Shooting Guard,Temple University,1867742,2010,2009,Los Angeles Clippers,39.9805942,-75.1557376
+colliza01,"November 19, 1997",2017.0,Zach Collins,Center,Gonzaga University,3057240,2018,2017,Portland Trail Blazers,47.66703210000001,-117.4014343
+collida01,"August 23, 1987",2009.0,Darren Collison,Point Guard,University of California,10000000,2018,2017,Indiana Pacers,37.8718992,-122.2585399
+collini01,"October 26, 1980",2003.0,Nick Collison,Power Forward,University of Kansas,13250000,2011,2010,Oklahoma City Thunder,38.9543439,-95.2557961
+conlemi01,"October 11, 1987",2007.0,Mike Conley,Point Guard,Ohio State University,28530608,2018,2017,Memphis Grizzlies,40.0068363,-83.0306222
+connapa01,"January 6, 1993",2015.0,Pat Connaughton,Shooting Guard,University of Notre Dame,1471382,2018,2017,Portland Trail Blazers,41.7055716,-86.2353388
+cookbr01,"December 4, 1980",2003.0,Brian Cook,Power Forward,University of Illinois at Urbana-Champaign,3500000,2010,2009,Houston Rockets,40.1019523,-88.2271615
+cookda02,"April 28, 1987",2007.0,Daequan Cook,Small Forward,Ohio State University,3341558,2012,2011,Oklahoma City Thunder,40.0068363,-83.0306222
+cookom01,"January 28, 1982",2001.0,Omar Cook,Point Guard,St. John's University,292230,2002,2001,Dallas Mavericks,40.7220627,-73.79421119999999
+couside01,"August 13, 1990",2010.0,DeMarcus Cousins,Center,University of Kentucky,18063850,2018,2017,New Orleans Pelicans,38.0306511,-84.5039697
+crabbal01,"April 9, 1992",2013.0,Allen Crabbe,Shooting Guard,University of California,19332500,2018,2017,Brooklyn Nets,37.8718992,-122.2585399
+crawfja01,"March 20, 1980",2000.0,Jamal Crawford,Shooting Guard,University of Michigan,13253012,2017,2016,Los Angeles Clippers,42.2780436,-83.7382241
+crawfjo02,"October 23, 1988",2010.0,Jordan Crawford,Shooting Guard,Xavier University,2162419,2014,2013,Boston Celtics,39.149448,-84.47363740000002
+crittja01,"December 31, 1987",2007.0,Javaris Crittenton,Shooting Guard,Georgia Institute of Technology,1477920,2010,2009,Washington Wizards,33.7756178,-84.39628499999999
+crowdja01,"July 6, 1990",2012.0,Jae Crowder,Small Forward,Marquette University,6796117,2018,2017,Utah Jazz,43.0388337,-87.92856669999999
+cunnida01,"April 22, 1987",2009.0,Dante Cunningham,Power Forward,Villanova University,3000000,2016,2015,New Orleans Pelicans,40.0378952,-75.34333149999999
+cunnija01,"May 22, 1991",2012.0,Jared Cunningham,Shooting Guard,Oregon State University,1208400,2014,2013,Atlanta Hawks,44.5637806,-123.2794443
+curryja01,"January 7, 1986",2007.0,JamesOn Curry,Point Guard,Oklahoma State University,427163,2008,2007,Chicago Bulls,36.1270236,-97.07372219999999
+curryst01,"March 14, 1988",2009.0,Stephen Curry,Point Guard,Davidson College,34682550,2018,2017,Golden State Warriors,35.5008018,-80.8446725
+dalemsa01,"May 10, 1981",2001.0,Samuel Dalembert,Center,Seton Hall University,13428129,2011,2010,Sacramento Kings,40.7433773,-74.2465446
+davidje01,"November 15, 1984",2007.0,Jermareo Davidson,Small Forward,University of Alabama,427163,2008,2007,Charlotte Bobcats,33.2140233,-87.5391418
+davisan02,"March 11, 1993",2012.0,Anthony Davis,Power Forward,University of Kentucky,23775506,2018,2017,New Orleans Pelicans,38.0306511,-84.5039697
+davisde01,"December 2, 1996",2016.0,Deyonta Davis,Center,Michigan State University,1369229,2017,2016,Memphis Grizzlies,42.701848,-84.4821719
+davised01,"June 5, 1989",2010.0,Ed Davis,Center,University of North Carolina,7000000,2016,2015,Portland Trail Blazers,35.9049122,-79.0469134
+davisgl01,"January 1, 1986",2007.0,Glen Davis,Power Forward,Louisiana State University,6600000,2015,2014,Orlando Magic,30.4132579,-91.1800023
+davispa01,"July 21, 1984",2006.0,Paul Davis,Power Forward,Michigan State University,687456,2008,2007,Los Angeles Clippers,42.701848,-84.4821719
+dawsobr01,"February 1, 1993",2015.0,Branden Dawson,Power Forward,Michigan State University,525093,2016,2015,Los Angeles Clippers,42.701848,-84.4821719
+dayeau01,"June 5, 1988",2009.0,Austin Daye,Small Forward,Gonzaga University,2958077,2013,2012,Memphis Grizzlies,47.66703210000001,-117.4014343
+dekkesa01,"May 6, 1994",2015.0,Sam Dekker,Power Forward,University of Wisconsin,1794600,2018,2017,Los Angeles Clippers,43.076592,-89.4124875
+denglu01,"April 16, 1985",2004.0,Luol Deng,Power Forward,Duke University,18000000,2017,2016,Los Angeles Lakers,36.0014258,-78.9382286
+derozde01,"August 7, 1989",2009.0,DeMar DeRozan,Shooting Guard,University of Southern California,27739975,2018,2017,Toronto Raptors,34.0223519,-118.285117
+diallch01,"September 13, 1996",2016.0,Cheick Diallo,Power Forward,University of Kansas,1312611,2018,2017,New Orleans Pelicans,38.9543439,-95.2557961
+diazgu01,"March 4, 1985",2006.0,Guillermo Diaz,Shooting Guard,University of Miami,56065,2008,2007,Los Angeles Clippers,25.7178924,-80.2746368
+dickada01,"September 16, 1978",2002.0,Dan Dickau,Point Guard,Gonzaga University,2990028,2008,2007,New York Knicks,47.66703210000001,-117.4014343
+dickeka01,"July 21, 1978",2000.0,Kaniel Dickens,Small Forward,University of Idaho,483938,2005,2004,New Jersey Nets,46.7288124,-117.0126084
+dienetr01,"March 1, 1982",2005.0,Travis Diener,Point Guard,Marquette University,1740000,2010,2009,Indiana Pacers,43.0388337,-87.92856669999999
+dienggo01,"January 18, 1990",2013.0,Gorgui Dieng,Center,University of Louisville,14112360,2018,2017,Minnesota Timberwolves,38.2122761,-85.75850229999999
+dinwisp01,"April 6, 1993",2014.0,Spencer Dinwiddie,Point Guard,University of Colorado,1524305,2018,2017,Brooklyn Nets,40.00758099999999,-105.2659417
+dioguik01,"September 11, 1983",2005.0,Ike Diogu,Power Forward,Arizona State University,2912823,2009,2008,Sacramento Kings,33.4242399,-111.9280527
+dixonju01,"October 9, 1978",2002.0,Juan Dixon,Point Guard,University of Maryland,2550000,2008,2007,Detroit Pistons,38.9869183,-76.9425543
+doolike01,"May 8, 1980",2000.0,Keyon Dooling,Shooting Guard,University of Missouri,3596000,2008,2007,Orlando Magic,38.9403808,-92.32773750000001
+dorsejo01,"December 16, 1983",2008.0,Joey Dorsey,Power Forward,University of Memphis,1015421,2016,2015,Denver Nuggets,35.1187498,-89.9374928
+dorsety01,"February 18, 1996",2017.0,Tyler Dorsey,Shooting Guard,University of Oregon,815615,2018,2017,Atlanta Hawks,44.0448302,-123.0726055
+dotsoda01,"May 6, 1994",2017.0,Damyean Dotson,Shooting Guard,University of Houston,1100000,2018,2017,New York Knicks,29.7199489,-95.3422334
+doubyqu01,"May 16, 1984",2006.0,Quincy Douby,Point Guard,Rutgers University,1427040,2009,2008,Sacramento Kings,40.5008186,-74.44739910000001
+douglto01,"March 16, 1986",2009.0,Toney Douglas,Point Guard,Florida State University,2067880,2013,2012,Sacramento Kings,30.4418778,-84.2984889
+douglch01,"January 8, 1987",2008.0,Chris Douglas-Roberts,Small Forward,University of Memphis,915243,2015,2014,Boston Celtics,35.1187498,-89.9374928
+drumman01,"August 10, 1993",2012.0,Andre Drummond,Center,University of Connecticut,23775506,2018,2017,Detroit Pistons,41.8077414,-72.2539805
+dudleja01,"July 10, 1985",2007.0,Jared Dudley,Small Forward,Boston College,10470000,2017,2016,Phoenix Suns,42.3355488,-71.16849450000001
+duhonch01,"August 31, 1982",2004.0,Chris Duhon,Point Guard,Duke University,6031800,2010,2009,New York Knicks,36.0014258,-78.9382286
+dunlemi02,"September 15, 1980",2002.0,Mike Dunleavy,Small Forward,Duke University,10561984,2011,2010,Indiana Pacers,36.0014258,-78.9382286
+dunnkr01,"March 18, 1994",2016.0,Kris Dunn,Point Guard,Providence College,4046760,2018,2017,Chicago Bulls,41.8440925,-71.4381653
+duranke01,"September 29, 1988",2007.0,Kevin Durant,Power Forward,University of Texas at Austin,26540100,2017,2016,Golden State Warriors,30.2849185,-97.7340567
+earlycl01,"April 17, 1991",2014.0,Cleanthony Early,Small Forward,Wichita State University,845059,2016,2015,New York Knicks,37.7186367,-97.29414140000002
+ebankde01,"October 28, 1989",2010.0,Devin Ebanks,Shooting Guard,West Virginia University,1054389,2013,2012,Los Angeles Lakers,39.6480359,-79.9697147
+edwarco01,"March 5, 1979",2002.0,Corsley Edwards,Center,Central Connecticut State University,319498,2005,2004,New Orleans Hornets,41.6929529,-72.7682547
+elamikh01,"April 25, 1979",2000.0,Khalid El-Amin,Point Guard,University of Connecticut,465850,2002,2001,Dallas Mavericks,41.8077414,-72.2539805
+ellenhe01,"January 13, 1997",2016.0,Henry Ellenson,Power Forward,Marquette University,1780800,2018,2017,Detroit Pistons,43.0388337,-87.92856669999999
+ellinwa01,"November 29, 1987",2009.0,Wayne Ellington,Shooting Guard,University of North Carolina,6270000,2018,2017,Miami Heat,35.9049122,-79.0469134
+elyme01,"May 2, 1978",2002.0,Melvin Ely,Power Forward,University of California,3303813,2007,2006,San Antonio Spurs,37.8718992,-122.2585399
+embiijo01,"March 16, 1994",2014.0,Joel Embiid,Center,University of Kansas,6100266,2018,2017,Philadelphia 76ers,38.9543439,-95.2557961
+emmetan01,"August 27, 1982",2004.0,Andre Emmett,Shooting Guard,Texas Tech University,641748,2006,2005,Miami Heat,33.5842591,-101.8782822
+engliki01,"September 24, 1988",2012.0,Kim English,Shooting Guard,University of Missouri,473604,2013,2012,Detroit Pistons,38.9403808,-92.32773750000001
+ennisja01,"July 1, 1990",2013.0,James Ennis,Small Forward,University of California,3028410,2018,2017,Detroit Pistons,37.8718992,-122.2585399
+ennisty01,"August 24, 1994",2014.0,Tyler Ennis,Point Guard,Syracuse University,1733880,2017,2016,Los Angeles Lakers,43.0391534,-76.1351158
+evansja01,"July 26, 1996",2017.0,Jawun Evans,Point Guard,Oklahoma State University,815615,2018,2017,Los Angeles Clippers,36.1270236,-97.07372219999999
+evansje01,"October 24, 1987",2010.0,Jeremy Evans,Power Forward,Western Kentucky University,1794872,2013,2012,Utah Jazz,36.983537,-86.4573752
+evansty01,"September 19, 1989",2009.0,Tyreke Evans,Small Forward,University of Memphis,11227000,2016,2015,New Orleans Pelicans,35.1187498,-89.9374928
+ewingda01,"March 26, 1983",2005.0,Daniel Ewing,Shooting Guard,Duke University,664209,2007,2006,Los Angeles Clippers,36.0014258,-78.9382286
+ezelife01,"October 21, 1989",2012.0,Festus Ezeli,Center,Vanderbilt University,7400000,2017,2016,Portland Trail Blazers,36.1447034,-86.8026551
+farieke01,"November 19, 1989",2011.0,Kenneth Faried,Center,Morehead State University,12921348,2018,2017,Denver Nuggets,38.1886162,-83.4315122
+farmajo01,"November 30, 1986",2006.0,Jordan Farmar,Point Guard,University of California,4000000,2012,2011,New Jersey Nets,37.8718992,-122.2585399
+favorde01,"July 15, 1991",2010.0,Derrick Favors,Center,Georgia Institute of Technology,12833333,2015,2014,Utah Jazz,33.7756178,-84.39628499999999
+fazekni01,"June 17, 1985",2007.0,Nick Fazekas,Power Forward,University of Nevada,427163,2008,2007,Dallas Mavericks,39.5441917,-119.816397
+felixca01,"August 17, 1990",2013.0,Carrick Felix,Shooting Guard,Arizona State University,816482,2015,2014,Utah Jazz,33.4242399,-111.9280527
+feltora01,"June 26, 1984",2005.0,Raymond Felton,Point Guard,University of North Carolina,7560000,2012,2011,Portland Trail Blazers,35.9049122,-79.0469134
+fieldla01,"June 27, 1988",2010.0,Landry Fields,Shooting Guard,Stanford University,6250000,2015,2014,Toronto Raptors,37.4274745,-122.169719
+fizerma01,"August 10, 1978",2000.0,Marcus Fizer,Small Forward,Iowa State University,3726994,2004,2003,Chicago Bulls,42.0266187,-93.6464654
+florelu01,"April 11, 1981",2004.0,Luis Flores,Point Guard,Manhattan College,385277,2005,2004,Golden State Warriors,40.88978230000001,-73.9027188
+flynnjo01,"February 6, 1989",2009.0,Jonny Flynn,Point Guard,Syracuse University,3414720,2012,2011,Houston Rockets,43.0391534,-76.1351158
+fordal02,"May 29, 1981",2001.0,Alton Ford,Power Forward,University of Houston,586082,2004,2003,Houston Rockets,29.7199489,-95.3422334
+fordtj01,"March 24, 1983",2003.0,T.J. Ford,Point Guard,University of Texas at Austin,8500000,2011,2010,Indiana Pacers,30.2849185,-97.7340567
+fortejo01,"March 23, 1981",2001.0,Joseph Forte,Shooting Guard,University of North Carolina,1080360,2004,2003,Seattle SuperSonics,35.9049122,-79.0469134
+foxde01,"December 20, 1997",2017.0,De'Aaron Fox,Point Guard,University of Kentucky,4609200,2018,2017,Sacramento Kings,38.0306511,-84.5039697
+foyera01,"September 24, 1983",2006.0,Randy Foye,Point Guard,Villanova University,4250000,2012,2011,Los Angeles Clippers,40.0378952,-75.34333149999999
+frankja01,"July 21, 1991",2013.0,Jamaal Franklin,Shooting Guard,San Diego State University,163296,2018,2017,Memphis Grizzlies,32.7759894,-117.0712533
+fredeji01,"February 25, 1989",2011.0,Jimmer Fredette,Shooting Guard,Brigham Young University,2439840,2014,2013,Sacramento Kings,40.2518435,-111.6493156
+freijma01,"October 2, 1981",2004.0,Matt Freije,Power Forward,Vanderbilt University,352388,2005,2004,New Orleans Hornets,36.1447034,-86.8026551
+fryech01,"May 17, 1983",2005.0,Channing Frye,Center,University of Arizona,8175476,2015,2014,Orlando Magic,32.2318851,-110.9501094
+fultzma01,"May 29, 1998",2017.0,Markelle Fultz,Shooting Guard,University of Washington,7026240,2018,2017,Philadelphia 76ers,47.6912794,-122.3176141
+gadzuda01,"February 2, 1978",2002.0,Dan Gadzuric,Center,University of California,7248325,2011,2010,New Jersey Nets,37.8718992,-122.2585399
+gainere01,"January 7, 1981",2003.0,Reece Gaines,Point Guard,University of Louisville,1556160,2006,2005,Milwaukee Bucks,38.2122761,-85.75850229999999
+garcifr01,"December 31, 1981",2005.0,Francisco Garcia,Small Forward,University of Louisville,6100000,2013,2012,Houston Rockets,38.2122761,-85.75850229999999
+gayru01,"August 17, 1986",2006.0,Rudy Gay,Power Forward,University of Connecticut,19317325,2015,2014,Sacramento Kings,41.8077414,-72.2539805
+gbinimi01,"June 5, 1992",2016.0,Michael Gbinije,Shooting Guard,Syracuse University,650000,2017,2016,Detroit Pistons,43.0391534,-76.1351158
+georgpa01,"May 2, 1990",2010.0,Paul George,Small Forward,University of California,19508958,2018,2017,Oklahoma City Thunder,37.8718992,-122.2585399
+gibsoda01,"February 27, 1986",2006.0,Daniel Gibson,Shooting Guard,University of Texas at Austin,4792332,2013,2012,Cleveland Cavaliers,30.2849185,-97.7340567
+gibsota01,"June 24, 1985",2009.0,Taj Gibson,Power Forward,University of Southern California,14000000,2018,2017,Minnesota Timberwolves,34.0223519,-118.285117
+giddejr01,"February 13, 1985",2008.0,J.R. Giddens,Small Forward,University of New Mexico,1028880,2010,2009,New York Knicks,35.0843187,-106.6197812
+gilesha01,"April 22, 1998",2017.0,Harry Giles,Power Forward,Duke University,1859400,2018,2017,Sacramento Kings,36.0014258,-78.9382286
+gomesry01,"September 1, 1982",2005.0,Ryan Gomes,Power Forward,Providence College,4000000,2013,2012,Los Angeles Clippers,41.8440925,-71.4381653
+goodedr01,"September 24, 1981",2002.0,Drew Gooden,Small Forward,University of Kansas,7151183,2009,2008,Sacramento Kings,38.9543439,-95.2557961
+goodwar01,"August 17, 1994",2013.0,Archie Goodwin,Point Guard,University of Kentucky,2094089,2017,2016,Phoenix Suns,38.0306511,-84.5039697
+gordoaa01,"September 16, 1995",2014.0,Aaron Gordon,Power Forward,University of Arizona,5504420,2018,2017,Orlando Magic,32.2318851,-110.9501094
+gordobe01,"April 4, 1983",2004.0,Ben Gordon,Shooting Guard,University of Connecticut,13200000,2014,2013,Charlotte Bobcats,41.8077414,-72.2539805
+gordoer01,"December 25, 1988",2008.0,Eric Gordon,Shooting Guard,Indiana University,15514031,2016,2015,New Orleans Pelicans,39.1754487,-86.512627
+goudean01,"December 7, 1988",2011.0,Andrew Goudelock,Point Guard,College of Charleston,473604,2012,2011,Los Angeles Lakers,32.7834441,-79.93700179999999
+grahajo01,"June 11, 1982",2005.0,Joey Graham,Small Forward,Oklahoma State University,2449184,2009,2008,Toronto Raptors,36.1270236,-97.07372219999999
+grangda01,"April 20, 1983",2005.0,Danny Granger,Small Forward,University of New Mexico,14021788,2014,2013,Philadelphia 76ers,35.0843187,-106.6197812
+grantje01,"March 12, 1994",2014.0,Jerami Grant,Small Forward,Syracuse University,1524305,2018,2017,Oklahoma City Thunder,43.0391534,-76.1351158
+grantje02,"October 9, 1992",2015.0,Jerian Grant,Point Guard,University of Notre Dame,1713840,2018,2017,Chicago Bulls,41.7055716,-86.2353388
+grayaa01,"December 7, 1984",2007.0,Aaron Gray,Center,University of Pittsburgh,2690875,2014,2013,Toronto Raptors,40.4443533,-79.960835
+greenda02,"June 22, 1987",2009.0,Danny Green,Shooting Guard,University of North Carolina,10000000,2018,2017,San Antonio Spurs,35.9049122,-79.0469134
+greendr01,"March 4, 1990",2012.0,Draymond Green,Small Forward,Michigan State University,16400000,2018,2017,Golden State Warriors,42.701848,-84.4821719
+greener01,"May 9, 1991",2013.0,Erick Green,Point Guard,Virginia Polytechnic Institute and State University,507336,2015,2014,Denver Nuggets,37.22838429999999,-80.42341669999999
+greenje02,"August 28, 1986",2007.0,Jeff Green,Small Forward,Georgetown University,15000000,2017,2016,Orlando Magic,38.9076089,-77.07225849999999
+greenta01,"November 28, 1986",2007.0,Taurean Green,Shooting Guard,University of Florida,427163,2008,2007,Denver Nuggets,29.6436325,-82.3549302
+greenwi01,"July 28, 1981",2003.0,Willie Green,Shooting Guard,University of Detroit Mercy,3976000,2011,2010,New Orleans Hornets,42.4141556,-83.1379932
+greendo01,"February 21, 1988",2008.0,Donte Greene,Small Forward,Syracuse University,2015896,2012,2011,Sacramento Kings,43.0391534,-76.1351158
+greenor01,"February 4, 1982",2005.0,Orien Greene,Point Guard,University of Louisiana at Lafayette,664209,2007,2006,Indiana Pacers,30.2114404,-92.0204121
+griffbl01,"March 16, 1989",2009.0,Blake Griffin,Power Forward,University of Oklahoma,29727900,2018,2017,Detroit Pistons,35.2058936,-97.4457137
+griffed01,"May 30, 1982",2001.0,Eddie Griffin,Power Forward,Seton Hall University,2900000,2008,2007,Minnesota Timberwolves,40.7433773,-74.2465446
+griffta01,"April 18, 1986",2009.0,Taylor Griffin,Small Forward,University of Oklahoma,457588,2010,2009,Phoenix Suns,35.2058936,-97.4457137
+guytoaj01,"February 12, 1978",2000.0,A.J. Guyton,Point Guard,Indiana University,465850,2002,2001,Chicago Bulls,39.1754487,-86.512627
+hairsma01,"February 23, 1987",2008.0,Malik Hairston,Shooting Guard,University of Oregon,736420,2010,2009,San Antonio Spurs,44.0448302,-123.0726055
+hairspj02,"December 24, 1992",2014.0,P.J. Hairston,Small Forward,University of North Carolina,1201440,2016,2015,Memphis Grizzlies,35.9049122,-79.0469134
+haislma01,"December 22, 1980",2002.0,Marcus Haislip,Power Forward,University of Tennessee,1547280,2004,2003,Milwaukee Bucks,35.9544013,-83.92945639999999
+hamiljo02,"October 6, 1990",2011.0,Jordan Hamilton,Small Forward,University of Texas at Austin,1169880,2014,2013,Denver Nuggets,30.2849185,-97.7340567
+hamilju01,"April 1, 1990",2012.0,Justin Hamilton,Center,Louisiana State University,3000000,2017,2016,Brooklyn Nets,30.4132579,-91.1800023
+hammoaj01,"August 27, 1992",2016.0,A.J. Hammons,Center,Purdue University,1312611,2018,2017,Miami Heat,40.4237054,-86.92119459999999
+hansbty01,"November 3, 1985",2009.0,Tyler Hansbrough,Power Forward,University of North Carolina,3326235,2015,2014,Toronto Raptors,35.9049122,-79.0469134
+hansetr01,"April 15, 1978",2003.0,Travis Hansen,Small Forward,Brigham Young University,366931,2004,2003,Atlanta Hawks,40.2518435,-111.6493156
+haranlu01,"January 2, 1988",2010.0,Luke Harangody,Power Forward,University of Notre Dame,1054389,2013,2012,Cleveland Cavaliers,41.7055716,-86.2353388
+hardati02,"March 16, 1992",2013.0,Tim Hardaway Jr.,Shooting Guard,University of Michigan,16500000,2018,2017,New York Knicks,42.2780436,-83.7382241
+hardeja01,"August 26, 1989",2009.0,James Harden,Shooting Guard,Arizona State University,28299399,2018,2017,Houston Rockets,33.4242399,-111.9280527
+harklma01,"May 11, 1993",2012.0,Maurice Harkless,Small Forward,St. John's University,10162922,2018,2017,Portland Trail Blazers,40.7220627,-73.79421119999999
+harpeju01,"August 30, 1989",2011.0,Justin Harper,Power Forward,University of Richmond,762195,2013,2012,Orlando Magic,37.5751669,-77.5407146
+harremo01,"January 26, 1994",2015.0,Montrezl Harrell,Power Forward,University of Louisville,1471382,2018,2017,Los Angeles Clippers,38.2122761,-85.75850229999999
+harrejo01,"February 12, 1989",2011.0,Josh Harrellson,Power Forward,University of Kentucky,884293,2014,2013,Detroit Pistons,38.0306511,-84.5039697
+harride01,"February 27, 1983",2004.0,Devin Harris,Point Guard,University of Wisconsin,9319000,2012,2011,Utah Jazz,43.076592,-89.4124875
+harriga01,"September 14, 1994",2014.0,Gary Harris,Shooting Guard,Michigan State University,2550055,2018,2017,Denver Nuggets,42.701848,-84.4821719
+harrijo01,"September 6, 1991",2014.0,Joe Harris,Shooting Guard,University of Virginia,1524305,2018,2017,Brooklyn Nets,38.0335529,-78.5079772
+harrito02,"July 15, 1992",2011.0,Tobias Harris,Power Forward,University of Tennessee,17200000,2017,2016,Detroit Pistons,35.9544013,-83.92945639999999
+harrian01,"October 28, 1994",2015.0,Andrew Harrison,Point Guard,University of Kentucky,1312611,2018,2017,Memphis Grizzlies,38.0306511,-84.5039697
+harrida01,"August 15, 1982",2004.0,David Harrison,Center,University of Colorado,1734316,2008,2007,Indiana Pacers,40.00758099999999,-105.2659417
+hartja01,"April 29, 1978",2000.0,Jason Hart,Point Guard,Syracuse University,2484000,2009,2008,Los Angeles Clippers,43.0391534,-76.1351158
+hartjo01,"March 6, 1995",2017.0,Josh Hart,Shooting Guard,Villanova University,1394520,2018,2017,Los Angeles Lakers,40.0378952,-75.34333149999999
+harvedo01,"August 26, 1980",2000.0,Donnell Harvey,Power Forward,University of Florida,992040,2003,2002,Denver Nuggets,29.6436325,-82.3549302
+hassetr01,"March 4, 1979",2001.0,Trenton Hassell,Shooting Guard,Austin Peay State University,4350000,2010,2009,New Jersey Nets,36.53498,-87.3548855
+hastoki01,"March 10, 1979",2001.0,Kirk Haston,Power Forward,Indiana University,1360080,2004,2003,New Orleans Hornets,39.1754487,-86.512627
+hawessp01,"April 28, 1988",2007.0,Spencer Hawes,Power Forward,University of Washington,8500000,2013,2012,Philadelphia 76ers,47.6912794,-122.3176141
+hayesja01,"August 9, 1981",2003.0,Jarvis Hayes,Shooting Guard,University of Georgia,2564127,2007,2006,Washington Wizards,33.9480053,-83.3773221
+haywago01,"March 23, 1990",2010.0,Gordon Hayward,Power Forward,Butler University,29727900,2018,2017,Boston Celtics,39.8405491,-86.1708927
+haywala01,"November 26, 1986",2010.0,Lazar Hayward,Small Forward,Marquette University,1174080,2013,2012,Houston Rockets,43.0388337,-87.92856669999999
+haywobr01,"November 27, 1979",2001.0,Brendan Haywood,Center,University of North Carolina,7798000,2015,2014,Dallas Mavericks,35.9049122,-79.0469134
+headlu01,"November 26, 1982",2005.0,Luther Head,Point Guard,University of Illinois at Urbana-Champaign,1962378,2009,2008,Houston Rockets,40.1019523,-88.2271615
+hendege02,"December 9, 1987",2009.0,Gerald Henderson,Shooting Guard,Duke University,9000000,2017,2016,Philadelphia 76ers,36.0014258,-78.9382286
+henryxa01,"March 15, 1991",2010.0,Xavier Henry,Small Forward,University of Kansas,2323200,2013,2012,New Orleans Hornets,38.9543439,-95.2557961
+hensojo01,"December 28, 1990",2012.0,John Henson,Center,University of North Carolina,12517606,2017,2016,Milwaukee Bucks,35.9049122,-79.0469134
+hibbero01,"December 11, 1986",2008.0,Roy Hibbert,Center,Georgetown University,15500000,2016,2015,Los Angeles Lakers,38.9076089,-77.07225849999999
+hicksjj01,"September 4, 1988",2008.0,J.J. Hickson,Center,North Carolina State University,5613500,2016,2015,Denver Nuggets,35.7846633,-78.6820946
+hieldbu01,"December 17, 1992",2016.0,Buddy Hield,Shooting Guard,University of Oklahoma,3675480,2018,2017,Sacramento Kings,35.2058936,-97.4457137
+hillge01,"May 4, 1986",2008.0,George Hill,Point Guard,Indiana University-Purdue University Indianapolis,20000000,2018,2017,Cleveland Cavaliers,39.7743174,-86.1764194
+hilljo01,"July 27, 1987",2009.0,Jordan Hill,Center,University of Arizona,9000000,2015,2014,Los Angeles Lakers,32.2318851,-110.9501094
+hillso01,"March 18, 1991",2013.0,Solomon Hill,Small Forward,University of Arizona,12236535,2018,2017,New Orleans Pelicans,32.2318851,-110.9501094
+hinriki01,"January 2, 1981",2003.0,Kirk Hinrich,Point Guard,University of Kansas,11250000,2008,2007,Chicago Bulls,38.9543439,-95.2557961
+hobsoda01,"September 29, 1987",2010.0,Darington Hobson,Shooting Guard,University of New Mexico,245884,2012,2011,Milwaukee Bucks,35.0843187,-106.6197812
+hodgeju01,"November 18, 1983",2005.0,Julius Hodge,Shooting Guard,North Carolina State University,1234800,2007,2006,Milwaukee Bucks,35.7846633,-78.6820946
+holcora01,"August 8, 1979",2002.0,Randy Holcomb,Small Forward,University of California,52033,2006,2005,Chicago Bulls,37.8718992,-122.2585399
+holidjr01,"June 12, 1990",2009.0,Jrue Holiday,Point Guard,University of California,25686667,2018,2017,New Orleans Pelicans,37.8718992,-122.2585399
+holliry01,"October 10, 1984",2006.0,Ryan Hollins,Center,University of California,2483333,2012,2011,Cleveland Cavaliers,37.8718992,-122.2585399
+holliro01,"January 3, 1995",2015.0,Rondae Hollis-Jefferson,Small Forward,University of Arizona,1471382,2018,2017,Brooklyn Nets,32.2318851,-110.9501094
+holmeri01,"October 15, 1993",2015.0,Richaun Holmes,Center,Bowling Green State University,1471382,2018,2017,Philadelphia 76ers,41.3797788,-83.6300826
+honeyty01,"July 15, 1990",2011.0,Tyler Honeycutt,Small Forward,University of California,809875,2013,2012,Houston Rockets,37.8718992,-122.2585399
+hoodro01,"October 20, 1992",2014.0,Rodney Hood,Shooting Guard,Duke University,2386864,2018,2017,Cleveland Cavaliers,36.0014258,-78.9382286
+horfoal01,"June 3, 1986",2007.0,Al Horford,Center,University of Florida,27734405,2018,2017,Boston Celtics,29.6436325,-82.3549302
+houseed01,"May 14, 1978",2000.0,Eddie House,Shooting Guard,Arizona State University,2862000,2010,2009,New York Knicks,33.4242399,-111.9280527
+howarjo01,"April 28, 1980",2003.0,Josh Howard,Small Forward,Wake Forest University,10890000,2010,2009,Washington Wizards,36.1355052,-80.2791958
+hudsole01,"August 7, 1984",2009.0,Lester Hudson,Shooting Guard,University of Tennessee at Martin,199185,2010,2009,Memphis Grizzlies,36.343177,-88.86445379999999
+huestjo01,"December 19, 1991",2014.0,Josh Huestis,Power Forward,Stanford University,1471382,2018,2017,Oklahoma City Thunder,37.4274745,-122.169719
+hummero01,"March 8, 1989",2012.0,Robbie Hummel,Small Forward,Purdue University,880000,2015,2014,Minnesota Timberwolves,40.4237054,-86.92119459999999
+humphry01,"July 24, 1979",2002.0,Ryan Humphrey,Power Forward,University of Notre Dame,1223160,2005,2004,Memphis Grizzlies,41.7055716,-86.2353388
+humphkr01,"February 6, 1985",2004.0,Kris Humphries,Small Forward,University of Minnesota,12000000,2014,2013,Boston Celtics,44.97399,-93.2277285
+huntebr01,"November 24, 1980",2003.0,Brandon Hunter,Power Forward,Ohio University,620046,2005,2004,Orlando Magic,39.324358,-82.10138889999999
+huntest01,"October 31, 1981",2001.0,Steven Hunter,Power Forward,DePaul University,3862600,2009,2008,Denver Nuggets,41.9247559,-87.6566465
+iguodan01,"January 28, 1984",2004.0,Andre Iguodala,Small Forward,University of Arizona,14968250,2013,2012,Denver Nuggets,32.2318851,-110.9501094
+ingrabr01,"September 2, 1997",2016.0,Brandon Ingram,Small Forward,Duke University,5519400,2018,2017,Los Angeles Lakers,36.0014258,-78.9382286
+irvinky01,"March 23, 1992",2011.0,Kyrie Irving,Point Guard,Duke University,18868625,2018,2017,Boston Celtics,36.0014258,-78.9382286
+isaacjo01,"October 3, 1997",2017.0,Jonathan Isaac,Power Forward,Florida State University,4186320,2018,2017,Orlando Magic,30.4418778,-84.2984889
+iveyro01,"December 20, 1981",2004.0,Royal Ivey,Shooting Guard,University of Texas at Austin,1223166,2013,2012,Philadelphia 76ers,30.2849185,-97.7340567
+iwundwe01,"December 20, 1994",2017.0,Wesley Iwundu,Small Forward,Kansas State University,1050000,2018,2017,Orlando Magic,39.1974437,-96.5847249
+jackja01,"October 28, 1983",2005.0,Jarrett Jack,Shooting Guard,Georgia Institute of Technology,6300000,2016,2015,Brooklyn Nets,33.7756178,-84.39628499999999
+jacksda01,"November 7, 1985",2008.0,Darnell Jackson,Power Forward,University of Kansas,854389,2011,2010,Sacramento Kings,38.9543439,-95.2557961
+jacksfr01,"May 4, 1998",2017.0,Frank Jackson,Point Guard,Duke University,815615,2018,2017,New Orleans Pelicans,36.0014258,-78.9382286
+jacksjo02,"February 10, 1997",2017.0,Josh Jackson,Small Forward,University of Kansas,5090040,2018,2017,Phoenix Suns,38.9543439,-95.2557961
+jacksju01,"March 28, 1995",2017.0,Justin Jackson,Small Forward,University of North Carolina,2365560,2018,2017,Sacramento Kings,35.9049122,-79.0469134
+jackslu02,"November 6, 1981",2004.0,Luke Jackson,Small Forward,University of Oregon,2091480,2007,2006,Boston Celtics,44.0448302,-123.0726055
+jackspi01,"August 29, 1991",2013.0,Pierre Jackson,Point Guard,Baylor University,750000,2016,2015,Philadelphia 76ers,31.5469132,-97.1210998
+jacksre01,"April 16, 1990",2011.0,Reggie Jackson,Point Guard,Boston College,16000000,2018,2017,Detroit Pistons,42.3355488,-71.16849450000001
+jacobca01,"March 19, 1981",2002.0,Casey Jacobsen,Shooting Guard,Stanford University,1082160,2005,2004,Phoenix Suns,37.4274745,-122.169719
+jamesbe01,"February 7, 1985",2012.0,Bernard James,Center,Florida State University,915243,2015,2014,Dallas Mavericks,30.4418778,-84.2984889
+jamesda01,"October 7, 1987",2010.0,Damion James,Small Forward,University of Texas at Austin,1243080,2012,2011,New Jersey Nets,30.2849185,-97.7340567
+jawaina01,"October 10, 1986",2008.0,Nathan Jawai,Power Forward,Midland College,736420,2010,2009,Minnesota Timberwolves,32.0304457,-102.1061597
+jeffech01,"February 13, 1980",2002.0,Chris Jefferies,Shooting Guard,California State University,840360,2004,2003,Chicago Bulls,34.0667698,-118.1684392
+jeffeco01,"December 26, 1990",2014.0,Cory Jefferson,Power Forward,Baylor University,507336,2015,2014,Brooklyn Nets,31.5469132,-97.1210998
+jefferi01,"June 21, 1980",2001.0,Richard Jefferson,Small Forward,University of Arizona,14200000,2010,2009,San Antonio Spurs,32.2318851,-110.9501094
+jeffrja01,"November 25, 1981",2002.0,Jared Jeffries,Small Forward,Indiana University,6883800,2011,2010,Houston Rockets,39.1754487,-86.512627
+jenkich01,"February 28, 1989",2011.0,Charles Jenkins,Point Guard,Hofstra University,762195,2013,2012,Philadelphia 76ers,40.7166872,-73.5993965
+jenkijo01,"March 6, 1991",2012.0,John Jenkins,Shooting Guard,Vanderbilt University,1312920,2015,2014,Atlanta Hawks,36.1447034,-86.8026551
+jerregr01,"July 8, 1993",2013.0,Grant Jerrett,Power Forward,University of Arizona,947276,2016,2015,Utah Jazz,32.2318851,-110.9501094
+johnsal01,"February 8, 1983",2006.0,Alexander Johnson,Power Forward,Florida State University,687456,2008,2007,Miami Heat,30.4418778,-84.2984889
+johnsar02,"February 23, 1989",2010.0,Armon Johnson,Point Guard,University of Nevada,762195,2012,2011,Portland Trail Blazers,39.5441917,-119.816397
+johnsbr02,"June 27, 1994",2016.0,Brice Johnson,Power Forward,University of North Carolina,1331160,2018,2017,Memphis Grizzlies,35.9049122,-79.0469134
+johnsda04,"September 22, 1995",2015.0,Dakari Johnson,Center,University of Kentucky,815615,2018,2017,Oklahoma City Thunder,38.0306511,-84.5039697
+johnsde03,"May 5, 1980",2000.0,DerMarr Johnson,Shooting Guard,University of Cincinnati,2423280,2003,2002,Atlanta Hawks,39.1329219,-84.51495039999999
+johnsja02,"February 8, 1989",2011.0,JaJuan Johnson,Power Forward,Purdue University,1120440,2013,2012,Houston Rockets,40.4237054,-86.92119459999999
+johnsja01,"February 20, 1987",2009.0,James Johnson,Power Forward,Wake Forest University,13954000,2018,2017,Miami Heat,36.1355052,-80.2791958
+johnsjo02,"June 29, 1981",2001.0,Joe Johnson,Shooting Guard,University of Arkansas,24894863,2016,2015,Brooklyn Nets,36.0686895,-94.1748471
+johnske03,"February 1, 1978",2001.0,Ken Johnson,Center,Ohio State University,349458,2003,2002,Miami Heat,40.0068363,-83.0306222
+johnsni01,"December 22, 1992",2014.0,Nick Johnson,Shooting Guard,University of Arizona,980431,2017,2016,Denver Nuggets,32.2318851,-110.9501094
+johnsor01,"March 11, 1989",2012.0,Orlando Johnson,Shooting Guard,University of California,788872,2014,2013,Indiana Pacers,37.8718992,-122.2585399
+johnsst04,"May 29, 1996",2015.0,Stanley Johnson,Small Forward,University of Arizona,3097800,2018,2017,Detroit Pistons,32.2318851,-110.9501094
+johnswe01,"July 11, 1987",2010.0,Wesley Johnson,Shooting Guard,Syracuse University,5881260,2018,2017,Los Angeles Clippers,43.0391534,-76.1351158
+johnsda03,"September 28, 1989",2012.0,Darius Johnson-Odom,Shooting Guard,Marquette University,192228,2013,2012,Los Angeles Lakers,43.0388337,-87.92856669999999
+jonesal01,"September 9, 1978",2001.0,Alvin Jones,Center,Georgia Institute of Technology,332817,2002,2001,Philadelphia 76ers,33.7756178,-84.39628499999999
+jonesbo02,"January 9, 1984",2006.0,Bobby Jones,Small Forward,University of Washington,687456,2008,2007,Denver Nuggets,47.6912794,-122.3176141
+jonesda02,"December 27, 1980",2003.0,Dahntay Jones,Small Forward,Duke University,2900000,2013,2012,Atlanta Hawks,36.0014258,-78.9382286
+jonesda03,"June 30, 1995",2016.0,Damian Jones,Center,Vanderbilt University,1312611,2018,2017,Golden State Warriors,36.1447034,-86.8026551
+jonesdo02,"October 15, 1988",2010.0,Dominique Jones,Point Guard,University of South Florida,1276560,2013,2012,Dallas Mavericks,28.0587031,-82.41385389999999
+jonesfr01,"March 11, 1979",2002.0,Fred Jones,Small Forward,University of Oregon,3300000,2008,2007,New York Knicks,44.0448302,-123.0726055
+jonesja02,"October 4, 1980",2003.0,James Jones,Shooting Guard,University of Miami,4320000,2010,2009,Miami Heat,25.7178924,-80.2746368
+jonespe01,"September 24, 1991",2012.0,Perry Jones,Small Forward,Baylor University,2038206,2016,2015,Boston Celtics,31.5469132,-97.1210998
+jonesso01,"July 16, 1984",2006.0,Solomon Jones,Center,University of South Florida,1620000,2010,2009,Indiana Pacers,28.0587031,-82.41385389999999
+joneste01,"January 9, 1992",2012.0,Terrence Jones,Power Forward,University of Kentucky,2489530,2016,2015,Houston Rockets,38.0306511,-84.5039697
+jonesty01,"May 10, 1996",2015.0,Tyus Jones,Point Guard,Duke University,1471382,2018,2017,Minnesota Timberwolves,36.0014258,-78.9382286
+jordade01,"July 21, 1988",2008.0,DeAndre Jordan,Center,Texas A&M University,22642350,2018,2017,Los Angeles Clippers,30.6090918,-96.3337124
+jordaje01,"September 29, 1986",2010.0,Jerome Jordan,Center,University of Tulsa,915243,2015,2014,Brooklyn Nets,36.1520526,-95.94607529999999
+josepco01,"August 20, 1991",2011.0,Cory Joseph,Point Guard,University of Texas at Austin,7630000,2018,2017,Indiana Pacers,30.2849185,-97.7340567
+josepkr01,"December 17, 1988",2012.0,Kris Joseph,Small Forward,Syracuse University,189442,2013,2012,Boston Celtics,43.0391534,-76.1351158
+kamanch01,"April 28, 1982",2003.0,Chris Kaman,Center,Central Michigan University,14030000,2012,2011,New Orleans Hornets,43.5819086,-84.7756364
+kaminfr01,"April 4, 1993",2015.0,Frank Kaminsky,Center,University of Wisconsin,2847600,2018,2017,Charlotte Hornets,43.076592,-89.4124875
+kaponja01,"February 4, 1981",2003.0,Jason Kapono,Small Forward,University of California,6641440,2011,2010,Philadelphia 76ers,37.8718992,-122.2585399
+kaunsa01,"May 8, 1985",2008.0,Sasha Kaun,Center,University of Kansas,1333420,2017,2016,Philadelphia 76ers,38.9543439,-95.2557961
+kellyry01,"April 9, 1991",2013.0,Ryan Kelly,Power Forward,Duke University,1724250,2016,2015,Los Angeles Lakers,36.0014258,-78.9382286
+kennalu01,"June 24, 1996",2017.0,Luke Kennard,Shooting Guard,Duke University,2759280,2018,2017,Detroit Pistons,36.0014258,-78.9382286
+kiddgmi01,"September 26, 1993",2012.0,Michael Kidd-Gilchrist,Small Forward,University of Kentucky,13000000,2018,2017,Charlotte Hornets,38.0306511,-84.5039697
+kleizli01,"January 3, 1985",2005.0,Linas Kleiza,Small Forward,University of Missouri,4995000,2011,2010,Toronto Raptors,38.9403808,-92.32773750000001
+knighbr03,"December 2, 1991",2011.0,Brandon Knight,Point Guard,University of Kentucky,13618750,2018,2017,Phoenix Suns,38.0306511,-84.5039697
+korveky01,"March 17, 1981",2003.0,Kyle Korver,Small Forward,Creighton University,7000000,2018,2017,Cleveland Cavaliers,41.2655521,-95.94638619999999
+koufoko01,"February 24, 1989",2008.0,Kosta Koufos,Center,Ohio State University,8393000,2018,2017,Sacramento Kings,40.0068363,-83.0306222
+kuzmaky01,"July 24, 1995",2017.0,Kyle Kuzma,Power Forward,University of Utah,1423560,2018,2017,Los Angeles Lakers,40.7649368,-111.8421021
+labissk01,"March 18, 1996",2016.0,Skal Labissiere,Power Forward,University of Kentucky,1312611,2018,2017,Sacramento Kings,38.0306511,-84.5039697
+lambdo01,"November 6, 1991",2012.0,Doron Lamb,Shooting Guard,University of Kentucky,788872,2014,2013,Orlando Magic,38.0306511,-84.5039697
+lambje01,"May 30, 1992",2012.0,Jeremy Lamb,Small Forward,University of Connecticut,7000000,2018,2017,Charlotte Hornets,41.8077414,-72.2539805
+lamplse01,"September 3, 1979",2001.0,Sean Lampley,Small Forward,University of California,349458,2003,2002,Miami Heat,37.8718992,-122.2585399
+landrca01,"September 19, 1983",2007.0,Carl Landry,Power Forward,Purdue University,8500000,2012,2011,New Orleans Hornets,40.4237054,-86.92119459999999
+langhda01,"November 28, 1977",2000.0,Dan Langhi,Small Forward,Vanderbilt University,587435,2003,2002,Phoenix Suns,36.1447034,-86.8026551
+larkish01,"October 2, 1992",2013.0,Shane Larkin,Point Guard,University of Miami,1606080,2015,2014,New York Knicks,25.7178924,-80.2746368
+lasmest01,"December 17, 1982",2007.0,Stephane Lasme,Power Forward,University of Massachusetts Amherst,48056,2008,2007,Golden State Warriors,42.3867598,-72.5300515
+lavinza01,"March 10, 1995",2014.0,Zach LaVine,Point Guard,University of California,3202217,2018,2017,Chicago Bulls,37.8718992,-122.2585399
+lawac01,"January 25, 1985",2007.0,Acie Law,Point Guard,Texas A&M University,2216160,2010,2009,Chicago Bulls,30.6090918,-96.3337124
+lawalga01,"November 7, 1988",2010.0,Gani Lawal,Power Forward,Georgia Institute of Technology,473640,2011,2010,Phoenix Suns,33.7756178,-84.39628499999999
+lawsoty01,"November 3, 1987",2009.0,Ty Lawson,Point Guard,University of North Carolina,12404495,2016,2015,Houston Rockets,35.9049122,-79.0469134
+laymaja01,"March 7, 1994",2016.0,Jake Layman,Small Forward,University of Maryland,1312611,2018,2017,Portland Trail Blazers,38.9869183,-76.9425543
+leaftj01,"April 30, 1997",2017.0,T.J. Leaf,Power Forward,University of California,2028360,2018,2017,Indiana Pacers,37.8718992,-122.2585399
+leeco01,"October 3, 1985",2008.0,Courtney Lee,Shooting Guard,Western Kentucky University,11747890,2018,2017,New York Knicks,36.983537,-86.4573752
+leeda02,"April 29, 1983",2005.0,David Lee,Power Forward,University of Florida,15493680,2016,2015,Boston Celtics,29.6436325,-82.3549302
+leema01,"May 22, 1990",2011.0,Malcolm Lee,Shooting Guard,University of California,884293,2014,2013,Phoenix Suns,37.8718992,-122.2585399
+lenal01,"June 16, 1993",2013.0,Alex Len,Center,University of Maryland,4823621,2017,2016,Phoenix Suns,38.9869183,-76.9425543
+leonaka01,"June 29, 1991",2011.0,Kawhi Leonard,Small Forward,San Diego State University,18868625,2018,2017,San Antonio Spurs,32.7759894,-117.0712533
+leoname01,"February 27, 1992",2012.0,Meyers Leonard,Power Forward,University of Illinois at Urbana-Champaign,9904495,2018,2017,Portland Trail Blazers,40.1019523,-88.2271615
+leslitr01,"March 29, 1990",2011.0,Travis Leslie,Shooting Guard,University of Georgia,473604,2012,2011,Los Angeles Clippers,33.9480053,-83.3773221
+leuerjo01,"May 14, 1989",2011.0,Jon Leuer,Center,University of Wisconsin,10991957,2017,2016,Detroit Pistons,43.076592,-89.4124875
+leverca01,"August 25, 1994",2016.0,Caris LeVert,Small Forward,University of Michigan,1632480,2018,2017,Brooklyn Nets,42.2780436,-83.7382241
+liggide01,"March 31, 1988",2011.0,DeAndre Liggins,Shooting Guard,University of Kentucky,1015696,2017,2016,Dallas Mavericks,38.0306511,-84.5039697
+lillada01,"July 15, 1990",2012.0,Damian Lillard,Point Guard,Weber State University,26153057,2018,2017,Portland Trail Blazers,41.19246820000001,-111.9444959
+looneke01,"February 6, 1996",2015.0,Kevon Looney,Center,University of California,1471382,2018,2017,Golden State Warriors,37.8718992,-122.2585399
+lopezbr01,"April 1, 1988",2008.0,Brook Lopez,Center,Stanford University,22642350,2018,2017,Los Angeles Lakers,37.4274745,-122.169719
+lopezro01,"April 1, 1988",2008.0,Robin Lopez,Center,Stanford University,13788500,2018,2017,Chicago Bulls,37.4274745,-122.169719
+loveke01,"September 7, 1988",2008.0,Kevin Love,Center,University of California,22642350,2018,2017,Cleveland Cavaliers,37.8718992,-122.2585399
+lowryky01,"March 25, 1986",2006.0,Kyle Lowry,Point Guard,Villanova University,28703704,2018,2017,Toronto Raptors,40.0378952,-75.34333149999999
+lydonty01,"April 9, 1996",2017.0,Tyler Lydon,Power Forward,Syracuse University,1579440,2018,2017,Denver Nuggets,43.0391534,-76.1351158
+lylestr01,"November 5, 1995",2015.0,Trey Lyles,Power Forward,University of Kentucky,2441400,2018,2017,Denver Nuggets,38.0306511,-84.5039697
+macksh01,"April 22, 1990",2011.0,Shelvin Mack,Shooting Guard,Butler University,6000000,2018,2017,Orlando Magic,39.8405491,-86.1708927
+macklve01,"September 20, 1986",2011.0,Vernon Macklin,Center,University of Florida,473604,2012,2011,Detroit Pistons,29.6436325,-82.3549302
+maddoti01,"June 7, 1981",2002.0,Tito Maddox,Shooting Guard,University of California,349458,2003,2002,Houston Rockets,37.8718992,-122.2585399
+madsema01,"January 28, 1976",2000.0,Mark Madsen,Center,Stanford University,2840000,2010,2009,Los Angeles Clippers,37.4274745,-122.169719
+magloja01,"May 21, 1978",2000.0,Jamaal Magloire,Center,University of Kentucky,8533333,2006,2005,Milwaukee Bucks,38.0306511,-84.5039697
+marblde01,"September 21, 1992",2014.0,Devyn Marble,Shooting Guard,University of Iowa,884879,2015,2014,Orlando Magic,41.6626963,-91.5548998
+markkla01,"May 22, 1997",2017.0,Lauri Markkanen,Power Forward,University of Arizona,3821640,2018,2017,Chicago Bulls,32.2318851,-110.9501094
+marshke01,"August 19, 1991",2012.0,Kendall Marshall,Point Guard,University of North Carolina,2144722,2016,2015,Philadelphia 76ers,35.9049122,-79.0469134
+martija01,"May 24, 1994",2015.0,Jarell Martin,Power Forward,Louisiana State University,1471382,2018,2017,Memphis Grizzlies,30.4132579,-91.1800023
+martike01,"December 30, 1977",2000.0,Kenyon Martin,Power Forward,University of Cincinnati,16545454,2011,2010,Denver Nuggets,39.1329219,-84.51495039999999
+martike02,"February 1, 1983",2004.0,Kevin Martin,Point Guard,Western Carolina University,12439675,2013,2012,Oklahoma City Thunder,35.3093802,-83.18442209999999
+masonde01,"October 11, 1977",2000.0,Desmond Mason,Small Forward,Oklahoma State University,8037037,2007,2006,New Orleans/Oklahoma City Hornets,36.1270236,-97.07372219999999
+masonfr01,"April 3, 1994",2017.0,Frank Mason III,Point Guard,University of Kansas,1184385,2018,2017,Sacramento Kings,38.9543439,-95.2557961
+masonro01,"September 10, 1980",2002.0,Roger Mason,Small Forward,University of Virginia,3780000,2010,2009,San Antonio Spurs,38.0335529,-78.5079772
+maxieja01,"February 18, 1983",2005.0,Jason Maxiell,Center,University of Cincinnati,5000000,2013,2012,Detroit Pistons,39.1329219,-84.51495039999999
+mayse01,"April 4, 1984",2005.0,Sean May,Power Forward,University of North Carolina,2661027,2009,2008,Charlotte Bobcats,35.9049122,-79.0469134
+maynoer01,"June 11, 1987",2009.0,Eric Maynor,Shooting Guard,Virginia Commonwealth University,2338721,2013,2012,Portland Trail Blazers,37.5483122,-77.4526805
+mayooj01,"November 5, 1987",2008.0,O.J. Mayo,Shooting Guard,University of Southern California,8000000,2016,2015,Milwaukee Bucks,34.0223519,-118.285117
+mbahalu01,"September 9, 1986",2008.0,Luc Mbah a Moute,Small Forward,University of California,5000000,2012,2011,Milwaukee Bucks,37.8718992,-122.2585399
+mccalra01,"June 12, 1991",2013.0,Ray McCallum,Point Guard,University of Detroit Mercy,947276,2016,2015,San Antonio Spurs,42.4141556,-83.1379932
+mccanra01,"September 25, 1984",2005.0,Rashad McCants,Shooting Guard,University of North Carolina,2620126,2009,2008,Sacramento Kings,35.9049122,-79.0469134
+mccawpa01,"October 25, 1995",2016.0,Patrick McCaw,Shooting Guard,University of Nevada,1312611,2018,2017,Golden State Warriors,39.5441917,-119.816397
+mccolcj01,"September 19, 1991",2013.0,CJ McCollum,Shooting Guard,Lehigh University,23962573,2018,2017,Portland Trail Blazers,40.6059932,-75.3766579
+mcculch01,"February 5, 1995",2015.0,Chris McCullough,Power Forward,Syracuse University,1471382,2018,2017,Washington Wizards,43.0391534,-76.1351158
+mcdankj01,"February 9, 1993",2014.0,K.J. McDaniels,Small Forward,Clemson University,3333333,2017,2016,Brooklyn Nets,34.6738437,-82.8368654
+mcderdo01,"January 3, 1992",2014.0,Doug McDermott,Small Forward,Creighton University,3294994,2018,2017,Dallas Mavericks,41.2655521,-95.94638619999999
+mcgarmi01,"June 6, 1992",2014.0,Mitch McGary,Power Forward,University of Michigan,1526040,2017,2016,Oklahoma City Thunder,42.2780436,-83.7382241
+mcgeeja01,"January 19, 1988",2008.0,JaVale McGee,Center,University of Nevada,12000000,2016,2015,Philadelphia 76ers,39.5441917,-119.816397
+mcguido01,"October 20, 1985",2007.0,Dominic McGuire,Shooting Guard,California State University,915852,2012,2011,Golden State Warriors,34.0667698,-118.1684392
+mclembe01,"February 11, 1993",2013.0,Ben McLemore,Shooting Guard,University of Kansas,5200000,2018,2017,Memphis Grizzlies,38.9543439,-95.2557961
+mcraejo01,"March 28, 1991",2014.0,Jordan McRae,Shooting Guard,University of Tennessee,874636,2017,2016,Cleveland Cavaliers,35.9544013,-83.92945639999999
+mcrobjo01,"February 28, 1987",2007.0,Josh McRoberts,Center,Duke University,6021175,2018,2017,Dallas Mavericks,36.0014258,-78.9382286
+meeksjo01,"August 21, 1987",2009.0,Jodie Meeks,Shooting Guard,University of Kentucky,6540000,2017,2016,Orlando Magic,38.0306511,-84.5039697
+melofa01,"June 20, 1990",2012.0,Fab Melo,Center,Syracuse University,1311240,2014,2013,Memphis Grizzlies,43.0391534,-76.1351158
+mickejo01,"July 9, 1994",2015.0,Jordan Mickey,Power Forward,Louisiana State University,1471382,2018,2017,Miami Heat,30.4132579,-91.1800023
+middlkh01,"August 12, 1991",2012.0,Khris Middleton,Shooting Guard,Texas A&M University,15200000,2017,2016,Milwaukee Bucks,30.6090918,-96.3337124
+mihmch01,"July 16, 1979",2000.0,Chris Mihm,Power Forward,University of Texas at Austin,4214241,2007,2006,Los Angeles Lakers,30.2849185,-97.7340567
+milleda01,"March 21, 1990",2012.0,Darius Miller,Small Forward,University of Kentucky,2100000,2018,2017,New Orleans Pelicans,38.0306511,-84.5039697
+millemi01,"February 19, 1980",2000.0,Mike Miller,Shooting Guard,University of Florida,9750000,2010,2009,Washington Wizards,29.6436325,-82.3549302
+millequ01,"November 18, 1992",2012.0,Quincy Miller,Power Forward,Baylor University,788872,2014,2013,Denver Nuggets,31.5469132,-97.1210998
+millspa02,"August 11, 1988",2009.0,Patty Mills,Point Guard,Saint Mary's College of California,10714286,2018,2017,San Antonio Spurs,37.8413472,-122.1101354
+millspa01,"February 10, 1985",2006.0,Paul Millsap,Power Forward,Louisiana Tech University,31269231,2018,2017,Denver Nuggets,32.5282644,-92.6499298
+mitchdo01,"September 7, 1996",2017.0,Donovan Mitchell,Shooting Guard,University of Louisville,2621280,2018,2017,Utah Jazz,38.2122761,-85.75850229999999
+mitchto02,"April 7, 1992",2013.0,Tony Mitchell,Power Forward,University of North Texas,816482,2015,2014,Phoenix Suns,33.207488,-97.1525862
+moisoje01,"June 15, 1978",2000.0,Jerome Moiso,Center,University of California,1760000,2005,2004,Toronto Raptors,37.8718992,-122.2585399
+monkma01,"February 4, 1998",2017.0,Malik Monk,Shooting Guard,University of Kentucky,2904480,2018,2017,Charlotte Hornets,38.0306511,-84.5039697
+monrogr01,"June 4, 1990",2010.0,Greg Monroe,Power Forward,Georgetown University,17100000,2017,2016,Milwaukee Bucks,38.9076089,-77.07225849999999
+mooreet01,"February 25, 1989",2011.0,E'Twaun Moore,Point Guard,Purdue University,8445024,2018,2017,New Orleans Pelicans,40.4237054,-86.92119459999999
+morrida01,"January 3, 1991",2011.0,Darius Morris,Point Guard,University of Michigan,1046269,2014,2013,Philadelphia 76ers,42.2780436,-83.7382241
+morrima03,"September 2, 1989",2011.0,Marcus Morris,Small Forward,University of Kansas,5000000,2018,2017,Boston Celtics,38.9543439,-95.2557961
+morrima02,"September 2, 1989",2011.0,Markieff Morris,Power Forward,University of Kansas,8000000,2018,2017,Washington Wizards,38.9543439,-95.2557961
+morrite01,"January 11, 1979",2001.0,Terence Morris,Small Forward,University of Maryland,835810,2006,2005,Orlando Magic,38.9869183,-76.9425543
+morriad01,"July 19, 1984",2006.0,Adam Morrison,Small Forward,Gonzaga University,5257229,2010,2009,Los Angeles Lakers,47.66703210000001,-117.4014343
+mottoha01,"September 9, 1976",2000.0,Hanno Mottola,Small Forward,University of Utah,465850,2002,2001,Atlanta Hawks,40.7649368,-111.8421021
+moultar01,"November 18, 1990",2012.0,Arnett Moultrie,Power Forward,Mississippi State University,1136160,2015,2014,New York Knicks,33.4551742,-88.79437659999999
+muhamsh01,"November 13, 1992",2013.0,Shabazz Muhammad,Small Forward,University of California,3046299,2017,2016,Minnesota Timberwolves,37.8718992,-122.2585399
+mulleby01,"February 14, 1989",2009.0,Byron Mullens,Power Forward,Ohio State University,2253306,2013,2012,Charlotte Bobcats,40.0068363,-83.0306222
+murpher01,"October 26, 1990",2013.0,Erik Murphy,Center,University of Florida,100000,2015,2014,Boston Celtics,29.6436325,-82.3549302
+murphke01,"March 6, 1990",2012.0,Kevin Murphy,Shooting Guard,Tennessee Technological University,473604,2013,2012,Utah Jazz,36.1757592,-85.5086374
+murphtr01,"May 2, 1980",2001.0,Troy Murphy,Power Forward,University of Notre Dame,11968253,2011,2010,Golden State Warriors,41.7055716,-86.2353388
+murrade01,"September 19, 1996",2016.0,Dejounte Murray,Point Guard,University of Washington,1312611,2018,2017,San Antonio Spurs,47.6912794,-122.3176141
+murraja01,"February 23, 1997",2016.0,Jamal Murray,Shooting Guard,University of Kentucky,3355320,2018,2017,Denver Nuggets,38.0306511,-84.5039697
+murraro01,"July 29, 1979",2002.0,Ronald Murray,Shooting Guard,Shaw University,1990000,2010,2009,Chicago Bulls,35.771043,-78.6379262
+muscami01,"July 1, 1991",2013.0,Mike Muscala,Power Forward,Bucknell University,5000000,2018,2017,Atlanta Hawks,40.9547722,-76.88507589999999
+ndiayha01,"January 12, 1987",2010.0,Hamady N'Diaye,Center,Rutgers University,473604,2011,2010,Washington Wizards,40.5008186,-74.44739910000001
+ndiayma02,"June 16, 1975",2000.0,Mamadou N'Diaye,Center,Auburn University,848520,2003,2002,Toronto Raptors,32.5933574,-85.4951663
+naderab01,"September 25, 1993",2016.0,Abdel Nader,Small Forward,Iowa State University,1167333,2018,2017,Boston Celtics,42.0266187,-93.6464654
+najered01,"July 11, 1976",2000.0,Eduardo Najera,Power Forward,University of Oklahoma,4952380,2008,2007,Denver Nuggets,35.2058936,-97.4457137
+nancela02,"January 1, 1993",2015.0,Larry Nance Jr.,Center,University of Wyoming,1471382,2018,2017,Cleveland Cavaliers,41.3148754,-105.5665744
+napiesh01,"July 14, 1991",2014.0,Shabazz Napier,Point Guard,University of Connecticut,2361360,2018,2017,Portland Trail Blazers,41.8077414,-72.2539805
+nelsoja01,"February 9, 1982",2004.0,Jameer Nelson,Point Guard,Saint Joseph's University,8600000,2014,2013,Orlando Magic,39.9951217,-75.23993279999999
+nichode01,"September 4, 1984",2007.0,Demetris Nichols,Small Forward,Syracuse University,427163,2008,2007,Chicago Bulls,43.0391534,-76.1351158
+nichoan01,"December 8, 1989",2012.0,Andrew Nicholson,Power Forward,St. Bonaventure University,6088993,2017,2016,Brooklyn Nets,42.0794875,-78.48427029999999
+noahjo01,"February 25, 1985",2007.0,Joakim Noah,Center,University of Florida,17765000,2018,2017,New York Knicks,29.6436325,-82.3549302
+noelda01,"February 27, 1984",2006.0,David Noel,Power Forward,University of North Carolina,687456,2008,2007,Milwaukee Bucks,35.9049122,-79.0469134
+noelne01,"April 10, 1994",2013.0,Nerlens Noel,Power Forward,University of Kentucky,4384490,2017,2016,Dallas Mavericks,38.0306511,-84.5039697
+novakst01,"June 13, 1983",2006.0,Steve Novak,Power Forward,Marquette University,4054055,2013,2012,New York Knicks,43.0388337,-87.92856669999999
+obryajo01,"June 1, 1993",2014.0,Johnny O'Bryant,Power Forward,Louisiana State University,1524305,2018,2017,New York Knicks,30.4132579,-91.1800023
+obryapa01,"June 20, 1986",2006.0,Patrick O'Bryant,Center,Bradley University,2216400,2008,2007,Golden State Warriors,40.6977743,-89.6153484
+oquinky01,"March 26, 1990",2012.0,Kyle O'Quinn,Center,Norfolk State University,4087500,2018,2017,New York Knicks,36.8480161,-76.262085
+odengr01,"January 22, 1988",2007.0,Greg Oden,Center,Ohio State University,6760524,2011,2010,Portland Trail Blazers,40.0068363,-83.0306222
+ojelese01,"December 5, 1994",2017.0,Semi Ojeleye,Power Forward,Southern Methodist University,1291892,2018,2017,Boston Celtics,32.8412178,-96.78451749999999
+okafoem01,"September 28, 1982",2004.0,Emeka Okafor,Power Forward,University of Connecticut,14487500,2014,2013,Phoenix Suns,41.8077414,-72.2539805
+okafoja01,"December 15, 1995",2015.0,Jahlil Okafor,Center,Duke University,4995120,2018,2017,Brooklyn Nets,36.0014258,-78.9382286
+oladivi01,"May 4, 1992",2013.0,Victor Oladipo,Shooting Guard,Indiana University,21000000,2018,2017,Indiana Pacers,39.1754487,-86.512627
+olynyke01,"April 19, 1991",2013.0,Kelly Olynyk,Center,Gonzaga University,10607169,2018,2017,Miami Heat,47.66703210000001,-117.4014343
+onuakch01,"November 1, 1996",2016.0,Chinanu Onuaku,Center,University of Louisville,1312611,2018,2017,Houston Rockets,38.2122761,-85.75850229999999
+ortonda01,"August 6, 1990",2010.0,Daniel Orton,Center,University of Kentucky,1105560,2012,2011,Orlando Magic,38.0306511,-84.5039697
+oubreke01,"December 9, 1995",2015.0,Kelly Oubre Jr.,Small Forward,University of Kansas,2093040,2018,2017,Washington Wizards,38.9543439,-95.2557961
+owensch01,"March 1, 1979",2002.0,Chris Owens,Small Forward,University of Texas at Austin,349458,2003,2002,Memphis Grizzlies,30.2849185,-97.7340567
+parkeja01,"March 15, 1995",2014.0,Jabari Parker,Power Forward,Duke University,6782392,2018,2017,Milwaukee Bucks,36.0014258,-78.9382286
+parsoch01,"October 25, 1988",2011.0,Chandler Parsons,Small Forward,University of Florida,23112004,2018,2017,Memphis Grizzlies,29.6436325,-82.3549302
+pattela01,"August 12, 1991",2014.0,Lamar Patterson,Shooting Guard,University of Pittsburgh,525093,2016,2015,Atlanta Hawks,40.4443533,-79.960835
+pattepa01,"March 14, 1989",2010.0,Patrick Patterson,Power Forward,University of Kentucky,6268675,2016,2015,Toronto Raptors,38.0306511,-84.5039697
+pattoju01,"June 14, 1997",2017.0,Justin Patton,Center,Creighton University,2247480,2018,2017,Minnesota Timberwolves,41.2655521,-95.94638619999999
+paulch01,"May 6, 1985",2005.0,Chris Paul,Point Guard,Wake Forest University,24599495,2018,2017,Houston Rockets,36.1355052,-80.2791958
+payneca01,"August 8, 1994",2015.0,Cameron Payne,Point Guard,Murray State University,2203440,2018,2017,Chicago Bulls,36.6163842,-88.3214979
+paytoel01,"February 22, 1994",2014.0,Elfrid Payton,Point Guard,University of Louisiana at Lafayette,3332340,2018,2017,Phoenix Suns,30.2114404,-92.0204121
+petermo01,"August 26, 1977",2000.0,Morris Peterson,Small Forward,Michigan State University,6665000,2011,2010,Charlotte Bobcats,42.701848,-84.4821719
+pittmde01,"March 2, 1988",2010.0,Dexter Pittman,Center,University of Texas at Austin,854389,2013,2012,Memphis Grizzlies,30.2849185,-97.7340567
+plumlma01,"March 5, 1990",2013.0,Mason Plumlee,Center,Duke University,14041096,2018,2017,Denver Nuggets,36.0014258,-78.9382286
+plumlmi01,"September 1, 1988",2012.0,Miles Plumlee,Center,Duke University,12500000,2018,2017,Atlanta Hawks,36.0014258,-78.9382286
+poeltja01,"October 15, 1995",2016.0,Jakob Poeltl,Center,University of Utah,2825640,2018,2017,Toronto Raptors,40.7649368,-111.8421021
+pondequ01,"March 10, 1988",2010.0,Quincy Pondexter,Small Forward,University of Washington,3853931,2018,2017,Chicago Bulls,47.6912794,-122.3176141
+portech01,"May 9, 1978",2000.0,Chris Porter,Small Forward,Auburn University,465850,2002,2001,Charlotte Hornets,32.5933574,-85.4951663
+porteot01,"June 3, 1993",2013.0,Otto Porter,Small Forward,Georgetown University,24773250,2018,2017,Washington Wizards,38.9076089,-77.07225849999999
+portibo01,"February 10, 1995",2015.0,Bobby Portis,Power Forward,University of Arkansas,1516320,2018,2017,Chicago Bulls,36.0686895,-94.1748471
+postela01,"February 26, 1978",2000.0,Lavor Postell,Shooting Guard,St. John's University,587435,2003,2002,New York Knicks,40.7220627,-73.79421119999999
+powele01,"January 22, 1984",2006.0,Leon Powe,Small Forward,University of California,915852,2011,2010,Cleveland Cavaliers,37.8718992,-122.2585399
+poweldw01,"July 20, 1991",2014.0,Dwight Powell,Power Forward,Stanford University,9003125,2018,2017,Dallas Mavericks,37.4274745,-122.169719
+powelno01,"May 25, 1993",2015.0,Norman Powell,Shooting Guard,University of California,1471382,2018,2017,Toronto Raptors,37.8718992,-122.2585399
+priceaj01,"October 7, 1986",2009.0,A.J. Price,Shooting Guard,University of Connecticut,885120,2013,2012,Washington Wizards,41.8077414,-72.2539805
+princta01,"February 28, 1980",2002.0,Tayshaun Prince,Small Forward,University of Kentucky,11148760,2011,2010,Detroit Pistons,38.0306511,-84.5039697
+pruitga01,"April 19, 1986",2007.0,Gabe Pruitt,Point Guard,University of Southern California,711517,2009,2008,Boston Celtics,34.0223519,-118.285117
+przybjo01,"October 10, 1979",2000.0,Joel Przybilla,Center,University of Minnesota,7405300,2011,2010,Charlotte Bobcats,44.97399,-93.2277285
+rabbiv01,"February 4, 1997",2017.0,Ivan Rabb,Power Forward,University of California,950000,2018,2017,Memphis Grizzlies,37.8718992,-122.2585399
+randlju01,"November 29, 1994",2014.0,Julius Randle,Power Forward,University of Kentucky,4149242,2018,2017,Los Angeles Lakers,38.0306511,-84.5039697
+randoan01,"July 15, 1989",2008.0,Anthony Randolph,Power Forward,Louisiana State University,2911231,2012,2011,Minnesota Timberwolves,30.4132579,-91.1800023
+randoza01,"July 16, 1981",2001.0,Zach Randolph,Power Forward,Michigan State University,17800000,2014,2013,Memphis Grizzlies,42.701848,-84.4821719
+rautian01,"November 2, 1986",2010.0,Andy Rautins,Shooting Guard,Syracuse University,788872,2012,2011,Dallas Mavericks,43.0391534,-76.1351158
+reddmi01,"August 24, 1979",2000.0,Michael Redd,Shooting Guard,Ohio State University,18300000,2011,2010,Milwaukee Bucks,40.0068363,-83.0306222
+redicjj01,"June 24, 1984",2006.0,J.J. Redick,Shooting Guard,Duke University,23000000,2018,2017,Philadelphia 76ers,36.0014258,-78.9382286
+reedda01,"June 11, 1995",2017.0,Davon Reed,Shooting Guard,University of Miami,815615,2018,2017,Phoenix Suns,25.7178924,-80.2746368
+reedju01,"January 16, 1982",2004.0,Justin Reed,Small Forward,University of Mississippi,1573000,2009,2008,Houston Rockets,34.3647324,-89.538443
+reidry01,"October 30, 1986",2010.0,Ryan Reid,Power Forward,Florida State University,475000,2012,2011,Oklahoma City Thunder,30.4418778,-84.2984889
+ricegl02,"January 1, 1991",2013.0,Glen Rice Jr.,Shooting Guard,Georgia Institute of Technology,400000,2015,2014,Washington Wizards,33.7756178,-84.39628499999999
+richach01,"December 25, 1984",2007.0,Chris Richard,Center,University of Florida,427163,2008,2007,Minnesota Timberwolves,29.6436325,-82.3549302
+richaja01,"January 20, 1981",2001.0,Jason Richardson,Small Forward,Michigan State University,14444444,2011,2010,Orlando Magic,42.701848,-84.4821719
+richajo01,"September 15, 1993",2015.0,Josh Richardson,Shooting Guard,University of Tennessee,1471382,2018,2017,Miami Heat,35.9544013,-83.92945639999999
+richama01,"January 5, 1996",2016.0,Malachi Richardson,Shooting Guard,Syracuse University,1504560,2018,2017,Toronto Raptors,43.0391534,-76.1351158
+richaqu01,"April 13, 1980",2000.0,Quentin Richardson,Shooting Guard,DePaul University,9352400,2010,2009,Miami Heat,41.9247559,-87.6566465
+ridnolu01,"February 13, 1981",2003.0,Luke Ridnour,Point Guard,University of Oregon,6500000,2010,2009,Milwaukee Bucks,44.0448302,-123.0726055
+riverau01,"August 1, 1992",2012.0,Austin Rivers,Point Guard,Duke University,11825000,2018,2017,Los Angeles Clippers,36.0014258,-78.9382286
+roberan03,"December 4, 1991",2013.0,Andre Roberson,Shooting Guard,University of Colorado,9259259,2018,2017,Oklahoma City Thunder,40.00758099999999,-105.2659417
+roberla01,"October 20, 1982",2005.0,Lawrence Roberts,Center,Mississippi State University,664209,2007,2006,Memphis Grizzlies,33.4551742,-88.79437659999999
+robinbe01,"December 26, 1980",2004.0,Bernard Robinson,Small Forward,University of Michigan,1080000,2008,2007,New Orleans Hornets,42.2780436,-83.7382241
+robingl02,"January 8, 1994",2014.0,Glenn Robinson III,Shooting Guard,University of Michigan,1524305,2018,2017,Indiana Pacers,42.2780436,-83.7382241
+robinna01,"May 31, 1984",2005.0,Nate Robinson,Point Guard,University of Washington,4500000,2012,2011,Oklahoma City Thunder,47.6912794,-122.3176141
+robinth01,"March 17, 1991",2012.0,Thomas Robinson,Power Forward,University of Kansas,3678360,2015,2014,Philadelphia 76ers,38.9543439,-95.2557961
+rondora01,"February 22, 1986",2006.0,Rajon Rondo,Point Guard,University of Kentucky,14000000,2017,2016,Chicago Bulls,38.0306511,-84.5039697
+rosede01,"October 4, 1988",2008.0,Derrick Rose,Point Guard,University of Memphis,21323250,2017,2016,New York Knicks,35.1187498,-89.9374928
+rosste01,"February 5, 1991",2012.0,Terrence Ross,Small Forward,University of Washington,10500000,2018,2017,Orlando Magic,47.6912794,-122.3176141
+roybr01,"July 23, 1984",2006.0,Brandon Roy,Shooting Guard,University of Washington,19317326,2015,2014,Portland Trail Blazers,47.6912794,-122.3176141
+roziete01,"March 17, 1994",2015.0,Terry Rozier,Point Guard,University of Louisville,1988520,2018,2017,Boston Celtics,38.2122761,-85.75850229999999
+rushbr01,"July 7, 1985",2008.0,Brandon Rush,Shooting Guard,University of Kansas,4000000,2014,2013,Utah Jazz,38.9543439,-95.2557961
+rushka01,"October 30, 1980",2002.0,Kareem Rush,Shooting Guard,University of Missouri,3000000,2006,2005,Charlotte Bobcats,38.9403808,-92.32773750000001
+russeda01,"February 23, 1996",2015.0,D'Angelo Russell,Point Guard,Ohio State University,5562360,2018,2017,Brooklyn Nets,40.0068363,-83.0306222
+sabondo01,"May 3, 1996",2016.0,Domantas Sabonis,Center,Gonzaga University,2550000,2018,2017,Indiana Pacers,47.66703210000001,-117.4014343
+sacrero01,"June 6, 1989",2012.0,Robert Sacre,Center,Gonzaga University,981348,2016,2015,Los Angeles Lakers,47.66703210000001,-117.4014343
+salmojo01,"December 12, 1979",2002.0,John Salmons,Shooting Guard,University of Miami,8500000,2012,2011,Sacramento Kings,25.7178924,-80.2746368
+sampsja01,"May 15, 1983",2002.0,Jamal Sampson,Center,University of California,771331,2007,2006,Denver Nuggets,37.8718992,-122.2585399
+sandela01,"November 21, 1988",2010.0,Larry Sanders,Power Forward,Virginia Commonwealth University,11000000,2015,2014,Milwaukee Bucks,37.5483122,-77.4526805
+sasseje01,"February 13, 1979",2001.0,Jeryl Sasser,Shooting Guard,Southern Methodist University,1125729,2004,2003,Orlando Magic,32.8412178,-96.78451749999999
+satteke01,"April 10, 1981",2001.0,Kenny Satterfield,Point Guard,University of Cincinnati,512435,2003,2002,Philadelphia 76ers,39.1329219,-84.51495039999999
+scalabr01,"March 18, 1978",2001.0,Brian Scalabrine,Power Forward,University of Southern California,3413793,2010,2009,Boston Celtics,34.0223519,-118.285117
+scottmi01,"July 16, 1988",2012.0,Mike Scott,Power Forward,University of Virginia,3333334,2017,2016,Phoenix Suns,38.0335529,-78.5079772
+selbyjo01,"March 27, 1991",2011.0,Josh Selby,Point Guard,University of Kansas,762195,2013,2012,Cleveland Cavaliers,38.9543439,-95.2557961
+sessira01,"April 11, 1986",2007.0,Ramon Sessions,Point Guard,University of Nevada,6000000,2017,2016,Charlotte Hornets,39.5441917,-119.816397
+sharpwa01,"July 18, 1986",2008.0,Walter Sharpe,Power Forward,University of Alabama at Birmingham,442114,2009,2008,Detroit Pistons,33.5019893,-86.8064433
+shumpim01,"June 26, 1990",2011.0,Iman Shumpert,Shooting Guard,Georgia Institute of Technology,10337079,2018,2017,Sacramento Kings,33.7756178,-84.39628499999999
+siakapa01,"April 2, 1994",2016.0,Pascal Siakam,Power Forward,New Mexico State University,1312611,2018,2017,Toronto Raptors,32.2787745,-106.7479059
+simiewa01,"March 9, 1983",2005.0,Wayne Simien,Power Forward,University of Kansas,932760,2007,2006,Miami Heat,38.9543439,-95.2557961
+simmobe01,"July 20, 1996",2016.0,Ben Simmons,Point Guard,Louisiana State University,6168840,2018,2017,Philadelphia 76ers,30.4132579,-91.1800023
+simmobo01,"June 2, 1980",2001.0,Bobby Simmons,Shooting Guard,DePaul University,10602667,2009,2008,New Jersey Nets,41.9247559,-87.6566465
+simmoce01,"January 3, 1986",2006.0,Cedric Simmons,Power Forward,North Carolina State University,1742760,2009,2008,Sacramento Kings,35.7846633,-78.6820946
+singlky01,"May 4, 1988",2011.0,Kyle Singler,Small Forward,Duke University,5000000,2016,2015,Oklahoma City Thunder,36.0014258,-78.9382286
+singlse01,"September 6, 1985",2008.0,Sean Singletary,Point Guard,University of Virginia,442114,2009,2008,Charlotte Bobcats,38.0335529,-78.5079772
+singlch01,"November 21, 1989",2011.0,Chris Singleton,Small Forward,Florida State University,1618680,2014,2013,Washington Wizards,30.4418778,-84.2984889
+sivape01,"October 24, 1990",2013.0,Peyton Siva,Shooting Guard,University of Louisville,100000,2015,2014,Orlando Magic,38.2122761,-85.75850229999999
+slayta01,"April 2, 1980",2002.0,Tamar Slay,Shooting Guard,Marshall University,695046,2005,2004,Charlotte Bobcats,38.4235252,-82.42641449999999
+smartma01,"March 6, 1994",2014.0,Marcus Smart,Shooting Guard,Oklahoma State University,4538020,2018,2017,Boston Celtics,36.1270236,-97.07372219999999
+smithcr01,"November 10, 1983",2006.0,Craig Smith,Power Forward,Boston College,2500000,2010,2009,Los Angeles Clippers,42.3355488,-71.16849450000001
+smithde03,"November 25, 1997",2017.0,Dennis Smith Jr.,Point Guard,North Carolina State University,3218280,2018,2017,Dallas Mavericks,35.7846633,-78.6820946
+smithdo04,"November 27, 1983",2004.0,Donta Smith,Shooting Guard,Southeastern Illinois College,641748,2006,2005,Atlanta Hawks,37.7515069,-88.4364622
+smithja01,"February 12, 1977",2000.0,Jabari Smith,Center,Louisiana State University,720046,2005,2004,New Jersey Nets,30.4132579,-91.1800023
+smithja02,"March 2, 1986",2007.0,Jason Smith,Center,Colorado State University,5225000,2018,2017,Washington Wizards,40.573436,-105.0865473
+smithmi03,"April 15, 1976",2000.0,Mike Smith,Small Forward,University of Louisiana at Monroe,316969,2001,2000,Washington Wizards,32.5267122,-92.07317909999999
+smithno01,"July 25, 1988",2011.0,Nolan Smith,Point Guard,Duke University,1404960,2013,2012,Portland Trail Blazers,36.0014258,-78.9382286
+smithru01,"April 19, 1991",2014.0,Russ Smith,Point Guard,University of Louisville,816482,2016,2015,Memphis Grizzlies,38.2122761,-85.75850229999999
+snellto01,"November 10, 1991",2013.0,Tony Snell,Shooting Guard,University of New Mexico,9821429,2018,2017,Milwaukee Bucks,35.0843187,-106.6197812
+snydeki01,"June 5, 1983",2004.0,Kirk Snyder,Power Forward,University of Nevada,2358433,2008,2007,Minnesota Timberwolves,39.5441917,-119.816397
+solomwi01,"July 20, 1978",2001.0,Will Solomon,Point Guard,Clemson University,711517,2009,2008,Sacramento Kings,34.6738437,-82.8368654
+songada01,"February 14, 1978",2002.0,Darius Songaila,Center,Wake Forest University,4818000,2011,2010,Philadelphia 76ers,36.1355052,-80.2791958
+sowpa01,"November 22, 1981",2004.0,Pape Sow,Center,University of California,744551,2007,2006,Toronto Raptors,37.8718992,-122.2585399
+speigma01,"August 4, 1987",2008.0,Marreese Speights,Power Forward,University of Florida,4200000,2013,2012,Cleveland Cavaliers,29.6436325,-82.3549302
+stausni01,"October 7, 1993",2014.0,Nik Stauskas,Shooting Guard,University of Michigan,3807147,2018,2017,Brooklyn Nets,42.2780436,-83.7382241
+stephla01,"September 5, 1990",2010.0,Lance Stephenson,Small Forward,University of Cincinnati,9000000,2016,2015,Memphis Grizzlies,39.1329219,-84.51495039999999
+stokeja01,"January 7, 1994",2014.0,Jarnell Stokes,Center,University of Tennessee,845059,2016,2015,New Orleans Pelicans,35.9544013,-83.92945639999999
+stonedi01,"February 10, 1997",2016.0,Diamond Stone,Center,University of Maryland,1312611,2018,2017,Atlanta Hawks,38.9869183,-76.9425543
+stoudsa01,"October 11, 1982",2005.0,Salim Stoudamire,Point Guard,University of Arizona,783000,2008,2007,Atlanta Hawks,32.2318851,-110.9501094
+strawdj01,"June 15, 1985",2007.0,D.J. Strawberry,Shooting Guard,University of Maryland,427163,2008,2007,Phoenix Suns,38.9869183,-76.9425543
+stuckro01,"April 21, 1986",2007.0,Rodney Stuckey,Point Guard,Eastern Washington University,8500000,2014,2013,Detroit Pistons,47.4910283,-117.5862361
+sullija01,"March 4, 1992",2012.0,Jared Sullinger,Power Forward,Ohio State University,5628000,2017,2016,Phoenix Suns,40.0068363,-83.0306222
+summeda01,"January 24, 1988",2009.0,DaJuan Summers,Power Forward,Georgetown University,762195,2011,2010,Detroit Pistons,38.9076089,-77.07225849999999
+swanica01,"April 18, 1997",2017.0,Caleb Swanigan,Power Forward,Purdue University,1465920,2018,2017,Portland Trail Blazers,40.4237054,-86.92119459999999
+sweetmi01,"October 25, 1982",2003.0,Mike Sweetney,Center,Georgetown University,2696956,2007,2006,Chicago Bulls,38.9076089,-77.07225849999999
+swiftst01,"November 21, 1979",2000.0,Stromile Swift,Power Forward,Louisiana State University,6200000,2009,2008,New Jersey Nets,30.4132579,-91.1800023
+taftch01,"March 10, 1985",2005.0,Chris Taft,Center,University of Pittsburgh,664209,2007,2006,Golden State Warriors,40.4443533,-79.960835
+tatumja01,"March 3, 1998",2017.0,Jayson Tatum,Small Forward,Duke University,5645400,2018,2017,Boston Celtics,36.0014258,-78.9382286
+tayloje03,"May 23, 1989",2012.0,Jeff Taylor,Small Forward,Vanderbilt University,915243,2015,2014,Charlotte Hornets,36.1447034,-86.8026551
+tayloje02,"December 8, 1986",2009.0,Jermaine Taylor,Shooting Guard,University of Central Florida,780871,2011,2010,Sacramento Kings,28.6024274,-81.2000599
+taylomi01,"January 21, 1986",2008.0,Mike Taylor,Point Guard,Iowa State University,500000,2009,2008,Los Angeles Clippers,42.0266187,-93.6464654
+tayloty01,"April 12, 1990",2012.0,Tyshawn Taylor,Point Guard,University of Kansas,788872,2014,2013,Brooklyn Nets,38.9543439,-95.2557961
+teaguje01,"June 10, 1988",2009.0,Jeff Teague,Point Guard,Wake Forest University,19000000,2018,2017,Minnesota Timberwolves,36.1355052,-80.2791958
+teaguma01,"February 28, 1993",2012.0,Marquis Teague,Point Guard,University of Kentucky,1120920,2015,2014,Philadelphia 76ers,38.0306511,-84.5039697
+thabeha01,"February 16, 1987",2009.0,Hasheem Thabeet,Center,University of Connecticut,5127720,2012,2011,Houston Rockets,41.8077414,-72.2539805
+thomaet01,"April 1, 1978",2000.0,Etan Thomas,Power Forward,Syracuse University,7350000,2010,2009,Oklahoma City Thunder,43.0391534,-76.1351158
+thomais02,"February 7, 1989",2011.0,Isaiah Thomas,Point Guard,University of Washington,7238606,2015,2014,Boston Celtics,47.6912794,-122.3176141
+thomaty01,"August 17, 1986",2006.0,Tyrus Thomas,Power Forward,Louisiana State University,9388000,2015,2014,Charlotte Hornets,30.4132579,-91.1800023
+thomptr02,"May 20, 1990",2011.0,Trey Thompkins,Center,University of Georgia,762195,2013,2012,Los Angeles Clippers,33.9480053,-83.3773221
+thompdi01,"February 23, 1983",2005.0,Dijon Thompson,Shooting Guard,University of California,398762,2006,2005,Phoenix Suns,37.8718992,-122.2585399
+thompja02,"July 21, 1986",2008.0,Jason Thompson,Power Forward,Rider University,6431250,2016,2015,Golden State Warriors,40.2788009,-74.73798839999999
+thompkl01,"February 8, 1990",2011.0,Klay Thompson,Shooting Guard,Washington State University,17826150,2018,2017,Golden State Warriors,46.7319225,-117.1542121
+thomptr01,"March 13, 1991",2011.0,Tristan Thompson,Power Forward,University of Texas at Austin,16400000,2018,2017,Cleveland Cavaliers,30.2849185,-97.7340567
+thornal01,"December 7, 1983",2007.0,Al Thornton,Small Forward,Florida State University,2814196,2011,2010,Washington Wizards,30.4418778,-84.2984889
+thornma01,"June 5, 1987",2009.0,Marcus Thornton,Shooting Guard,Louisiana State University,8575000,2015,2014,Phoenix Suns,30.4132579,-91.1800023
+thornsi01,"November 15, 1994",2017.0,Sindarius Thornwell,Shooting Guard,University of South Carolina,815615,2018,2017,Los Angeles Clippers,33.9937575,-81.0299186
+tinslja01,"February 28, 1978",2001.0,Jamaal Tinsley,Point Guard,Iowa State University,6750000,2009,2008,Indiana Pacers,42.0266187,-93.6464654
+townska01,"November 15, 1995",2015.0,Karl-Anthony Towns,Center,University of Kentucky,6216840,2018,2017,Minnesota Timberwolves,38.0306511,-84.5039697
+trepaje01,"July 11, 1979",2001.0,Jeff Trepagnier,Shooting Guard,University of Southern California,638679,2004,2003,Denver Nuggets,34.0223519,-118.285117
+tuckeal02,"February 11, 1984",2007.0,Alando Tucker,Small Forward,University of Wisconsin,1071720,2010,2009,Minnesota Timberwolves,43.076592,-89.4124875
+tuckepj01,"May 5, 1985",2006.0,P.J. Tucker,Small Forward,University of Texas at Austin,7590035,2018,2017,Houston Rockets,30.2849185,-97.7340567
+turiaro01,"January 13, 1983",2005.0,Ronny Turiaf,Center,Gonzaga University,4500000,2009,2008,Golden State Warriors,47.66703210000001,-117.4014343
+turneev01,"October 27, 1988",2010.0,Evan Turner,Small Forward,Ohio State University,17131148,2018,2017,Portland Trail Blazers,40.0068363,-83.0306222
+turnemy01,"March 24, 1996",2015.0,Myles Turner,Center,University of Texas at Austin,2569920,2018,2017,Indiana Pacers,30.2849185,-97.7340567
+udohek01,"May 20, 1987",2010.0,Ekpe Udoh,Power Forward,Baylor University,4469548,2014,2013,Milwaukee Bucks,31.5469132,-97.1210998
+ulisty01,"January 5, 1996",2016.0,Tyler Ulis,Point Guard,University of Kentucky,1312611,2018,2017,Phoenix Suns,38.0306511,-84.5039697
+valende01,"November 16, 1993",2016.0,Denzel Valentine,Shooting Guard,Michigan State University,2186400,2018,2017,Chicago Bulls,42.701848,-84.4821719
+varnaja01,"March 1, 1988",2010.0,Jarvis Varnado,Power Forward,Mississippi State University,788872,2014,2013,Miami Heat,33.4551742,-88.79437659999999
+vasqugr01,"January 16, 1987",2010.0,Greivis Vasquez,Point Guard,University of Maryland,6600000,2016,2015,Milwaukee Bucks,38.9869183,-76.9425543
+vaughra01,"August 16, 1996",2015.0,Rashad Vaughn,Shooting Guard,University of Nevada,1889040,2018,2017,New Orleans Pelicans,39.5441917,-119.816397
+villach01,"August 24, 1984",2005.0,Charlie Villanueva,Power Forward,University of Connecticut,8580000,2014,2013,Detroit Pistons,41.8077414,-72.2539805
+vonleno01,"August 24, 1995",2014.0,Noah Vonleh,Power Forward,Indiana University,3505233,2018,2017,Chicago Bulls,39.1754487,-86.512627
+voskuja01,"November 1, 1977",2000.0,Jake Voskuhl,Center,University of Connecticut,3000000,2008,2007,Milwaukee Bucks,41.8077414,-72.2539805
+vromaja01,"June 6, 1981",2004.0,Jackson Vroman,Center,Iowa State University,682051,2006,2005,New Orleans/Oklahoma City Hornets,42.0266187,-93.6464654
+vucevni01,"October 24, 1990",2011.0,Nikola Vucevic,Center,University of Southern California,12250000,2018,2017,Orlando Magic,34.0223519,-118.285117
+wadedw01,"January 17, 1982",2003.0,Dwyane Wade,Point Guard,Marquette University,23200000,2017,2016,Chicago Bulls,43.0388337,-87.92856669999999
+wafervo01,"July 21, 1985",2005.0,Von Wafer,Small Forward,Florida State University,915852,2011,2010,Boston Celtics,30.4418778,-84.2984889
+wagneda02,"February 4, 1983",2002.0,Dajuan Wagner,Shooting Guard,University of Memphis,2643600,2005,2004,Cleveland Cavaliers,35.1187498,-89.9374928
+waitedi01,"December 10, 1991",2012.0,Dion Waiters,Shooting Guard,Syracuse University,11000000,2018,2017,Miami Heat,43.0391534,-76.1351158
+walkebi01,"October 9, 1987",2008.0,Henry Walker,Small Forward,Kansas State University,854389,2011,2010,New York Knicks,39.1974437,-96.5847249
+walkeke02,"May 8, 1990",2011.0,Kemba Walker,Point Guard,University of Connecticut,12000000,2018,2017,Charlotte Hornets,41.8077414,-72.2539805
+walljo01,"September 6, 1990",2010.0,John Wall,Point Guard,University of Kentucky,18063850,2018,2017,Washington Wizards,38.0306511,-84.5039697
+wallage01,"July 23, 1982",2001.0,Gerald Wallace,Small Forward,University of Alabama,10500000,2011,2010,Portland Trail Blazers,33.2140233,-87.5391418
+princta02,"March 22, 1994",2016.0,Taurean Prince,Small Forward,Baylor University,2422560,2018,2017,Atlanta Hawks,31.5469132,-97.1210998
+waltolu01,"March 28, 1980",2003.0,Luke Walton,Power Forward,University of Arizona,6091363,2013,2012,Cleveland Cavaliers,32.2318851,-110.9501094
+warretj01,"September 5, 1993",2014.0,T.J. Warren,Small Forward,North Carolina State University,3152931,2018,2017,Phoenix Suns,35.7846633,-78.6820946
+warrewi01,"October 22, 1989",2010.0,Willie Warren,Point Guard,University of Oklahoma,500000,2011,2010,Los Angeles Clippers,35.2058936,-97.4457137
+warriha01,"July 8, 1982",2005.0,Hakim Warrick,Power Forward,Syracuse University,4250000,2011,2010,Phoenix Suns,43.0391534,-76.1351158
+watsoea01,"June 12, 1979",2001.0,Earl Watson,Point Guard,University of California,6600000,2010,2009,Oklahoma City Thunder,37.8718992,-122.2585399
+weaveky01,"February 18, 1986",2008.0,Kyle Weaver,Shooting Guard,Washington State University,870968,2010,2009,Oklahoma City Thunder,46.7319225,-117.1542121
+weemsso01,"July 8, 1986",2008.0,Sonny Weems,Shooting Guard,University of Arkansas,2800000,2016,2015,Philadelphia 76ers,36.0686895,-94.1748471
+westda01,"August 29, 1980",2003.0,David West,Small Forward,Xavier University,12000000,2015,2014,Indiana Pacers,39.149448,-84.47363740000002
+westde01,"July 26, 1983",2004.0,Delonte West,Point Guard,Saint Joseph's University,4254250,2010,2009,Cleveland Cavaliers,39.9951217,-75.23993279999999
+westbru01,"November 12, 1988",2008.0,Russell Westbrook,Point Guard,University of California,28530608,2018,2017,Oklahoma City Thunder,37.8718992,-122.2585399
+whalero01,"April 16, 1982",2005.0,Robert Whaley,Center,University of Cincinnati,398762,2006,2005,Utah Jazz,39.1329219,-84.51495039999999
+whitedj01,"August 31, 1986",2008.0,D.J. White,Power Forward,Indiana University,2001167,2012,2011,Charlotte Bobcats,39.1754487,-86.512627
+whitede01,"July 2, 1994",2017.0,Derrick White,Point Guard,University of Colorado,1404600,2018,2017,San Antonio Spurs,40.00758099999999,-105.2659417
+whiteja02,"October 21, 1982",2006.0,James White,Small Forward,University of Cincinnati,854389,2013,2012,New York Knicks,39.1329219,-84.51495039999999
+whitero02,"June 28, 1980",2001.0,Rodney White,Small Forward,University of North Carolina at Charlotte,1947600,2004,2003,Denver Nuggets,35.3070929,-80.735164
+whitero03,"April 10, 1991",2012.0,Royce White,Power Forward,Iowa State University,1719480,2014,2013,Philadelphia 76ers,42.0266187,-93.6464654
+whiteis01,"March 8, 1995",2016.0,Isaiah Whitehead,Point Guard,Seton Hall University,1312611,2018,2017,Brooklyn Nets,40.7433773,-74.2465446
+whiteha01,"June 13, 1989",2010.0,Hassan Whiteside,Center,Marshall University,23775506,2018,2017,Miami Heat,38.4235252,-82.42641449999999
+wiggian01,"February 23, 1995",2014.0,Andrew Wiggins,Small Forward,University of Kansas,7574322,2018,2017,Minnesota Timberwolves,38.9543439,-95.2557961
+wilcoch01,"September 3, 1982",2002.0,Chris Wilcox,Center,University of Maryland,6750000,2009,2008,New York Knicks,38.9869183,-76.9425543
+willide01,"June 26, 1984",2005.0,Deron Williams,Point Guard,University of Illinois at Urbana-Champaign,19754465,2015,2014,Brooklyn Nets,40.1019523,-88.2271615
+willide02,"May 25, 1991",2011.0,Derrick Williams,Power Forward,University of Arizona,6331404,2015,2014,Sacramento Kings,32.2318851,-110.9501094
+williel01,"June 20, 1989",2010.0,Elliot Williams,Point Guard,University of Memphis,1442880,2013,2012,Portland Trail Blazers,35.1187498,-89.9374928
+willifr02,"February 25, 1980",2002.0,Frank Williams,Point Guard,University of Illinois at Urbana-Champaign,957480,2005,2004,Chicago Bulls,40.1019523,-88.2271615
+willija03,"September 10, 1981",2002.0,Jay Williams,Point Guard,Duke University,3710880,2004,2003,Chicago Bulls,36.0014258,-78.9382286
+willijo03,"October 11, 1990",2011.0,Jordan Williams,Center,University of Maryland,762195,2013,2012,Atlanta Hawks,38.9869183,-76.9425543
+willima03,"December 3, 1985",2006.0,Marcus Williams,Point Guard,University of Connecticut,1262520,2009,2008,Golden State Warriors,41.8077414,-72.2539805
+willima04,"November 18, 1986",2007.0,Marcus Williams,Power Forward,University of Arizona,12890,2008,2007,San Antonio Spurs,32.2318851,-110.9501094
+willima02,"June 19, 1986",2005.0,Marvin Williams,Power Forward,University of North Carolina,13168750,2018,2017,Charlotte Hornets,35.9049122,-79.0469134
+willima01,"December 19, 1982",2003.0,Mo Williams,Point Guard,University of Alabama,9300000,2011,2010,Los Angeles Clippers,33.2140233,-87.5391418
+willise01,"September 13, 1986",2007.0,Sean Williams,Power Forward,Boston College,1629120,2010,2009,New Jersey Nets,42.3355488,-71.16849450000001
+willish03,"February 16, 1986",2006.0,Shawne Williams,Small Forward,University of Memphis,3000000,2012,2011,New Jersey Nets,35.1187498,-89.9374928
+willish02,"October 21, 1983",2006.0,Shelden Williams,Center,Duke University,3395760,2009,2008,Minnesota Timberwolves,36.0014258,-78.9382286
+willite01,"June 28, 1987",2009.0,Terrence Williams,Small Forward,University of Louisville,2369040,2012,2011,Houston Rockets,38.2122761,-85.75850229999999
+wilsodj01,"February 19, 1996",2017.0,D.J. Wilson,Power Forward,University of Michigan,2135040,2018,2017,Milwaukee Bucks,42.2780436,-83.7382241
+winslju01,"March 26, 1996",2015.0,Justise Winslow,Power Forward,Duke University,2705040,2018,2017,Miami Heat,36.0014258,-78.9382286
+witheje01,"March 7, 1990",2013.0,Jeff Withey,Center,University of Kansas,1577320,2018,2017,Dallas Mavericks,38.9543439,-95.2557961
+woodslo01,"June 21, 1978",2001.0,Loren Woods,Center,University of Arizona,780000,2006,2005,Toronto Raptors,32.2318851,-110.9501094
+woodsqy01,"February 16, 1981",2002.0,Qyntel Woods,Small Forward,Northeast Mississippi Community College,1127280,2005,2004,Portland Trail Blazers,34.667266,-88.56243599999999
+wrighan01,"February 6, 1984",2005.0,Antoine Wright,Shooting Guard,Texas A&M University,2110550,2010,2009,Toronto Raptors,30.6090918,-96.3337124
+wrighbr02,"July 1, 1984",2005.0,Bracey Wright,Shooting Guard,Indiana University,664209,2007,2006,Minnesota Timberwolves,39.1754487,-86.512627
+wrighbr03,"October 5, 1987",2007.0,Brandan Wright,Center,University of North Carolina,5700000,2017,2016,Memphis Grizzlies,35.9049122,-79.0469134
+wrighde01,"April 26, 1992",2015.0,Delon Wright,Point Guard,University of Utah,1645200,2018,2017,Toronto Raptors,40.7649368,-111.8421021
+wrighju01,"May 20, 1987",2007.0,Julian Wright,Small Forward,University of Kansas,2858057,2011,2010,Toronto Raptors,38.9543439,-95.2557961
+wroteto01,"April 13, 1993",2012.0,Tony Wroten,Shooting Guard,University of Washington,2179354,2016,2015,Philadelphia 76ers,47.6912794,-122.3176141
+youngjo01,"June 27, 1992",2015.0,Joe Young,Point Guard,University of Oregon,1471382,2018,2017,Indiana Pacers,44.0448302,-123.0726055
+youngni01,"June 1, 1985",2007.0,Nick Young,Shooting Guard,University of Southern California,5600000,2013,2012,Philadelphia 76ers,34.0223519,-118.285117
+youngsa01,"June 1, 1985",2009.0,Sam Young,Shooting Guard,University of Pittsburgh,947800,2012,2011,Memphis Grizzlies,40.4443533,-79.960835
+youngth01,"June 21, 1988",2007.0,Thaddeus Young,Power Forward,Georgia Institute of Technology,14796348,2018,2017,Indiana Pacers,33.7756178,-84.39628499999999
+zelleco01,"October 5, 1992",2013.0,Cody Zeller,Center,Indiana University,12584270,2018,2017,Charlotte Hornets,39.1754487,-86.512627
+zellety01,"January 17, 1990",2012.0,Tyler Zeller,Center,University of North Carolina,8000000,2017,2016,Boston Celtics,35.9049122,-79.0469134
+zimmest01,"September 9, 1996",2016.0,Stephen Zimmerman,Center,University of Nevada,950000,2017,2016,Orlando Magic,39.5441917,-119.816397
