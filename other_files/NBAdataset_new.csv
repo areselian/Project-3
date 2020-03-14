@@ -1,0 +1,1245 @@
+,player_id,birthDate,draft_year,name,position,college,salary,season_end,season_start,team
+49,acyqu01,6-Oct-90,2012,Quincy Acy,Power Forward and Small Forward,Baylor University,665000,2013,2012,Toronto Raptors
+50,acyqu01,6-Oct-90,2012,Quincy Acy,Power Forward and Small Forward,Baylor University,788872,2014,2013,Toronto Raptors
+51,acyqu01,6-Oct-90,2012,Quincy Acy,Power Forward and Small Forward,Baylor University,915243,2015,2014,New York Knicks
+52,acyqu01,6-Oct-90,2012,Quincy Acy,Power Forward and Small Forward,Baylor University,981348,2016,2015,Sacramento Kings
+53,acyqu01,6-Oct-90,2012,Quincy Acy,Power Forward and Small Forward,Baylor University,1914544,2017,2016,Brooklyn Nets
+54,acyqu01,6-Oct-90,2012,Quincy Acy,Power Forward and Small Forward,Baylor University,1050961,2017,2016,Dallas Mavericks
+55,acyqu01,6-Oct-90,2012,Quincy Acy,Power Forward and Small Forward,Baylor University,1709538,2018,2017,Brooklyn Nets
+61,adamsjo01,8-Jul-94,2014,Jordan Adams,Shooting Guard,"University of California, Los Angeles",1344120,2015,2014,Memphis Grizzlies
+62,adamsjo01,8-Jul-94,2014,Jordan Adams,Shooting Guard,"University of California, Los Angeles",1404600,2016,2015,Memphis Grizzlies
+63,adamsjo01,8-Jul-94,2014,Jordan Adams,Shooting Guard,"University of California, Los Angeles",1465080,2017,2016,Memphis Grizzlies
+72,adamsst01,20-Jul-93,2013,Steven Adams,Center,University of Pittsburgh,2090880,2014,2013,Oklahoma City Thunder
+73,adamsst01,20-Jul-93,2013,Steven Adams,Center,University of Pittsburgh,2184960,2015,2014,Oklahoma City Thunder
+74,adamsst01,20-Jul-93,2013,Steven Adams,Center,University of Pittsburgh,2279040,2016,2015,Oklahoma City Thunder
+75,adamsst01,20-Jul-93,2013,Steven Adams,Center,University of Pittsburgh,3140517,2017,2016,Oklahoma City Thunder
+76,adamsst01,20-Jul-93,2013,Steven Adams,Center,University of Pittsburgh,22471910,2018,2017,Oklahoma City Thunder
+82,adebaba01,18-Jul-97,2017,Bam Adebayo,Center,University of Kentucky,2490360,2018,2017,Miami Heat
+131,alabiso01,21-Mar-88,2010,Solomon Alabi,Center,Florida State University,770000,2011,2010,Toronto Raptors
+132,alabiso01,21-Mar-88,2010,Solomon Alabi,Center,Florida State University,830000,2012,2011,Toronto Raptors
+139,aldrico01,31-Oct-88,2010,Cole Aldrich,Center,University of Kansas,2126520,2011,2010,Oklahoma City Thunder
+140,aldrico01,31-Oct-88,2010,Cole Aldrich,Center,University of Kansas,2286000,2012,2011,Oklahoma City Thunder
+141,aldrico01,31-Oct-88,2010,Cole Aldrich,Center,University of Kansas,2445480,2013,2012,Sacramento Kings
+142,aldrico01,31-Oct-88,2010,Cole Aldrich,Center,University of Kansas,981084,2015,2014,New York Knicks
+143,aldrico01,31-Oct-88,2010,Cole Aldrich,Center,University of Kansas,1100600,2016,2015,Los Angeles Clippers
+144,aldrico01,31-Oct-88,2010,Cole Aldrich,Center,University of Kansas,7643979,2017,2016,Minnesota Timberwolves
+145,aldrico01,31-Oct-88,2010,Cole Aldrich,Center,University of Kansas,7300000,2018,2017,Minnesota Timberwolves
+186,allenja01,21-Apr-98,2017,Jarrett Allen,Center,University of Texas at Austin,1713720,2018,2017,Brooklyn Nets
+191,allenla01,4-Feb-89,2011,Lavoy Allen,Power Forward and Center,Temple University,473604,2012,2011,Philadelphia 76ers
+192,allenla01,4-Feb-89,2011,Lavoy Allen,Power Forward and Center,Temple University,3000000,2013,2012,Philadelphia 76ers
+193,allenla01,4-Feb-89,2011,Lavoy Allen,Power Forward and Center,Temple University,3060000,2014,2013,Philadelphia 76ers
+194,allenla01,4-Feb-89,2011,Lavoy Allen,Power Forward and Center,Temple University,948163,2015,2014,Indiana Pacers
+195,allenla01,4-Feb-89,2011,Lavoy Allen,Power Forward and Center,Temple University,3700000,2016,2015,Indiana Pacers
+196,allenla01,4-Feb-89,2011,Lavoy Allen,Power Forward and Center,Temple University,4000000,2017,2016,Indiana Pacers
+264,aminual01,21-Sep-90,2010,Al-Farouq Aminu,Power Forward and Small Forward,Wake Forest University,2563320,2011,2010,Los Angeles Clippers
+265,aminual01,21-Sep-90,2010,Al-Farouq Aminu,Power Forward and Small Forward,Wake Forest University,2755560,2012,2011,New Orleans Hornets
+266,aminual01,21-Sep-90,2010,Al-Farouq Aminu,Power Forward and Small Forward,Wake Forest University,2947800,2013,2012,New Orleans Hornets
+267,aminual01,21-Sep-90,2010,Al-Farouq Aminu,Power Forward and Small Forward,Wake Forest University,3700000,2014,2013,New Orleans Pelicans
+268,aminual01,21-Sep-90,2010,Al-Farouq Aminu,Power Forward and Small Forward,Wake Forest University,981084,2015,2014,Dallas Mavericks
+269,aminual01,21-Sep-90,2010,Al-Farouq Aminu,Power Forward and Small Forward,Wake Forest University,7500000,2016,2015,Portland Trail Blazers
+270,aminual01,21-Sep-90,2010,Al-Farouq Aminu,Power Forward and Small Forward,Wake Forest University,7680965,2017,2016,Portland Trail Blazers
+271,aminual01,21-Sep-90,2010,Al-Farouq Aminu,Power Forward and Small Forward,Wake Forest University,7319035,2018,2017,Portland Trail Blazers
+334,anderja01,25-Mar-89,2010,James Anderson,Small Forward and Shooting Guard,Oklahoma State University,1361400,2011,2010,San Antonio Spurs
+335,anderja01,25-Mar-89,2010,James Anderson,Small Forward and Shooting Guard,Oklahoma State University,1463520,2012,2011,San Antonio Spurs
+336,anderja01,25-Mar-89,2010,James Anderson,Small Forward and Shooting Guard,Oklahoma State University,472427,2013,2012,Houston Rockets
+337,anderja01,25-Mar-89,2010,James Anderson,Small Forward and Shooting Guard,Oklahoma State University,145749,2013,2012,San Antonio Spurs
+338,anderja01,25-Mar-89,2010,James Anderson,Small Forward and Shooting Guard,Oklahoma State University,916099,2014,2013,Philadelphia 76ers
+339,anderja01,25-Mar-89,2010,James Anderson,Small Forward and Shooting Guard,Oklahoma State University,1015421,2016,2015,Sacramento Kings
+340,anderju01,19-Nov-93,2015,Justin Anderson,Small Forward,University of Virginia,1449000,2016,2015,Dallas Mavericks
+341,anderju01,19-Nov-93,2015,Justin Anderson,Small Forward,University of Virginia,1514160,2017,2016,Philadelphia 76ers
+342,anderju01,19-Nov-93,2015,Justin Anderson,Small Forward,University of Virginia,1579440,2018,2017,Philadelphia 76ers
+357,anderky01,20-Sep-93,2014,Kyle Anderson,Small Forward,"University of California, Los Angeles",1093680,2015,2014,San Antonio Spurs
+358,anderky01,20-Sep-93,2014,Kyle Anderson,Small Forward,"University of California, Los Angeles",1142879,2016,2015,San Antonio Spurs
+359,anderky01,20-Sep-93,2014,Kyle Anderson,Small Forward,"University of California, Los Angeles",1192080,2017,2016,San Antonio Spurs
+360,anderky01,20-Sep-93,2014,Kyle Anderson,Small Forward,"University of California, Los Angeles",2151704,2018,2017,San Antonio Spurs
+416,anigbik01,17-Oct-98,2017,Ike Anigbogu,Center,"University of California, Los Angeles",950000,2018,2017,Indiana Pacers
+465,anunoog01,17-Jul-97,2017,OG Anunoby,Small Forward,Indiana University,1645200,2018,2017,Toronto Raptors
+647,babbilu01,20-Jun-89,2010,Luke Babbitt,Small Forward and Power Forward,"University of Nevada, Reno",1645440,2011,2010,Portland Trail Blazers
+648,babbilu01,20-Jun-89,2010,Luke Babbitt,Small Forward and Power Forward,"University of Nevada, Reno",1768800,2012,2011,Portland Trail Blazers
+649,babbilu01,20-Jun-89,2010,Luke Babbitt,Small Forward and Power Forward,"University of Nevada, Reno",1892280,2013,2012,Portland Trail Blazers
+650,babbilu01,20-Jun-89,2010,Luke Babbitt,Small Forward and Power Forward,"University of Nevada, Reno",981084,2015,2014,New Orleans Pelicans
+651,babbilu01,20-Jun-89,2010,Luke Babbitt,Small Forward and Power Forward,"University of Nevada, Reno",1100000,2016,2015,New Orleans Pelicans
+652,babbilu01,20-Jun-89,2010,Luke Babbitt,Small Forward and Power Forward,"University of Nevada, Reno",1227000,2017,2016,Miami Heat
+653,babbilu01,20-Jun-89,2010,Luke Babbitt,Small Forward and Power Forward,"University of Nevada, Reno",1974159,2018,2017,Miami Heat
+655,bacondw01,30-Aug-95,2017,Dwayne Bacon,Shooting Guard,Florida State University,815615,2018,2017,Charlotte Hornets
+685,bairsca01,7-Dec-90,2014,Cameron Bairstow,Center and Power Forward,University of New Mexico,507336,2015,2014,Chicago Bulls
+686,bairsca01,7-Dec-90,2014,Cameron Bairstow,Center and Power Forward,University of New Mexico,845059,2016,2015,Chicago Bulls
+713,balllo01,27-Oct-97,2017,Lonzo Ball,Point Guard,"University of California, Los Angeles",6286560,2018,2017,Los Angeles Lakers
+787,barneha02,30-May-92,2012,Harrison Barnes,Power Forward and Small Forward,University of North Carolina,2798040,2013,2012,Golden State Warriors
+788,barneha02,30-May-92,2012,Harrison Barnes,Power Forward and Small Forward,University of North Carolina,2923920,2014,2013,Golden State Warriors
+789,barneha02,30-May-92,2012,Harrison Barnes,Power Forward and Small Forward,University of North Carolina,3049920,2015,2014,Golden State Warriors
+790,barneha02,30-May-92,2012,Harrison Barnes,Power Forward and Small Forward,University of North Carolina,3873398,2016,2015,Golden State Warriors
+791,barneha02,30-May-92,2012,Harrison Barnes,Power Forward and Small Forward,University of North Carolina,22116750,2017,2016,Dallas Mavericks
+792,barneha02,30-May-92,2012,Harrison Barnes,Power Forward and Small Forward,University of North Carolina,23112004,2018,2017,Dallas Mavericks
+861,bartowi01,6-Jan-91,2012,Will Barton,Shooting Guard,University of Memphis,550000,2013,2012,Portland Trail Blazers
+862,bartowi01,6-Jan-91,2012,Will Barton,Shooting Guard,University of Memphis,788872,2014,2013,Portland Trail Blazers
+863,bartowi01,6-Jan-91,2012,Will Barton,Shooting Guard,University of Memphis,915243,2015,2014,Denver Nuggets
+864,bartowi01,6-Jan-91,2012,Will Barton,Shooting Guard,University of Memphis,3333333,2016,2015,Denver Nuggets
+865,bartowi01,6-Jan-91,2012,Will Barton,Shooting Guard,University of Memphis,3533333,2017,2016,Denver Nuggets
+866,bartowi01,6-Jan-91,2012,Will Barton,Shooting Guard,University of Memphis,3533333,2018,2017,Denver Nuggets
+965,bealbr01,28-Jun-93,2012,Bradley Beal,Shooting Guard,University of Florida,4133280,2013,2012,Washington Wizards
+966,bealbr01,28-Jun-93,2012,Bradley Beal,Shooting Guard,University of Florida,4319280,2014,2013,Washington Wizards
+967,bealbr01,28-Jun-93,2012,Bradley Beal,Shooting Guard,University of Florida,4505280,2015,2014,Washington Wizards
+968,bealbr01,28-Jun-93,2012,Bradley Beal,Shooting Guard,University of Florida,5694674,2016,2015,Washington Wizards
+969,bealbr01,28-Jun-93,2012,Bradley Beal,Shooting Guard,University of Florida,22116750,2017,2016,Washington Wizards
+970,bealbr01,28-Jun-93,2012,Bradley Beal,Shooting Guard,University of Florida,23775506,2018,2017,Washington Wizards
+973,beaslma01,26-Nov-96,2016,Malik Beasley,Shooting Guard,Florida State University,1627320,2017,2016,Denver Nuggets
+974,beaslma01,26-Nov-96,2016,Malik Beasley,Shooting Guard,Florida State University,1700640,2018,2017,Denver Nuggets
+1019,belljo01,7-Jan-95,2017,Jordan Bell,Center,University of Oregon,815615,2018,2017,Golden State Warriors
+1035,bembrde01,4-Jul-94,2016,DeAndre' Bembry,Shooting Guard and Small Forward,Saint Joseph's University,1499760,2017,2016,Atlanta Hawks
+1036,bembrde01,4-Jul-94,2016,DeAndre' Bembry,Shooting Guard and Small Forward,Saint Joseph's University,1567200,2018,2017,Atlanta Hawks
+1063,bennean01,14-Mar-93,2013,Anthony Bennett,Power Forward,"University of Nevada, Las Vegas",5324280,2014,2013,Cleveland Cavaliers
+1064,bennean01,14-Mar-93,2013,Anthony Bennett,Power Forward,"University of Nevada, Las Vegas",5563920,2015,2014,Minnesota Timberwolves
+1065,bennean01,14-Mar-93,2013,Anthony Bennett,Power Forward,"University of Nevada, Las Vegas",3650000,2016,2015,Minnesota Timberwolves
+1066,bennean01,14-Mar-93,2013,Anthony Bennett,Power Forward,"University of Nevada, Las Vegas",947276,2016,2015,Toronto Raptors
+1067,bennean01,14-Mar-93,2013,Anthony Bennett,Power Forward,"University of Nevada, Las Vegas",1015696,2017,2016,Brooklyn Nets
+1085,bensoke02,13-Aug-88,2011,Keith Benson,Center,Oakland University,75000,2017,2016,Miami Heat
+1090,bentibe01,29-Mar-95,2016,Ben Bentil,Power Forward,Providence College,250000,2017,2016,Boston Celtics
+1091,bentibe01,29-Mar-95,2016,Ben Bentil,Power Forward,Providence College,50000,2017,2016,Indiana Pacers
+1092,bentibe01,29-Mar-95,2016,Ben Bentil,Power Forward,Providence College,31969,2017,2016,Dallas Mavericks
+1247,bledser01,9-Dec-89,2010,Eric Bledsoe,Point Guard,University of Kentucky,1485000,2011,2010,Los Angeles Clippers
+1248,bledser01,9-Dec-89,2010,Eric Bledsoe,Point Guard,University of Kentucky,1596360,2012,2011,Los Angeles Clippers
+1249,bledser01,9-Dec-89,2010,Eric Bledsoe,Point Guard,University of Kentucky,1707720,2013,2012,Los Angeles Clippers
+1250,bledser01,9-Dec-89,2010,Eric Bledsoe,Point Guard,University of Kentucky,2626473,2014,2013,Phoenix Suns
+1251,bledser01,9-Dec-89,2010,Eric Bledsoe,Point Guard,University of Kentucky,12173913,2015,2014,Phoenix Suns
+1252,bledser01,9-Dec-89,2010,Eric Bledsoe,Point Guard,University of Kentucky,13086957,2016,2015,Phoenix Suns
+1253,bledser01,9-Dec-89,2010,Eric Bledsoe,Point Guard,University of Kentucky,14000000,2017,2016,Phoenix Suns
+1254,bledser01,9-Dec-89,2010,Eric Bledsoe,Point Guard,University of Kentucky,14500000,2018,2017,Milwaukee Bucks
+1354,bookede01,30-Oct-96,2015,Devin Booker,Shooting Guard,University of Kentucky,2127840,2016,2015,Phoenix Suns
+1355,bookede01,30-Oct-96,2015,Devin Booker,Shooting Guard,University of Kentucky,2223600,2017,2016,Phoenix Suns
+1356,bookede01,30-Oct-96,2015,Devin Booker,Shooting Guard,University of Kentucky,2319360,2018,2017,Phoenix Suns
+1357,booketr01,25-Nov-87,2010,Trevor Booker,Power Forward,Clemson University,1204560,2011,2010,Washington Wizards
+1358,booketr01,25-Nov-87,2010,Trevor Booker,Power Forward,Clemson University,1294920,2012,2011,Washington Wizards
+1359,booketr01,25-Nov-87,2010,Trevor Booker,Power Forward,Clemson University,1385280,2013,2012,Washington Wizards
+1360,booketr01,25-Nov-87,2010,Trevor Booker,Power Forward,Clemson University,2350820,2014,2013,Washington Wizards
+1361,booketr01,25-Nov-87,2010,Trevor Booker,Power Forward,Clemson University,5000000,2015,2014,Utah Jazz
+1362,booketr01,25-Nov-87,2010,Trevor Booker,Power Forward,Clemson University,4775000,2016,2015,Utah Jazz
+1363,booketr01,25-Nov-87,2010,Trevor Booker,Power Forward,Clemson University,9250000,2017,2016,Brooklyn Nets
+1364,booketr01,25-Nov-87,2010,Trevor Booker,Power Forward,Clemson University,8725000,2018,2017,Philadelphia 76ers
+1365,booketr01,25-Nov-87,2010,Trevor Booker,Power Forward,Clemson University,332516,2018,2017,Indiana Pacers
+1481,brackcr01,9-Oct-87,2010,Craig Brackins,Power Forward,Iowa State University,1306920,2011,2010,Philadelphia 76ers
+1482,brackcr01,9-Oct-87,2010,Craig Brackins,Power Forward,Iowa State University,1404960,2012,2011,Philadelphia 76ers
+1483,bradlav01,26-Nov-90,2010,Avery Bradley,Point Guard and Shooting Guard,University of Texas at Austin,1418160,2011,2010,Boston Celtics
+1484,bradlav01,26-Nov-90,2010,Avery Bradley,Point Guard and Shooting Guard,University of Texas at Austin,1524480,2012,2011,Boston Celtics
+1485,bradlav01,26-Nov-90,2010,Avery Bradley,Point Guard and Shooting Guard,University of Texas at Austin,1630800,2013,2012,Boston Celtics
+1486,bradlav01,26-Nov-90,2010,Avery Bradley,Point Guard and Shooting Guard,University of Texas at Austin,2511432,2014,2013,Boston Celtics
+1487,bradlav01,26-Nov-90,2010,Avery Bradley,Point Guard and Shooting Guard,University of Texas at Austin,7191011,2015,2014,Boston Celtics
+1488,bradlav01,26-Nov-90,2010,Avery Bradley,Point Guard and Shooting Guard,University of Texas at Austin,7730337,2016,2015,Boston Celtics
+1489,bradlav01,26-Nov-90,2010,Avery Bradley,Point Guard and Shooting Guard,University of Texas at Austin,8269663,2017,2016,Boston Celtics
+1490,bradlav01,26-Nov-90,2010,Avery Bradley,Point Guard and Shooting Guard,University of Texas at Austin,8808989,2018,2017,Los Angeles Clippers
+1513,bradlto01,8-Jan-98,2017,Tony Bradley,Center,University of North Carolina,1414920,2018,2017,Utah Jazz
+1612,brogdma01,11-Dec-92,2016,Malcolm Brogdon,Shooting Guard and Point Guard,University of Virginia,925000,2017,2016,Milwaukee Bucks
+1613,brogdma01,11-Dec-92,2016,Malcolm Brogdon,Shooting Guard and Point Guard,University of Virginia,1312611,2018,2017,Milwaukee Bucks
+1625,brookdi01,22-Jan-96,2017,Dillon Brooks,Small Forward,University of Oregon,815615,2018,2017,Memphis Grizzlies
+1630,brookma01,26-Jan-89,2011,MarShon Brooks,Shooting Guard,Providence College,1110120,2012,2011,New Jersey Nets
+1631,brookma01,26-Jan-89,2011,MarShon Brooks,Shooting Guard,Providence College,1193280,2013,2012,Brooklyn Nets
+1632,brookma01,26-Jan-89,2011,MarShon Brooks,Shooting Guard,Providence College,1210080,2014,2013,Boston Celtics
+1633,brookma01,26-Jan-89,2011,MarShon Brooks,Shooting Guard,Providence College,332477,2018,2017,Memphis Grizzlies
+1691,brownja02,24-Oct-96,2016,Jaylen Brown,Small Forward and Shooting Guard,University of California,4743000,2017,2016,Boston Celtics
+1692,brownja02,24-Oct-96,2016,Jaylen Brown,Small Forward and Shooting Guard,University of California,4956480,2018,2017,Boston Celtics
+1758,brownst02,10-Feb-95,2017,Sterling Brown,Shooting Guard,Southern Methodist University,815615,2018,2017,Milwaukee Bucks
+1811,bryanth01,31-Jul-97,2017,Thomas Bryant,Center,Indiana University,815615,2018,2017,Los Angeles Lakers
+1867,bullore01,16-Mar-91,2013,Reggie Bullock,Shooting Guard and Small Forward,University of North Carolina,1149000,2014,2013,Los Angeles Clippers
+1868,bullore01,16-Mar-91,2013,Reggie Bullock,Shooting Guard and Small Forward,University of North Carolina,1200720,2015,2014,Phoenix Suns
+1869,bullore01,16-Mar-91,2013,Reggie Bullock,Shooting Guard and Small Forward,University of North Carolina,1252440,2016,2015,Detroit Pistons
+1870,bullore01,16-Mar-91,2013,Reggie Bullock,Shooting Guard and Small Forward,University of North Carolina,2255644,2017,2016,Detroit Pistons
+1871,bullore01,16-Mar-91,2013,Reggie Bullock,Shooting Guard and Small Forward,University of North Carolina,2500000,2018,2017,Detroit Pistons
+1875,burketr01,12-Nov-92,2013,Trey Burke,Point Guard,University of Michigan,2438760,2014,2013,Utah Jazz
+1876,burketr01,12-Nov-92,2013,Trey Burke,Point Guard,University of Michigan,2548560,2015,2014,Utah Jazz
+1877,burketr01,12-Nov-92,2013,Trey Burke,Point Guard,University of Michigan,2658240,2016,2015,Utah Jazz
+1878,burketr01,12-Nov-92,2013,Trey Burke,Point Guard,University of Michigan,3386598,2017,2016,Washington Wizards
+1879,burketr01,12-Nov-92,2013,Trey Burke,Point Guard,University of Michigan,784160,2018,2017,New York Knicks
+1880,burksal01,20-Jul-91,2011,Alec Burks,Shooting Guard,University of Colorado,2020200,2012,2011,Utah Jazz
+1881,burksal01,20-Jul-91,2011,Alec Burks,Shooting Guard,University of Colorado,2171640,2013,2012,Utah Jazz
+1882,burksal01,20-Jul-91,2011,Alec Burks,Shooting Guard,University of Colorado,2202000,2014,2013,Utah Jazz
+1883,burksal01,20-Jul-91,2011,Alec Burks,Shooting Guard,University of Colorado,3034356,2015,2014,Utah Jazz
+1884,burksal01,20-Jul-91,2011,Alec Burks,Shooting Guard,University of Colorado,9213484,2016,2015,Utah Jazz
+1885,burksal01,20-Jul-91,2011,Alec Burks,Shooting Guard,University of Colorado,10154495,2017,2016,Utah Jazz
+1886,burksal01,20-Jul-91,2011,Alec Burks,Shooting Guard,University of Colorado,10845506,2018,2017,Utah Jazz
+1930,butleji01,14-Sep-89,2011,Jimmy Butler,Shooting Guard and Small Forward,Marquette University,1020960,2012,2011,Chicago Bulls
+1931,butleji01,14-Sep-89,2011,Jimmy Butler,Shooting Guard and Small Forward,Marquette University,1097520,2013,2012,Chicago Bulls
+1932,butleji01,14-Sep-89,2011,Jimmy Butler,Shooting Guard and Small Forward,Marquette University,1112880,2014,2013,Chicago Bulls
+1933,butleji01,14-Sep-89,2011,Jimmy Butler,Shooting Guard and Small Forward,Marquette University,2008748,2015,2014,Chicago Bulls
+1934,butleji01,14-Sep-89,2011,Jimmy Butler,Shooting Guard and Small Forward,Marquette University,15260000,2016,2015,Chicago Bulls
+1935,butleji01,14-Sep-89,2011,Jimmy Butler,Shooting Guard and Small Forward,Marquette University,17552209,2017,2016,Chicago Bulls
+1936,butleji01,14-Sep-89,2011,Jimmy Butler,Shooting Guard and Small Forward,Marquette University,19301070,2018,2017,Minnesota Timberwolves
+2029,caldwke01,18-Feb-93,2013,Kentavious Caldwell-Pope,Shooting Guard,University of Georgia,2653080,2014,2013,Detroit Pistons
+2030,caldwke01,18-Feb-93,2013,Kentavious Caldwell-Pope,Shooting Guard,University of Georgia,2772480,2015,2014,Detroit Pistons
+2031,caldwke01,18-Feb-93,2013,Kentavious Caldwell-Pope,Shooting Guard,University of Georgia,2891760,2016,2015,Detroit Pistons
+2032,caldwke01,18-Feb-93,2013,Kentavious Caldwell-Pope,Shooting Guard,University of Georgia,3678319,2017,2016,Detroit Pistons
+2033,caldwke01,18-Feb-93,2013,Kentavious Caldwell-Pope,Shooting Guard,University of Georgia,17745894,2018,2017,Los Angeles Lakers
+2080,canaais01,21-May-91,2013,Isaiah Canaan,Shooting Guard and Point Guard,Murray State University,816482,2015,2014,Philadelphia 76ers
+2081,canaais01,21-May-91,2013,Isaiah Canaan,Shooting Guard and Point Guard,Murray State University,947276,2016,2015,Philadelphia 76ers
+2082,canaais01,21-May-91,2013,Isaiah Canaan,Shooting Guard and Point Guard,Murray State University,1015696,2017,2016,Chicago Bulls
+2083,canaais01,21-May-91,2013,Isaiah Canaan,Shooting Guard and Point Guard,Murray State University,997547,2018,2017,Phoenix Suns
+2084,canaais01,21-May-91,2013,Isaiah Canaan,Shooting Guard and Point Guard,Murray State University,200000,2018,2017,Chicago Bulls
+2085,canaais01,21-May-91,2013,Isaiah Canaan,Shooting Guard and Point Guard,Murray State University,53465,2018,2017,Houston Rockets
+2090,caracde01,4-May-88,2010,Derrick Caracter,Center,"University of Louisville, University of Texas at El Paso",473604,2011,2010,Los Angeles Lakers
+2091,caracde01,4-May-88,2010,Derrick Caracter,Center,"University of Louisville, University of Texas at El Paso",270427,2012,2011,Los Angeles Lakers
+2195,cartemi01,10-Oct-91,2013,Michael Carter-Williams,Point Guard,Syracuse University,2200920,2014,2013,Philadelphia 76ers
+2196,cartemi01,10-Oct-91,2013,Michael Carter-Williams,Point Guard,Syracuse University,2300040,2015,2014,Milwaukee Bucks
+2197,cartemi01,10-Oct-91,2013,Michael Carter-Williams,Point Guard,Syracuse University,2399040,2016,2015,Milwaukee Bucks
+2198,cartemi01,10-Oct-91,2013,Michael Carter-Williams,Point Guard,Syracuse University,3183526,2017,2016,Chicago Bulls
+2199,cartemi01,10-Oct-91,2013,Michael Carter-Williams,Point Guard,Syracuse University,2700000,2018,2017,Charlotte Hornets
+2257,caulewi01,18-Aug-93,2015,Willie Cauley-Stein,Center,University of Kentucky,3398280,2016,2015,Sacramento Kings
+2258,caulewi01,18-Aug-93,2015,Willie Cauley-Stein,Center,University of Kentucky,3551160,2017,2016,Sacramento Kings
+2259,caulewi01,18-Aug-93,2015,Willie Cauley-Stein,Center,University of Kentucky,3704160,2018,2017,Sacramento Kings
+2404,chrisma01,2-Jul-97,2016,Marquese Chriss,Power Forward,University of Washington,2941440,2017,2016,Phoenix Suns
+2405,chrisma01,2-Jul-97,2016,Marquese Chriss,Power Forward,University of Washington,3073800,2018,2017,Phoenix Suns
+2422,chrisra01,1-Dec-91,2015,Rakeem Christmas,Power Forward,Syracuse University,1000000,2016,2015,Indiana Pacers
+2423,chrisra01,1-Dec-91,2015,Rakeem Christmas,Power Forward,Syracuse University,1052342,2017,2016,Indiana Pacers
+2424,chrisra01,1-Dec-91,2015,Rakeem Christmas,Power Forward,Syracuse University,172552,2018,2017,Indiana Pacers
+2425,chrisse01,1-Nov-92,2014,Semaj Christon,Point Guard,Xavier University,543471,2017,2016,Oklahoma City Thunder
+2444,clarkjo01,7-Jun-92,2014,Jordan Clarkson,Shooting Guard and Point Guard,"University of Tulsa, University of Missouri",507336,2015,2014,Los Angeles Lakers
+2445,clarkjo01,7-Jun-92,2014,Jordan Clarkson,Shooting Guard and Point Guard,"University of Tulsa, University of Missouri",845059,2016,2015,Los Angeles Lakers
+2446,clarkjo01,7-Jun-92,2014,Jordan Clarkson,Shooting Guard and Point Guard,"University of Tulsa, University of Missouri",12500000,2017,2016,Los Angeles Lakers
+2447,clarkjo01,7-Jun-92,2014,Jordan Clarkson,Shooting Guard and Point Guard,"University of Tulsa, University of Missouri",11562500,2018,2017,Cleveland Cavaliers
+2475,coleno01,13-Oct-88,2011,Norris Cole,Point Guard,Cleveland State University,1035960,2012,2011,Miami Heat
+2476,coleno01,13-Oct-88,2011,Norris Cole,Point Guard,Cleveland State University,1082520,2013,2012,Miami Heat
+2477,coleno01,13-Oct-88,2011,Norris Cole,Point Guard,Cleveland State University,1129200,2014,2013,Miami Heat
+2478,coleno01,13-Oct-88,2011,Norris Cole,Point Guard,Cleveland State University,2038206,2015,2014,New Orleans Pelicans
+2479,coleno01,13-Oct-88,2011,Norris Cole,Point Guard,Cleveland State University,3036927,2016,2015,New Orleans Pelicans
+2480,coleno01,13-Oct-88,2011,Norris Cole,Point Guard,Cleveland State University,247991,2017,2016,Oklahoma City Thunder
+2543,collijo01,23-Sep-97,2017,John Collins,Power Forward,Wake Forest University,1936920,2018,2017,Atlanta Hawks
+2549,colliza01,19-Nov-97,2017,Zach Collins,Center,Gonzaga University,3057240,2018,2017,Portland Trail Blazers
+2602,connapa01,6-Jan-93,2015,Pat Connaughton,Shooting Guard,University of Notre Dame,525093,2016,2015,Portland Trail Blazers
+2603,connapa01,6-Jan-93,2015,Pat Connaughton,Shooting Guard,University of Notre Dame,874636,2017,2016,Portland Trail Blazers
+2604,connapa01,6-Jan-93,2015,Pat Connaughton,Shooting Guard,University of Notre Dame,1471382,2018,2017,Portland Trail Blazers
+2695,couside01,13-Aug-90,2010,DeMarcus Cousins,Center,University of Kentucky,3374640,2011,2010,Sacramento Kings
+2696,couside01,13-Aug-90,2010,DeMarcus Cousins,Center,University of Kentucky,3627720,2012,2011,Sacramento Kings
+2697,couside01,13-Aug-90,2010,DeMarcus Cousins,Center,University of Kentucky,3880800,2013,2012,Sacramento Kings
+2698,couside01,13-Aug-90,2010,DeMarcus Cousins,Center,University of Kentucky,4916974,2014,2013,Sacramento Kings
+2699,couside01,13-Aug-90,2010,DeMarcus Cousins,Center,University of Kentucky,13701250,2015,2014,Sacramento Kings
+2700,couside01,13-Aug-90,2010,DeMarcus Cousins,Center,University of Kentucky,14728844,2016,2015,Sacramento Kings
+2701,couside01,13-Aug-90,2010,DeMarcus Cousins,Center,University of Kentucky,16957900,2017,2016,New Orleans Pelicans
+2702,couside01,13-Aug-90,2010,DeMarcus Cousins,Center,University of Kentucky,18063850,2018,2017,New Orleans Pelicans
+2708,crabbal01,9-Apr-92,2013,Allen Crabbe,Shooting Guard,University of California,862000,2015,2014,Portland Trail Blazers
+2709,crabbal01,9-Apr-92,2013,Allen Crabbe,Shooting Guard,University of California,947276,2016,2015,Portland Trail Blazers
+2710,crabbal01,9-Apr-92,2013,Allen Crabbe,Shooting Guard,University of California,18500000,2017,2016,Portland Trail Blazers
+2711,crabbal01,9-Apr-92,2013,Allen Crabbe,Shooting Guard,University of California,19332500,2018,2017,Brooklyn Nets
+2739,crawfjo02,23-Oct-88,2010,Jordan Crawford,Shooting Guard and Point Guard,"Indiana University, Xavier University",1042320,2011,2010,Washington Wizards
+2740,crawfjo02,23-Oct-88,2010,Jordan Crawford,Shooting Guard and Point Guard,"Indiana University, Xavier University",1120440,2012,2011,Washington Wizards
+2741,crawfjo02,23-Oct-88,2010,Jordan Crawford,Shooting Guard and Point Guard,"Indiana University, Xavier University",1198680,2013,2012,Boston Celtics
+2742,crawfjo02,23-Oct-88,2010,Jordan Crawford,Shooting Guard and Point Guard,"Indiana University, Xavier University",2162419,2014,2013,Boston Celtics
+2743,crawfjo02,23-Oct-88,2010,Jordan Crawford,Shooting Guard and Point Guard,"Indiana University, Xavier University",234915,2017,2016,New Orleans Pelicans
+2744,crawfjo02,23-Oct-88,2010,Jordan Crawford,Shooting Guard and Point Guard,"Indiana University, Xavier University",308190,2018,2017,New Orleans Pelicans
+2779,crowdja01,6-Jul-90,2012,Jae Crowder,Small Forward,Marquette University,600491,2013,2012,Dallas Mavericks
+2780,crowdja01,6-Jul-90,2012,Jae Crowder,Small Forward,Marquette University,788872,2014,2013,Dallas Mavericks
+2781,crowdja01,6-Jul-90,2012,Jae Crowder,Small Forward,Marquette University,915243,2015,2014,Boston Celtics
+2782,crowdja01,6-Jul-90,2012,Jae Crowder,Small Forward,Marquette University,6000000,2016,2015,Boston Celtics
+2783,crowdja01,6-Jul-90,2012,Jae Crowder,Small Forward,Marquette University,6286408,2017,2016,Boston Celtics
+2784,crowdja01,6-Jul-90,2012,Jae Crowder,Small Forward,Marquette University,6796117,2018,2017,Utah Jazz
+2816,cunnija01,22-May-91,2012,Jared Cunningham,Shooting Guard,Oregon State University,1156320,2013,2012,Dallas Mavericks
+2817,cunnija01,22-May-91,2012,Jared Cunningham,Shooting Guard,Oregon State University,1208400,2014,2013,Atlanta Hawks
+2818,cunnija01,22-May-91,2012,Jared Cunningham,Shooting Guard,Oregon State University,981348,2016,2015,Orlando Magic
+2819,cunnija01,22-May-91,2012,Jared Cunningham,Shooting Guard,Oregon State University,57726,2016,2015,Milwaukee Bucks
+2989,davisan02,11-Mar-93,2012,Anthony Davis,Power Forward and Center,University of Kentucky,5144280,2013,2012,New Orleans Hornets
+2990,davisan02,11-Mar-93,2012,Anthony Davis,Power Forward and Center,University of Kentucky,5375760,2014,2013,New Orleans Pelicans
+2991,davisan02,11-Mar-93,2012,Anthony Davis,Power Forward and Center,University of Kentucky,5607240,2015,2014,New Orleans Pelicans
+2992,davisan02,11-Mar-93,2012,Anthony Davis,Power Forward and Center,University of Kentucky,7070730,2016,2015,New Orleans Pelicans
+2993,davisan02,11-Mar-93,2012,Anthony Davis,Power Forward and Center,University of Kentucky,22116750,2017,2016,New Orleans Pelicans
+2994,davisan02,11-Mar-93,2012,Anthony Davis,Power Forward and Center,University of Kentucky,23775506,2018,2017,New Orleans Pelicans
+3053,davisde01,2-Dec-96,2016,Deyonta Davis,Center,Michigan State University,1369229,2017,2016,Memphis Grizzlies
+3054,davisde01,2-Dec-96,2016,Deyonta Davis,Center,Michigan State University,1312611,2018,2017,Memphis Grizzlies
+3055,davised01,5-Jun-89,2010,Ed Davis,Center and Power Forward,University of North Carolina,1919160,2011,2010,Toronto Raptors
+3056,davised01,5-Jun-89,2010,Ed Davis,Center and Power Forward,University of North Carolina,2063040,2012,2011,Toronto Raptors
+3057,davised01,5-Jun-89,2010,Ed Davis,Center and Power Forward,University of North Carolina,2207040,2013,2012,Memphis Grizzlies
+3058,davised01,5-Jun-89,2010,Ed Davis,Center and Power Forward,University of North Carolina,3153860,2014,2013,Memphis Grizzlies
+3059,davised01,5-Jun-89,2010,Ed Davis,Center and Power Forward,University of North Carolina,981084,2015,2014,Los Angeles Lakers
+3060,davised01,5-Jun-89,2010,Ed Davis,Center and Power Forward,University of North Carolina,7000000,2016,2015,Portland Trail Blazers
+3061,davised01,5-Jun-89,2010,Ed Davis,Center and Power Forward,University of North Carolina,6666667,2017,2016,Portland Trail Blazers
+3062,davised01,5-Jun-89,2010,Ed Davis,Center and Power Forward,University of North Carolina,6352531,2018,2017,Portland Trail Blazers
+3149,dawsobr01,1-Feb-93,2015,Branden Dawson,Power Forward,Michigan State University,525093,2016,2015,Los Angeles Clippers
+3194,dekkesa01,6-May-94,2015,Sam Dekker,Power Forward,University of Wisconsin,1646400,2016,2015,Houston Rockets
+3195,dekkesa01,6-May-94,2015,Sam Dekker,Power Forward,University of Wisconsin,1720560,2017,2016,Houston Rockets
+3196,dekkesa01,6-May-94,2015,Sam Dekker,Power Forward,University of Wisconsin,1794600,2018,2017,Los Angeles Clippers
+3274,diallch01,13-Sep-96,2016,Cheick Diallo,Power Forward,University of Kansas,543471,2017,2016,New Orleans Pelicans
+3275,diallch01,13-Sep-96,2016,Cheick Diallo,Power Forward,University of Kansas,1312611,2018,2017,New Orleans Pelicans
+3317,dienggo01,18-Jan-90,2013,Gorgui Dieng,Center and Power Forward,University of Louisville,1352640,2014,2013,Minnesota Timberwolves
+3318,dienggo01,18-Jan-90,2013,Gorgui Dieng,Center and Power Forward,University of Louisville,1413480,2015,2014,Minnesota Timberwolves
+3319,dienggo01,18-Jan-90,2013,Gorgui Dieng,Center and Power Forward,University of Louisville,1474440,2016,2015,Minnesota Timberwolves
+3320,dienggo01,18-Jan-90,2013,Gorgui Dieng,Center and Power Forward,University of Louisville,2348783,2017,2016,Minnesota Timberwolves
+3321,dienggo01,18-Jan-90,2013,Gorgui Dieng,Center and Power Forward,University of Louisville,14112360,2018,2017,Minnesota Timberwolves
+3322,dinwisp01,6-Apr-93,2014,Spencer Dinwiddie,Point Guard,University of Colorado,700000,2015,2014,Detroit Pistons
+3323,dinwisp01,6-Apr-93,2014,Spencer Dinwiddie,Point Guard,University of Colorado,845059,2016,2015,Detroit Pistons
+3324,dinwisp01,6-Apr-93,2014,Spencer Dinwiddie,Point Guard,University of Colorado,726672,2017,2016,Brooklyn Nets
+3325,dinwisp01,6-Apr-93,2014,Spencer Dinwiddie,Point Guard,University of Colorado,1524305,2018,2017,Brooklyn Nets
+3402,dorsety01,18-Feb-96,2017,Tyler Dorsey,Shooting Guard,University of Oregon,815615,2018,2017,Atlanta Hawks
+3403,dotsoda01,6-May-94,2017,Damyean Dotson,Shooting Guard,"University of Oregon, University of Houston",1100000,2018,2017,New York Knicks
+3487,drumman01,10-Aug-93,2012,Andre Drummond,Center,University of Connecticut,2356320,2013,2012,Detroit Pistons
+3488,drumman01,10-Aug-93,2012,Andre Drummond,Center,University of Connecticut,2462400,2014,2013,Detroit Pistons
+3489,drumman01,10-Aug-93,2012,Andre Drummond,Center,University of Connecticut,2568360,2015,2014,Detroit Pistons
+3490,drumman01,10-Aug-93,2012,Andre Drummond,Center,University of Connecticut,3272091,2016,2015,Detroit Pistons
+3491,drumman01,10-Aug-93,2012,Andre Drummond,Center,University of Connecticut,22116750,2017,2016,Detroit Pistons
+3492,drumman01,10-Aug-93,2012,Andre Drummond,Center,University of Connecticut,23775506,2018,2017,Detroit Pistons
+3600,dunnkr01,18-Mar-94,2016,Kris Dunn,Point Guard,Providence College,3872520,2017,2016,Minnesota Timberwolves
+3601,dunnkr01,18-Mar-94,2016,Kris Dunn,Point Guard,Providence College,4046760,2018,2017,Chicago Bulls
+3631,earlycl01,17-Apr-91,2014,Cleanthony Early,Small Forward,Wichita State University,507336,2015,2014,New York Knicks
+3632,earlycl01,17-Apr-91,2014,Cleanthony Early,Small Forward,Wichita State University,845059,2016,2015,New York Knicks
+3642,ebankde01,28-Oct-89,2010,Devin Ebanks,Shooting Guard and Small Forward,West Virginia University,473604,2011,2010,Los Angeles Lakers
+3643,ebankde01,28-Oct-89,2010,Devin Ebanks,Shooting Guard and Small Forward,West Virginia University,762195,2012,2011,Los Angeles Lakers
+3644,ebankde01,28-Oct-89,2010,Devin Ebanks,Shooting Guard and Small Forward,West Virginia University,1054389,2013,2012,Los Angeles Lakers
+3746,ellenhe01,13-Jan-97,2016,Henry Ellenson,Power Forward,Marquette University,1704120,2017,2016,Detroit Pistons
+3747,ellenhe01,13-Jan-97,2016,Henry Ellenson,Power Forward,Marquette University,1780800,2018,2017,Detroit Pistons
+3845,embiijo01,16-Mar-94,2014,Joel Embiid,Center,University of Kansas,4427640,2015,2014,Philadelphia 76ers
+3846,embiijo01,16-Mar-94,2014,Joel Embiid,Center,University of Kansas,4626960,2016,2015,Philadelphia 76ers
+3847,embiijo01,16-Mar-94,2014,Joel Embiid,Center,University of Kansas,4826160,2017,2016,Philadelphia 76ers
+3848,embiijo01,16-Mar-94,2014,Joel Embiid,Center,University of Kansas,6100266,2018,2017,Philadelphia 76ers
+3867,engliki01,24-Sep-88,2012,Kim English,Shooting Guard,University of Missouri,473604,2013,2012,Detroit Pistons
+3868,ennisja01,1-Jul-90,2013,James Ennis,Small Forward,"California State University, Long Beach",507336,2015,2014,Miami Heat
+3869,ennisja01,1-Jul-90,2013,James Ennis,Small Forward,"California State University, Long Beach",845059,2016,2015,Memphis Grizzlies
+3870,ennisja01,1-Jul-90,2013,James Ennis,Small Forward,"California State University, Long Beach",74564,2016,2015,New Orleans Pelicans
+3871,ennisja01,1-Jul-90,2013,James Ennis,Small Forward,"California State University, Long Beach",2898000,2017,2016,Memphis Grizzlies
+3872,ennisja01,1-Jul-90,2013,James Ennis,Small Forward,"California State University, Long Beach",3028410,2018,2017,Detroit Pistons
+3873,ennisty01,24-Aug-94,2014,Tyler Ennis,Point Guard,Syracuse University,1590720,2015,2014,Milwaukee Bucks
+3874,ennisty01,24-Aug-94,2014,Tyler Ennis,Point Guard,Syracuse University,1662360,2016,2015,Milwaukee Bucks
+3875,ennisty01,24-Aug-94,2014,Tyler Ennis,Point Guard,Syracuse University,1733880,2017,2016,Los Angeles Lakers
+3876,ennisty01,24-Aug-94,2014,Tyler Ennis,Point Guard,Syracuse University,1524305,2018,2017,Los Angeles Lakers
+3892,evansja01,26-Jul-96,2017,Jawun Evans,Point Guard,Oklahoma State University,815615,2018,2017,Los Angeles Clippers
+3893,evansje01,24-Oct-87,2010,Jeremy Evans,Power Forward and Small Forward,Western Kentucky University,473604,2011,2010,Utah Jazz
+3894,evansje01,24-Oct-87,2010,Jeremy Evans,Power Forward and Small Forward,Western Kentucky University,762195,2012,2011,Utah Jazz
+3895,evansje01,24-Oct-87,2010,Jeremy Evans,Power Forward and Small Forward,Western Kentucky University,1794872,2013,2012,Utah Jazz
+3896,evansje01,24-Oct-87,2010,Jeremy Evans,Power Forward and Small Forward,Western Kentucky University,1660257,2014,2013,Utah Jazz
+3897,evansje01,24-Oct-87,2010,Jeremy Evans,Power Forward and Small Forward,Western Kentucky University,1794871,2015,2014,Utah Jazz
+3898,evansje01,24-Oct-87,2010,Jeremy Evans,Power Forward and Small Forward,Western Kentucky University,1100602,2016,2015,Dallas Mavericks
+3899,evansje01,24-Oct-87,2010,Jeremy Evans,Power Forward and Small Forward,Western Kentucky University,1227286,2017,2016,Indiana Pacers
+3900,evansje01,24-Oct-87,2010,Jeremy Evans,Power Forward and Small Forward,Western Kentucky University,133129,2018,2017,Atlanta Hawks
+3963,ezelife01,21-Oct-89,2012,Festus Ezeli,Center,Vanderbilt University,1020960,2013,2012,Golden State Warriors
+3964,ezelife01,21-Oct-89,2012,Festus Ezeli,Center,Vanderbilt University,1066920,2014,2013,Golden State Warriors
+3965,ezelife01,21-Oct-89,2012,Festus Ezeli,Center,Vanderbilt University,1112880,2015,2014,Golden State Warriors
+3966,ezelife01,21-Oct-89,2012,Festus Ezeli,Center,Vanderbilt University,2008748,2016,2015,Golden State Warriors
+3967,ezelife01,21-Oct-89,2012,Festus Ezeli,Center,Vanderbilt University,7400000,2017,2016,Portland Trail Blazers
+3968,ezelife01,21-Oct-89,2012,Festus Ezeli,Center,Vanderbilt University,333334,2018,2017,Portland Trail Blazers
+3969,farieke01,19-Nov-89,2011,Kenneth Faried,Center and Power Forward,Morehead State University,1254720,2012,2011,Denver Nuggets
+3970,farieke01,19-Nov-89,2011,Kenneth Faried,Center and Power Forward,Morehead State University,1348800,2013,2012,Denver Nuggets
+3971,farieke01,19-Nov-89,2011,Kenneth Faried,Center and Power Forward,Morehead State University,1367640,2014,2013,Denver Nuggets
+3972,farieke01,19-Nov-89,2011,Kenneth Faried,Center and Power Forward,Morehead State University,2249768,2015,2014,Denver Nuggets
+3973,farieke01,19-Nov-89,2011,Kenneth Faried,Center and Power Forward,Morehead State University,11235955,2016,2015,Denver Nuggets
+3974,farieke01,19-Nov-89,2011,Kenneth Faried,Center and Power Forward,Morehead State University,12078652,2017,2016,Denver Nuggets
+3975,farieke01,19-Nov-89,2011,Kenneth Faried,Center and Power Forward,Morehead State University,12921348,2018,2017,Denver Nuggets
+3996,favorde01,15-Jul-91,2010,Derrick Favors,Center and Power Forward,Georgia Institute of Technology,4133280,2011,2010,Utah Jazz
+3997,favorde01,15-Jul-91,2010,Derrick Favors,Center and Power Forward,Georgia Institute of Technology,4443360,2012,2011,Utah Jazz
+3998,favorde01,15-Jul-91,2010,Derrick Favors,Center and Power Forward,Georgia Institute of Technology,4753320,2013,2012,Utah Jazz
+3999,favorde01,15-Jul-91,2010,Derrick Favors,Center and Power Forward,Georgia Institute of Technology,6008196,2014,2013,Utah Jazz
+4000,favorde01,15-Jul-91,2010,Derrick Favors,Center and Power Forward,Georgia Institute of Technology,12833333,2015,2014,Utah Jazz
+4001,favorde01,15-Jul-91,2010,Derrick Favors,Center and Power Forward,Georgia Institute of Technology,11933333,2016,2015,Utah Jazz
+4002,favorde01,15-Jul-91,2010,Derrick Favors,Center and Power Forward,Georgia Institute of Technology,11050000,2017,2016,Utah Jazz
+4003,favorde01,15-Jul-91,2010,Derrick Favors,Center and Power Forward,Georgia Institute of Technology,12000000,2018,2017,Utah Jazz
+4018,felixca01,17-Aug-90,2013,Carrick Felix,Shooting Guard,Arizona State University,816482,2015,2014,Utah Jazz
+4019,felixca01,17-Aug-90,2013,Carrick Felix,Shooting Guard,Arizona State University,140902,2018,2017,Washington Wizards
+4071,fieldla01,27-Jun-88,2010,Landry Fields,Shooting Guard and Small Forward,Stanford University,473604,2011,2010,New York Knicks
+4072,fieldla01,27-Jun-88,2010,Landry Fields,Shooting Guard and Small Forward,Stanford University,762195,2012,2011,New York Knicks
+4073,fieldla01,27-Jun-88,2010,Landry Fields,Shooting Guard and Small Forward,Stanford University,6250000,2013,2012,Toronto Raptors
+4074,fieldla01,27-Jun-88,2010,Landry Fields,Shooting Guard and Small Forward,Stanford University,6250000,2014,2013,Toronto Raptors
+4075,fieldla01,27-Jun-88,2010,Landry Fields,Shooting Guard and Small Forward,Stanford University,6250000,2015,2014,Toronto Raptors
+4224,foxde01,20-Dec-97,2017,De'Aaron Fox,Point Guard,University of Kentucky,4609200,2018,2017,Sacramento Kings
+4284,frankja01,21-Jul-91,2013,Jamaal Franklin,Shooting Guard,San Diego State University,163296,2015,2014,Memphis Grizzlies
+4285,frankja01,21-Jul-91,2013,Jamaal Franklin,Shooting Guard,San Diego State University,19914,2015,2014,Denver Nuggets
+4286,frankja01,21-Jul-91,2013,Jamaal Franklin,Shooting Guard,San Diego State University,163296,2016,2015,Memphis Grizzlies
+4287,frankja01,21-Jul-91,2013,Jamaal Franklin,Shooting Guard,San Diego State University,163296,2017,2016,Memphis Grizzlies
+4288,frankja01,21-Jul-91,2013,Jamaal Franklin,Shooting Guard,San Diego State University,163296,2018,2017,Memphis Grizzlies
+4298,fredeji01,25-Feb-89,2011,Jimmer Fredette,Shooting Guard and Point Guard,Brigham Young University,2238360,2012,2011,Sacramento Kings
+4299,fredeji01,25-Feb-89,2011,Jimmer Fredette,Shooting Guard and Point Guard,Brigham Young University,2406240,2013,2012,Sacramento Kings
+4300,fredeji01,25-Feb-89,2011,Jimmer Fredette,Shooting Guard and Point Guard,Brigham Young University,2439840,2014,2013,Sacramento Kings
+4301,fredeji01,25-Feb-89,2011,Jimmer Fredette,Shooting Guard and Point Guard,Brigham Young University,948163,2015,2014,New Orleans Pelicans
+4302,fredeji01,25-Feb-89,2011,Jimmer Fredette,Shooting Guard and Point Guard,Brigham Young University,507711,2016,2015,San Antonio Spurs
+4303,fredeji01,25-Feb-89,2011,Jimmer Fredette,Shooting Guard and Point Guard,Brigham Young University,59731,2016,2015,New York Knicks
+4304,fredeji01,25-Feb-89,2011,Jimmer Fredette,Shooting Guard and Point Guard,Brigham Young University,54812,2016,2015,New Orleans Pelicans
+4332,fultzma01,29-May-98,2017,Markelle Fultz,Shooting Guard,University of Washington,7026240,2018,2017,Philadelphia 76ers
+4517,gbinimi01,5-Jun-92,2016,Michael Gbinije,Shooting Guard,"Duke University, Syracuse University",650000,2017,2016,Detroit Pistons
+4518,gbinimi01,5-Jun-92,2016,Michael Gbinije,Shooting Guard,"Duke University, Syracuse University",500000,2018,2017,Detroit Pistons
+4556,georgpa01,2-May-90,2010,Paul George,Small Forward and Shooting Guard,"California State University, Fresno",2238360,2011,2010,Indiana Pacers
+4557,georgpa01,2-May-90,2010,Paul George,Small Forward and Shooting Guard,"California State University, Fresno",2406240,2012,2011,Indiana Pacers
+4558,georgpa01,2-May-90,2010,Paul George,Small Forward and Shooting Guard,"California State University, Fresno",2574120,2013,2012,Indiana Pacers
+4559,georgpa01,2-May-90,2010,Paul George,Small Forward and Shooting Guard,"California State University, Fresno",3282003,2014,2013,Indiana Pacers
+4560,georgpa01,2-May-90,2010,Paul George,Small Forward and Shooting Guard,"California State University, Fresno",15925680,2015,2014,Indiana Pacers
+4561,georgpa01,2-May-90,2010,Paul George,Small Forward and Shooting Guard,"California State University, Fresno",17120106,2016,2015,Indiana Pacers
+4562,georgpa01,2-May-90,2010,Paul George,Small Forward and Shooting Guard,"California State University, Fresno",18314532,2017,2016,Indiana Pacers
+4563,georgpa01,2-May-90,2010,Paul George,Small Forward and Shooting Guard,"California State University, Fresno",19508958,2018,2017,Oklahoma City Thunder
+4598,gilesha01,22-Apr-98,2017,Harry Giles,Power Forward,Duke University,1859400,2018,2017,Sacramento Kings
+4718,goodwar01,17-Aug-94,2013,Archie Goodwin,Point Guard and Shooting Guard,University of Kentucky,1064400,2014,2013,Phoenix Suns
+4719,goodwar01,17-Aug-94,2013,Archie Goodwin,Point Guard and Shooting Guard,University of Kentucky,1112280,2015,2014,Phoenix Suns
+4720,goodwar01,17-Aug-94,2013,Archie Goodwin,Point Guard and Shooting Guard,University of Kentucky,1160160,2016,2015,Phoenix Suns
+4721,goodwar01,17-Aug-94,2013,Archie Goodwin,Point Guard and Shooting Guard,University of Kentucky,2094089,2017,2016,Phoenix Suns
+4722,goodwar01,17-Aug-94,2013,Archie Goodwin,Point Guard and Shooting Guard,University of Kentucky,194494,2017,2016,Brooklyn Nets
+4723,goodwar01,17-Aug-94,2013,Archie Goodwin,Point Guard and Shooting Guard,University of Kentucky,95600,2017,2016,New Orleans Pelicans
+4724,gordoaa01,16-Sep-95,2014,Aaron Gordon,Power Forward and Small Forward,University of Arizona,3992040,2015,2014,Orlando Magic
+4725,gordoaa01,16-Sep-95,2014,Aaron Gordon,Power Forward and Small Forward,University of Arizona,4171680,2016,2015,Orlando Magic
+4726,gordoaa01,16-Sep-95,2014,Aaron Gordon,Power Forward and Small Forward,University of Arizona,4351320,2017,2016,Orlando Magic
+4727,gordoaa01,16-Sep-95,2014,Aaron Gordon,Power Forward and Small Forward,University of Arizona,5504420,2018,2017,Orlando Magic
+4762,goudean01,7-Dec-88,2011,Andrew Goudelock,Point Guard and Shooting Guard,College of Charleston,473604,2012,2011,Los Angeles Lakers
+4763,goudean01,7-Dec-88,2011,Andrew Goudelock,Point Guard and Shooting Guard,College of Charleston,200600,2016,2015,Houston Rockets
+4862,grantje01,12-Mar-94,2014,Jerami Grant,Small Forward and Power Forward,Syracuse University,884879,2015,2014,Philadelphia 76ers
+4863,grantje01,12-Mar-94,2014,Jerami Grant,Small Forward and Power Forward,Syracuse University,845059,2016,2015,Philadelphia 76ers
+4864,grantje01,12-Mar-94,2014,Jerami Grant,Small Forward and Power Forward,Syracuse University,980431,2017,2016,Oklahoma City Thunder
+4865,grantje01,12-Mar-94,2014,Jerami Grant,Small Forward and Power Forward,Syracuse University,1524305,2018,2017,Oklahoma City Thunder
+4866,grantje02,9-Oct-92,2015,Jerian Grant,Point Guard,University of Notre Dame,1572360,2016,2015,New York Knicks
+4867,grantje02,9-Oct-92,2015,Jerian Grant,Point Guard,University of Notre Dame,1643040,2017,2016,Chicago Bulls
+4868,grantje02,9-Oct-92,2015,Jerian Grant,Point Guard,University of Notre Dame,1713840,2018,2017,Chicago Bulls
+4925,greendr01,4-Mar-90,2012,Draymond Green,Small Forward and Power Forward,Michigan State University,850000,2013,2012,Golden State Warriors
+4926,greendr01,4-Mar-90,2012,Draymond Green,Small Forward and Power Forward,Michigan State University,875500,2014,2013,Golden State Warriors
+4927,greendr01,4-Mar-90,2012,Draymond Green,Small Forward and Power Forward,Michigan State University,915243,2015,2014,Golden State Warriors
+4928,greendr01,4-Mar-90,2012,Draymond Green,Small Forward and Power Forward,Michigan State University,14300000,2016,2015,Golden State Warriors
+4929,greendr01,4-Mar-90,2012,Draymond Green,Small Forward and Power Forward,Michigan State University,15330435,2017,2016,Golden State Warriors
+4930,greendr01,4-Mar-90,2012,Draymond Green,Small Forward and Power Forward,Michigan State University,16400000,2018,2017,Golden State Warriors
+4931,greener01,9-May-91,2013,Erick Green,Point Guard,Virginia Polytechnic Institute and State University,507336,2015,2014,Denver Nuggets
+4932,greener01,9-May-91,2013,Erick Green,Point Guard,Virginia Polytechnic Institute and State University,100000,2016,2015,Denver Nuggets
+4933,greener01,9-May-91,2013,Erick Green,Point Guard,Virginia Polytechnic Institute and State University,99418,2016,2015,Utah Jazz
+5078,hairspj02,24-Dec-92,2014,P.J. Hairston,Small Forward and Shooting Guard,University of North Carolina,1149720,2015,2014,Charlotte Hornets
+5079,hairspj02,24-Dec-92,2014,P.J. Hairston,Small Forward and Shooting Guard,University of North Carolina,1201440,2016,2015,Memphis Grizzlies
+5080,hairspj02,24-Dec-92,2014,P.J. Hairston,Small Forward and Shooting Guard,University of North Carolina,11534,2017,2016,Houston Rockets
+5105,hamiljo02,6-Oct-90,2011,Jordan Hamilton,Small Forward,University of Texas at Austin,1073286,2012,2011,Denver Nuggets
+5106,hamiljo02,6-Oct-90,2011,Jordan Hamilton,Small Forward,University of Texas at Austin,1153800,2013,2012,Denver Nuggets
+5107,hamiljo02,6-Oct-90,2011,Jordan Hamilton,Small Forward,University of Texas at Austin,1169880,2014,2013,Denver Nuggets
+5108,hamiljo02,6-Oct-90,2011,Jordan Hamilton,Small Forward,University of Texas at Austin,150591,2015,2014,Los Angeles Clippers
+5109,hamiljo02,6-Oct-90,2011,Jordan Hamilton,Small Forward,University of Texas at Austin,119462,2016,2015,New Orleans Pelicans
+5110,hamilju01,1-Apr-90,2012,Justin Hamilton,Center,"Iowa State University, Louisiana State University",816482,2015,2014,Minnesota Timberwolves
+5111,hamilju01,1-Apr-90,2012,Justin Hamilton,Center,"Iowa State University, Louisiana State University",3000000,2017,2016,Brooklyn Nets
+5112,hamilju01,1-Apr-90,2012,Justin Hamilton,Center,"Iowa State University, Louisiana State University",1000000,2018,2017,Toronto Raptors
+5149,hammoaj01,27-Aug-92,2016,A.J. Hammons,Center,Purdue University,650000,2017,2016,Dallas Mavericks
+5150,hammoaj01,27-Aug-92,2016,A.J. Hammons,Center,Purdue University,1312611,2018,2017,Miami Heat
+5177,haranlu01,2-Jan-88,2010,Luke Harangody,Power Forward,University of Notre Dame,473604,2011,2010,Cleveland Cavaliers
+5178,haranlu01,2-Jan-88,2010,Luke Harangody,Power Forward,University of Notre Dame,762195,2012,2011,Cleveland Cavaliers
+5179,haranlu01,2-Jan-88,2010,Luke Harangody,Power Forward,University of Notre Dame,1054389,2013,2012,Cleveland Cavaliers
+5207,hardati02,16-Mar-92,2013,Tim Hardaway Jr.,Shooting Guard,University of Michigan,1196760,2014,2013,New York Knicks
+5208,hardati02,16-Mar-92,2013,Tim Hardaway Jr.,Shooting Guard,University of Michigan,1250640,2015,2014,New York Knicks
+5209,hardati02,16-Mar-92,2013,Tim Hardaway Jr.,Shooting Guard,University of Michigan,1304520,2016,2015,Atlanta Hawks
+5210,hardati02,16-Mar-92,2013,Tim Hardaway Jr.,Shooting Guard,University of Michigan,2281605,2017,2016,Atlanta Hawks
+5211,hardati02,16-Mar-92,2013,Tim Hardaway Jr.,Shooting Guard,University of Michigan,16500000,2018,2017,New York Knicks
+5221,harklma01,11-May-93,2012,Maurice Harkless,Small Forward,St. John's University,1731960,2013,2012,Orlando Magic
+5222,harklma01,11-May-93,2012,Maurice Harkless,Small Forward,St. John's University,1809840,2014,2013,Orlando Magic
+5223,harklma01,11-May-93,2012,Maurice Harkless,Small Forward,St. John's University,1887840,2015,2014,Orlando Magic
+5224,harklma01,11-May-93,2012,Maurice Harkless,Small Forward,St. John's University,2894059,2016,2015,Portland Trail Blazers
+5225,harklma01,11-May-93,2012,Maurice Harkless,Small Forward,St. John's University,8988764,2017,2016,Portland Trail Blazers
+5226,harklma01,11-May-93,2012,Maurice Harkless,Small Forward,St. John's University,10162922,2018,2017,Portland Trail Blazers
+5241,harpeju01,30-Aug-89,2011,Justin Harper,Power Forward,University of Richmond,473604,2012,2011,Orlando Magic
+5242,harpeju01,30-Aug-89,2011,Justin Harper,Power Forward,University of Richmond,762195,2013,2012,Orlando Magic
+5243,harpeju01,30-Aug-89,2011,Justin Harper,Power Forward,University of Richmond,99418,2016,2015,Detroit Pistons
+5244,harpeju01,30-Aug-89,2011,Justin Harper,Power Forward,University of Richmond,57672,2017,2016,Philadelphia 76ers
+5270,harremo01,26-Jan-94,2015,Montrezl Harrell,Power Forward and Center,University of Louisville,1000000,2016,2015,Houston Rockets
+5271,harremo01,26-Jan-94,2015,Montrezl Harrell,Power Forward and Center,University of Louisville,1045000,2017,2016,Houston Rockets
+5272,harremo01,26-Jan-94,2015,Montrezl Harrell,Power Forward and Center,University of Louisville,1471382,2018,2017,Los Angeles Clippers
+5273,harrejo01,12-Feb-89,2011,Josh Harrellson,Power Forward and Center,University of Kentucky,473604,2012,2011,New York Knicks
+5274,harrejo01,12-Feb-89,2011,Josh Harrellson,Power Forward and Center,University of Kentucky,354197,2013,2012,Miami Heat
+5275,harrejo01,12-Feb-89,2011,Josh Harrellson,Power Forward and Center,University of Kentucky,884293,2014,2013,Detroit Pistons
+5323,harriga01,14-Sep-94,2014,Gary Harris,Shooting Guard,Michigan State University,1519200,2015,2014,Denver Nuggets
+5324,harriga01,14-Sep-94,2014,Gary Harris,Shooting Guard,Michigan State University,1587480,2016,2015,Denver Nuggets
+5325,harriga01,14-Sep-94,2014,Gary Harris,Shooting Guard,Michigan State University,1655880,2017,2016,Denver Nuggets
+5326,harriga01,14-Sep-94,2014,Gary Harris,Shooting Guard,Michigan State University,2550055,2018,2017,Denver Nuggets
+5327,harrijo01,6-Sep-91,2014,Joe Harris,Shooting Guard,University of Virginia,884879,2015,2014,Cleveland Cavaliers
+5328,harrijo01,6-Sep-91,2014,Joe Harris,Shooting Guard,University of Virginia,845059,2016,2015,Orlando Magic
+5329,harrijo01,6-Sep-91,2014,Joe Harris,Shooting Guard,University of Virginia,980431,2017,2016,Brooklyn Nets
+5330,harrijo01,6-Sep-91,2014,Joe Harris,Shooting Guard,University of Virginia,1524305,2018,2017,Brooklyn Nets
+5351,harrito02,15-Jul-92,2011,Tobias Harris,Power Forward and Small Forward,University of Tennessee,1418160,2012,2011,Milwaukee Bucks
+5352,harrito02,15-Jul-92,2011,Tobias Harris,Power Forward and Small Forward,University of Tennessee,1524480,2013,2012,Orlando Magic
+5353,harrito02,15-Jul-92,2011,Tobias Harris,Power Forward and Small Forward,University of Tennessee,1545840,2014,2013,Orlando Magic
+5354,harrito02,15-Jul-92,2011,Tobias Harris,Power Forward and Small Forward,University of Tennessee,2380594,2015,2014,Orlando Magic
+5355,harrito02,15-Jul-92,2011,Tobias Harris,Power Forward and Small Forward,University of Tennessee,16000000,2016,2015,Detroit Pistons
+5356,harrito02,15-Jul-92,2011,Tobias Harris,Power Forward and Small Forward,University of Tennessee,17200000,2017,2016,Detroit Pistons
+5357,harrito02,15-Jul-92,2011,Tobias Harris,Power Forward and Small Forward,University of Tennessee,16000000,2018,2017,Los Angeles Clippers
+5362,harrian01,28-Oct-94,2015,Andrew Harrison,Point Guard,University of Kentucky,945000,2017,2016,Memphis Grizzlies
+5363,harrian01,28-Oct-94,2015,Andrew Harrison,Point Guard,University of Kentucky,1312611,2018,2017,Memphis Grizzlies
+5380,hartjo01,6-Mar-95,2017,Josh Hart,Shooting Guard,Villanova University,1394520,2018,2017,Los Angeles Lakers
+5480,haywago01,23-Mar-90,2010,Gordon Hayward,Power Forward and Small Forward,Butler University,2356320,2011,2010,Utah Jazz
+5481,haywago01,23-Mar-90,2010,Gordon Hayward,Power Forward and Small Forward,Butler University,2532960,2012,2011,Utah Jazz
+5482,haywago01,23-Mar-90,2010,Gordon Hayward,Power Forward and Small Forward,Butler University,2709720,2013,2012,Utah Jazz
+5483,haywago01,23-Mar-90,2010,Gordon Hayward,Power Forward and Small Forward,Butler University,3452183,2014,2013,Utah Jazz
+5484,haywago01,23-Mar-90,2010,Gordon Hayward,Power Forward and Small Forward,Butler University,14746000,2015,2014,Utah Jazz
+5485,haywago01,23-Mar-90,2010,Gordon Hayward,Power Forward and Small Forward,Butler University,15409570,2016,2015,Utah Jazz
+5486,haywago01,23-Mar-90,2010,Gordon Hayward,Power Forward and Small Forward,Butler University,16073140,2017,2016,Utah Jazz
+5487,haywago01,23-Mar-90,2010,Gordon Hayward,Power Forward and Small Forward,Butler University,29727900,2018,2017,Boston Celtics
+5488,haywala01,26-Nov-86,2010,Lazar Hayward,Small Forward,Marquette University,1020960,2011,2010,Minnesota Timberwolves
+5489,haywala01,26-Nov-86,2010,Lazar Hayward,Small Forward,Marquette University,1097520,2012,2011,Oklahoma City Thunder
+5490,haywala01,26-Nov-86,2010,Lazar Hayward,Small Forward,Marquette University,1174080,2013,2012,Houston Rockets
+5491,haywala01,26-Nov-86,2010,Lazar Hayward,Small Forward,Marquette University,80413,2013,2012,Minnesota Timberwolves
+5555,henryxa01,15-Mar-91,2010,Xavier Henry,Small Forward and Shooting Guard,University of Kansas,2020200,2011,2010,Memphis Grizzlies
+5556,henryxa01,15-Mar-91,2010,Xavier Henry,Small Forward and Shooting Guard,University of Kansas,2171640,2012,2011,New Orleans Hornets
+5557,henryxa01,15-Mar-91,2010,Xavier Henry,Small Forward and Shooting Guard,University of Kansas,2323200,2013,2012,New Orleans Hornets
+5558,henryxa01,15-Mar-91,2010,Xavier Henry,Small Forward and Shooting Guard,University of Kansas,1082000,2015,2014,Los Angeles Lakers
+5559,hensojo01,28-Dec-90,2012,John Henson,Center and Power Forward,University of North Carolina,1823280,2013,2012,Milwaukee Bucks
+5560,hensojo01,28-Dec-90,2012,John Henson,Center and Power Forward,University of North Carolina,1905360,2014,2013,Milwaukee Bucks
+5561,hensojo01,28-Dec-90,2012,John Henson,Center and Power Forward,University of North Carolina,1987320,2015,2014,Milwaukee Bucks
+5562,hensojo01,28-Dec-90,2012,John Henson,Center and Power Forward,University of North Carolina,2943221,2016,2015,Milwaukee Bucks
+5563,hensojo01,28-Dec-90,2012,John Henson,Center and Power Forward,University of North Carolina,12517606,2017,2016,Milwaukee Bucks
+5564,hensojo01,28-Dec-90,2012,John Henson,Center and Power Forward,University of North Carolina,11422536,2018,2017,Milwaukee Bucks
+5608,hieldbu01,17-Dec-92,2016,Buddy Hield,Shooting Guard,University of Oklahoma,3517200,2017,2016,Sacramento Kings
+5609,hieldbu01,17-Dec-92,2016,Buddy Hield,Shooting Guard,University of Oklahoma,3675480,2018,2017,Sacramento Kings
+5678,hillso01,18-Mar-91,2013,Solomon Hill,Small Forward,University of Arizona,1246680,2014,2013,Indiana Pacers
+5679,hillso01,18-Mar-91,2013,Solomon Hill,Small Forward,University of Arizona,1302840,2015,2014,Indiana Pacers
+5680,hillso01,18-Mar-91,2013,Solomon Hill,Small Forward,University of Arizona,1358880,2016,2015,Indiana Pacers
+5681,hillso01,18-Mar-91,2013,Solomon Hill,Small Forward,University of Arizona,11241218,2017,2016,New Orleans Pelicans
+5682,hillso01,18-Mar-91,2013,Solomon Hill,Small Forward,University of Arizona,12236535,2018,2017,New Orleans Pelicans
+5722,hobsoda01,29-Sep-87,2010,Darington Hobson,Shooting Guard,University of New Mexico,103078,2011,2010,Milwaukee Bucks
+5723,hobsoda01,29-Sep-87,2010,Darington Hobson,Shooting Guard,University of New Mexico,245884,2012,2011,Milwaukee Bucks
+5774,holliro01,3-Jan-95,2015,Rondae Hollis-Jefferson,Small Forward,University of Arizona,1335480,2016,2015,Brooklyn Nets
+5775,holliro01,3-Jan-95,2015,Rondae Hollis-Jefferson,Small Forward,University of Arizona,1395600,2017,2016,Brooklyn Nets
+5776,holliro01,3-Jan-95,2015,Rondae Hollis-Jefferson,Small Forward,University of Arizona,1471382,2018,2017,Brooklyn Nets
+5777,holmeri01,15-Oct-93,2015,Richaun Holmes,Center and Power Forward,Bowling Green State University,1050000,2016,2015,Philadelphia 76ers
+5778,holmeri01,15-Oct-93,2015,Richaun Holmes,Center and Power Forward,Bowling Green State University,1025831,2017,2016,Philadelphia 76ers
+5779,holmeri01,15-Oct-93,2015,Richaun Holmes,Center and Power Forward,Bowling Green State University,1471382,2018,2017,Philadelphia 76ers
+5786,honeyty01,15-Jul-90,2011,Tyler Honeycutt,Small Forward,"University of California, Los Angeles",775000,2012,2011,Sacramento Kings
+5787,honeyty01,15-Jul-90,2011,Tyler Honeycutt,Small Forward,"University of California, Los Angeles",809875,2013,2012,Houston Rockets
+5788,honeyty01,15-Jul-90,2011,Tyler Honeycutt,Small Forward,"University of California, Los Angeles",100000,2014,2013,Houston Rockets
+5790,hoodro01,20-Oct-92,2014,Rodney Hood,Shooting Guard,"Mississippi State University, Duke University",1290360,2015,2014,Utah Jazz
+5791,hoodro01,20-Oct-92,2014,Rodney Hood,Shooting Guard,"Mississippi State University, Duke University",1348440,2016,2015,Utah Jazz
+5792,hoodro01,20-Oct-92,2014,Rodney Hood,Shooting Guard,"Mississippi State University, Duke University",1406520,2017,2016,Utah Jazz
+5793,hoodro01,20-Oct-92,2014,Rodney Hood,Shooting Guard,"Mississippi State University, Duke University",2386864,2018,2017,Cleveland Cavaliers
+5946,huestjo01,19-Dec-91,2014,Josh Huestis,Power Forward,Stanford University,1140240,2016,2015,Oklahoma City Thunder
+5947,huestjo01,19-Dec-91,2014,Josh Huestis,Power Forward,Stanford University,1191480,2017,2016,Oklahoma City Thunder
+5948,huestjo01,19-Dec-91,2014,Josh Huestis,Power Forward,Stanford University,1471382,2018,2017,Oklahoma City Thunder
+5969,hummero01,8-Mar-89,2012,Robbie Hummel,Small Forward,Purdue University,880000,2015,2014,Minnesota Timberwolves
+5970,hummero01,8-Mar-89,2012,Robbie Hummel,Small Forward,Purdue University,150000,2017,2016,Denver Nuggets
+6107,ingrabr01,2-Sep-97,2016,Brandon Ingram,Small Forward,Duke University,5281680,2017,2016,Los Angeles Lakers
+6108,ingrabr01,2-Sep-97,2016,Brandon Ingram,Small Forward,Duke University,5519400,2018,2017,Los Angeles Lakers
+6110,irvinky01,23-Mar-92,2011,Kyrie Irving,Point Guard,Duke University,5144280,2012,2011,Cleveland Cavaliers
+6111,irvinky01,23-Mar-92,2011,Kyrie Irving,Point Guard,Duke University,5530080,2013,2012,Cleveland Cavaliers
+6112,irvinky01,23-Mar-92,2011,Kyrie Irving,Point Guard,Duke University,5607240,2014,2013,Cleveland Cavaliers
+6113,irvinky01,23-Mar-92,2011,Kyrie Irving,Point Guard,Duke University,7070730,2015,2014,Cleveland Cavaliers
+6114,irvinky01,23-Mar-92,2011,Kyrie Irving,Point Guard,Duke University,14746000,2016,2015,Cleveland Cavaliers
+6115,irvinky01,23-Mar-92,2011,Kyrie Irving,Point Guard,Duke University,17638063,2017,2016,Cleveland Cavaliers
+6116,irvinky01,23-Mar-92,2011,Kyrie Irving,Point Guard,Duke University,18868625,2018,2017,Boston Celtics
+6117,isaacjo01,3-Oct-97,2017,Jonathan Isaac,Power Forward,Florida State University,4186320,2018,2017,Orlando Magic
+6146,iwundwe01,20-Dec-94,2017,Wesley Iwundu,Small Forward,Kansas State University,1050000,2018,2017,Orlando Magic
+6179,jacksfr01,4-May-98,2017,Frank Jackson,Point Guard,Duke University,815615,2018,2017,New Orleans Pelicans
+6205,jacksjo02,10-Feb-97,2017,Josh Jackson,Small Forward and Shooting Guard,University of Kansas,5090040,2018,2017,Phoenix Suns
+6206,jacksju01,28-Mar-95,2017,Justin Jackson,Small Forward,University of North Carolina,2365560,2018,2017,Sacramento Kings
+6238,jackspi01,29-Aug-91,2013,Pierre Jackson,Point Guard,Baylor University,400000,2015,2014,Philadelphia 76ers
+6239,jackspi01,29-Aug-91,2013,Pierre Jackson,Point Guard,Baylor University,750000,2016,2015,Philadelphia 76ers
+6240,jackspi01,29-Aug-91,2013,Pierre Jackson,Point Guard,Baylor University,105498,2017,2016,Dallas Mavericks
+6243,jacksre01,16-Apr-90,2011,Reggie Jackson,Point Guard,Boston College,1156320,2012,2011,Oklahoma City Thunder
+6244,jacksre01,16-Apr-90,2011,Reggie Jackson,Point Guard,Boston College,1243080,2013,2012,Oklahoma City Thunder
+6245,jacksre01,16-Apr-90,2011,Reggie Jackson,Point Guard,Boston College,1260360,2014,2013,Oklahoma City Thunder
+6246,jacksre01,16-Apr-90,2011,Reggie Jackson,Point Guard,Boston College,2204370,2015,2014,Detroit Pistons
+6247,jacksre01,16-Apr-90,2011,Reggie Jackson,Point Guard,Boston College,14000000,2016,2015,Detroit Pistons
+6248,jacksre01,16-Apr-90,2011,Reggie Jackson,Point Guard,Boston College,14956522,2017,2016,Detroit Pistons
+6249,jacksre01,16-Apr-90,2011,Reggie Jackson,Point Guard,Boston College,16000000,2018,2017,Detroit Pistons
+6278,jamesbe01,7-Feb-85,2012,Bernard James,Center,Florida State University,473604,2013,2012,Dallas Mavericks
+6279,jamesbe01,7-Feb-85,2012,Bernard James,Center,Florida State University,788872,2014,2013,Dallas Mavericks
+6280,jamesbe01,7-Feb-85,2012,Bernard James,Center,Florida State University,915243,2015,2014,Dallas Mavericks
+6281,jamesbe01,7-Feb-85,2012,Bernard James,Center,Florida State University,236866,2015,2014,Dallas Mavericks
+6282,jamesda01,7-Oct-87,2010,Damion James,Small Forward,University of Texas at Austin,1156320,2011,2010,New Jersey Nets
+6283,jamesda01,7-Oct-87,2010,Damion James,Small Forward,University of Texas at Austin,1243080,2012,2011,New Jersey Nets
+6284,jamesda01,7-Oct-87,2010,Damion James,Small Forward,University of Texas at Austin,50258,2013,2012,Brooklyn Nets
+6378,jeffeco01,26-Dec-90,2014,Cory Jefferson,Power Forward,Baylor University,507336,2015,2014,Brooklyn Nets
+6379,jeffeco01,26-Dec-90,2014,Cory Jefferson,Power Forward,Baylor University,421449,2016,2015,Phoenix Suns
+6409,jenkich01,28-Feb-89,2011,Charles Jenkins,Point Guard and Shooting Guard,Hofstra University,473604,2012,2011,Golden State Warriors
+6410,jenkich01,28-Feb-89,2011,Charles Jenkins,Point Guard and Shooting Guard,Hofstra University,762195,2013,2012,Philadelphia 76ers
+6412,jenkijo01,6-Mar-91,2012,John Jenkins,Shooting Guard,Vanderbilt University,1204560,2013,2012,Atlanta Hawks
+6413,jenkijo01,6-Mar-91,2012,John Jenkins,Shooting Guard,Vanderbilt University,1258800,2014,2013,Atlanta Hawks
+6414,jenkijo01,6-Mar-91,2012,John Jenkins,Shooting Guard,Vanderbilt University,1312920,2015,2014,Atlanta Hawks
+6415,jenkijo01,6-Mar-91,2012,John Jenkins,Shooting Guard,Vanderbilt University,981000,2016,2015,Phoenix Suns
+6416,jenkijo01,6-Mar-91,2012,John Jenkins,Shooting Guard,Vanderbilt University,469841,2017,2016,Phoenix Suns
+6446,jerregr01,8-Jul-93,2013,Grant Jerrett,Power Forward,University of Arizona,816481,2015,2014,Utah Jazz
+6447,jerregr01,8-Jul-93,2013,Grant Jerrett,Power Forward,University of Arizona,947276,2016,2015,Utah Jazz
+6484,johnsar02,23-Feb-89,2010,Armon Johnson,Point Guard,"University of Nevada, Reno",473604,2011,2010,Portland Trail Blazers
+6485,johnsar02,23-Feb-89,2010,Armon Johnson,Point Guard,"University of Nevada, Reno",762195,2012,2011,Portland Trail Blazers
+6501,johnsbr02,27-Jun-94,2016,Brice Johnson,Power Forward,University of North Carolina,1273920,2017,2016,Los Angeles Clippers
+6502,johnsbr02,27-Jun-94,2016,Brice Johnson,Power Forward,University of North Carolina,1331160,2018,2017,Memphis Grizzlies
+6523,johnsda04,22-Sep-95,2015,Dakari Johnson,Center,University of Kentucky,815615,2018,2017,Oklahoma City Thunder
+6577,johnsja02,8-Feb-89,2011,JaJuan Johnson,Power Forward,Purdue University,1042320,2012,2011,Boston Celtics
+6578,johnsja02,8-Feb-89,2011,JaJuan Johnson,Power Forward,Purdue University,1120440,2013,2012,Houston Rockets
+6650,johnsni01,22-Dec-92,2014,Nick Johnson,Shooting Guard,University of Arizona,507336,2015,2014,Houston Rockets
+6651,johnsni01,22-Dec-92,2014,Nick Johnson,Shooting Guard,University of Arizona,845059,2016,2015,Denver Nuggets
+6652,johnsni01,22-Dec-92,2014,Nick Johnson,Shooting Guard,University of Arizona,980431,2017,2016,Denver Nuggets
+6654,johnsor01,11-Mar-89,2012,Orlando Johnson,Shooting Guard,"Loyola Marymount University, University of California, Santa Barbara",550000,2013,2012,Indiana Pacers
+6655,johnsor01,11-Mar-89,2012,Orlando Johnson,Shooting Guard,"Loyola Marymount University, University of California, Santa Barbara",788872,2014,2013,Indiana Pacers
+6656,johnsor01,11-Mar-89,2012,Orlando Johnson,Shooting Guard,"Loyola Marymount University, University of California, Santa Barbara",55722,2016,2015,New Orleans Pelicans
+6657,johnsor01,11-Mar-89,2012,Orlando Johnson,Shooting Guard,"Loyola Marymount University, University of California, Santa Barbara",55722,2016,2015,Phoenix Suns
+6658,johnsst04,29-May-96,2015,Stanley Johnson,Small Forward,University of Arizona,2841960,2016,2015,Detroit Pistons
+6659,johnsst04,29-May-96,2015,Stanley Johnson,Small Forward,University of Arizona,2969880,2017,2016,Detroit Pistons
+6660,johnsst04,29-May-96,2015,Stanley Johnson,Small Forward,University of Arizona,3097800,2018,2017,Detroit Pistons
+6680,johnswe01,11-Jul-87,2010,Wesley Johnson,Shooting Guard and Small Forward,"Iowa State University, Syracuse University",3726600,2011,2010,Minnesota Timberwolves
+6681,johnswe01,11-Jul-87,2010,Wesley Johnson,Shooting Guard and Small Forward,"Iowa State University, Syracuse University",4006080,2012,2011,Minnesota Timberwolves
+6682,johnswe01,11-Jul-87,2010,Wesley Johnson,Shooting Guard and Small Forward,"Iowa State University, Syracuse University",4285560,2013,2012,Phoenix Suns
+6683,johnswe01,11-Jul-87,2010,Wesley Johnson,Shooting Guard and Small Forward,"Iowa State University, Syracuse University",916099,2014,2013,Los Angeles Lakers
+6684,johnswe01,11-Jul-87,2010,Wesley Johnson,Shooting Guard and Small Forward,"Iowa State University, Syracuse University",981084,2015,2014,Los Angeles Lakers
+6685,johnswe01,11-Jul-87,2010,Wesley Johnson,Shooting Guard and Small Forward,"Iowa State University, Syracuse University",1100600,2016,2015,Los Angeles Clippers
+6686,johnswe01,11-Jul-87,2010,Wesley Johnson,Shooting Guard and Small Forward,"Iowa State University, Syracuse University",5628000,2017,2016,Los Angeles Clippers
+6687,johnswe01,11-Jul-87,2010,Wesley Johnson,Shooting Guard and Small Forward,"Iowa State University, Syracuse University",5881260,2018,2017,Los Angeles Clippers
+6688,johnsda03,28-Sep-89,2012,Darius Johnson-Odom,Shooting Guard,Marquette University,192228,2013,2012,Los Angeles Lakers
+6729,jonesda03,30-Jun-95,2016,Damian Jones,Center,Vanderbilt University,1171560,2017,2016,Golden State Warriors
+6730,jonesda03,30-Jun-95,2016,Damian Jones,Center,Vanderbilt University,1312611,2018,2017,Golden State Warriors
+6744,jonesdo02,15-Oct-88,2010,Dominique Jones,Point Guard and Shooting Guard,University of South Florida,1110120,2011,2010,Dallas Mavericks
+6745,jonesdo02,15-Oct-88,2010,Dominique Jones,Point Guard and Shooting Guard,University of South Florida,1193280,2012,2011,Dallas Mavericks
+6746,jonesdo02,15-Oct-88,2010,Dominique Jones,Point Guard and Shooting Guard,University of South Florida,1276560,2013,2012,Dallas Mavericks
+6802,jonespe01,24-Sep-91,2012,Perry Jones,Small Forward and Power Forward,Baylor University,1035960,2013,2012,Oklahoma City Thunder
+6803,jonespe01,24-Sep-91,2012,Perry Jones,Small Forward and Power Forward,Baylor University,1082520,2014,2013,Oklahoma City Thunder
+6804,jonespe01,24-Sep-91,2012,Perry Jones,Small Forward and Power Forward,Baylor University,1129200,2015,2014,Oklahoma City Thunder
+6805,jonespe01,24-Sep-91,2012,Perry Jones,Small Forward and Power Forward,Baylor University,2038206,2016,2015,Boston Celtics
+6824,joneste01,9-Jan-92,2012,Terrence Jones,Power Forward,University of Kentucky,1485000,2013,2012,Houston Rockets
+6825,joneste01,9-Jan-92,2012,Terrence Jones,Power Forward,University of Kentucky,1551840,2014,2013,Houston Rockets
+6826,joneste01,9-Jan-92,2012,Terrence Jones,Power Forward,University of Kentucky,1618680,2015,2014,Houston Rockets
+6827,joneste01,9-Jan-92,2012,Terrence Jones,Power Forward,University of Kentucky,2489530,2016,2015,Houston Rockets
+6828,joneste01,9-Jan-92,2012,Terrence Jones,Power Forward,University of Kentucky,1050961,2017,2016,New Orleans Pelicans
+6829,joneste01,9-Jan-92,2012,Terrence Jones,Power Forward,University of Kentucky,236457,2017,2016,Milwaukee Bucks
+6830,jonesty01,10-May-96,2015,Tyus Jones,Point Guard,Duke University,1282080,2016,2015,Minnesota Timberwolves
+6831,jonesty01,10-May-96,2015,Tyus Jones,Point Guard,Duke University,1339680,2017,2016,Minnesota Timberwolves
+6832,jonesty01,10-May-96,2015,Tyus Jones,Point Guard,Duke University,1471382,2018,2017,Minnesota Timberwolves
+6844,jordaje01,29-Sep-86,2010,Jerome Jordan,Center,University of Tulsa,473604,2012,2011,New York Knicks
+6845,jordaje01,29-Sep-86,2010,Jerome Jordan,Center,University of Tulsa,915243,2015,2014,Brooklyn Nets
+6864,josepco01,20-Aug-91,2011,Cory Joseph,Point Guard and Shooting Guard,University of Texas at Austin,1028400,2012,2011,San Antonio Spurs
+6865,josepco01,20-Aug-91,2011,Cory Joseph,Point Guard and Shooting Guard,University of Texas at Austin,1105560,2013,2012,San Antonio Spurs
+6866,josepco01,20-Aug-91,2011,Cory Joseph,Point Guard and Shooting Guard,University of Texas at Austin,1120920,2014,2013,San Antonio Spurs
+6867,josepco01,20-Aug-91,2011,Cory Joseph,Point Guard and Shooting Guard,University of Texas at Austin,2023261,2015,2014,San Antonio Spurs
+6868,josepco01,20-Aug-91,2011,Cory Joseph,Point Guard and Shooting Guard,University of Texas at Austin,7000000,2016,2015,Toronto Raptors
+6869,josepco01,20-Aug-91,2011,Cory Joseph,Point Guard and Shooting Guard,University of Texas at Austin,7330000,2017,2016,Toronto Raptors
+6870,josepco01,20-Aug-91,2011,Cory Joseph,Point Guard and Shooting Guard,University of Texas at Austin,7630000,2018,2017,Indiana Pacers
+6872,josepkr01,17-Dec-88,2012,Kris Joseph,Small Forward,Syracuse University,189442,2013,2012,Boston Celtics
+6886,kaminfr01,4-Apr-93,2015,Frank Kaminsky,Center and Power Forward,University of Wisconsin,2612500,2016,2015,Charlotte Hornets
+6887,kaminfr01,4-Apr-93,2015,Frank Kaminsky,Center and Power Forward,University of Wisconsin,2730000,2017,2016,Charlotte Hornets
+6888,kaminfr01,4-Apr-93,2015,Frank Kaminsky,Center and Power Forward,University of Wisconsin,2847600,2018,2017,Charlotte Hornets
+6929,kellyry01,9-Apr-91,2013,Ryan Kelly,Power Forward,Duke University,1650000,2015,2014,Los Angeles Lakers
+6930,kellyry01,9-Apr-91,2013,Ryan Kelly,Power Forward,Duke University,1724250,2016,2015,Los Angeles Lakers
+6931,kellyry01,9-Apr-91,2013,Ryan Kelly,Power Forward,Duke University,418228,2017,2016,Atlanta Hawks
+6951,kennalu01,24-Jun-96,2017,Luke Kennard,Shooting Guard,Duke University,2759280,2018,2017,Detroit Pistons
+7017,kiddgmi01,26-Sep-93,2012,Michael Kidd-Gilchrist,Small Forward and Power Forward,University of Kentucky,4602720,2013,2012,Charlotte Bobcats
+7018,kiddgmi01,26-Sep-93,2012,Michael Kidd-Gilchrist,Small Forward and Power Forward,University of Kentucky,4809840,2014,2013,Charlotte Bobcats
+7019,kiddgmi01,26-Sep-93,2012,Michael Kidd-Gilchrist,Small Forward and Power Forward,University of Kentucky,5016960,2015,2014,Charlotte Hornets
+7020,kiddgmi01,26-Sep-93,2012,Michael Kidd-Gilchrist,Small Forward and Power Forward,University of Kentucky,6331404,2016,2015,Charlotte Hornets
+7021,kiddgmi01,26-Sep-93,2012,Michael Kidd-Gilchrist,Small Forward and Power Forward,University of Kentucky,13000000,2017,2016,Charlotte Hornets
+7022,kiddgmi01,26-Sep-93,2012,Michael Kidd-Gilchrist,Small Forward and Power Forward,University of Kentucky,13000000,2018,2017,Charlotte Hornets
+7131,knighbr03,2-Dec-91,2011,Brandon Knight,Point Guard and Shooting Guard,University of Kentucky,2563320,2012,2011,Detroit Pistons
+7132,knighbr03,2-Dec-91,2011,Brandon Knight,Point Guard and Shooting Guard,University of Kentucky,2755560,2013,2012,Detroit Pistons
+7133,knighbr03,2-Dec-91,2011,Brandon Knight,Point Guard and Shooting Guard,University of Kentucky,2793960,2014,2013,Milwaukee Bucks
+7134,knighbr03,2-Dec-91,2011,Brandon Knight,Point Guard and Shooting Guard,University of Kentucky,3553917,2015,2014,Phoenix Suns
+7135,knighbr03,2-Dec-91,2011,Brandon Knight,Point Guard and Shooting Guard,University of Kentucky,12000000,2016,2015,Phoenix Suns
+7136,knighbr03,2-Dec-91,2011,Brandon Knight,Point Guard and Shooting Guard,University of Kentucky,12606250,2017,2016,Phoenix Suns
+7137,knighbr03,2-Dec-91,2011,Brandon Knight,Point Guard and Shooting Guard,University of Kentucky,13618750,2018,2017,Phoenix Suns
+7244,kuzmaky01,24-Jul-95,2017,Kyle Kuzma,Power Forward,University of Utah,1423560,2018,2017,Los Angeles Lakers
+7248,labissk01,18-Mar-96,2016,Skal Labissiere,Power Forward,University of Kentucky,1188840,2017,2016,Sacramento Kings
+7249,labissk01,18-Mar-96,2016,Skal Labissiere,Power Forward,University of Kentucky,1312611,2018,2017,Sacramento Kings
+7283,lambdo01,6-Nov-91,2012,Doron Lamb,Shooting Guard,University of Kentucky,650000,2013,2012,Orlando Magic
+7284,lambdo01,6-Nov-91,2012,Doron Lamb,Shooting Guard,University of Kentucky,788872,2014,2013,Orlando Magic
+7285,lambje01,30-May-92,2012,Jeremy Lamb,Small Forward and Shooting Guard,University of Connecticut,2020200,2013,2012,Oklahoma City Thunder
+7286,lambje01,30-May-92,2012,Jeremy Lamb,Small Forward and Shooting Guard,University of Connecticut,2111160,2014,2013,Oklahoma City Thunder
+7287,lambje01,30-May-92,2012,Jeremy Lamb,Small Forward and Shooting Guard,University of Connecticut,2202000,2015,2014,Oklahoma City Thunder
+7288,lambje01,30-May-92,2012,Jeremy Lamb,Small Forward and Shooting Guard,University of Connecticut,3034356,2016,2015,Charlotte Hornets
+7289,lambje01,30-May-92,2012,Jeremy Lamb,Small Forward and Shooting Guard,University of Connecticut,6511628,2017,2016,Charlotte Hornets
+7290,lambje01,30-May-92,2012,Jeremy Lamb,Small Forward and Shooting Guard,University of Connecticut,7000000,2018,2017,Charlotte Hornets
+7339,larkish01,2-Oct-92,2013,Shane Larkin,Point Guard,University of Miami,1536960,2014,2013,Dallas Mavericks
+7340,larkish01,2-Oct-92,2013,Shane Larkin,Point Guard,University of Miami,1606080,2015,2014,New York Knicks
+7341,larkish01,2-Oct-92,2013,Shane Larkin,Point Guard,University of Miami,1500000,2016,2015,Brooklyn Nets
+7342,larkish01,2-Oct-92,2013,Shane Larkin,Point Guard,University of Miami,1471382,2018,2017,Boston Celtics
+7353,lavinza01,10-Mar-95,2014,Zach LaVine,Point Guard and Shooting Guard,"University of California, Los Angeles",2055840,2015,2014,Minnesota Timberwolves
+7354,lavinza01,10-Mar-95,2014,Zach LaVine,Point Guard and Shooting Guard,"University of California, Los Angeles",2148360,2016,2015,Minnesota Timberwolves
+7355,lavinza01,10-Mar-95,2014,Zach LaVine,Point Guard and Shooting Guard,"University of California, Los Angeles",2240880,2017,2016,Minnesota Timberwolves
+7356,lavinza01,10-Mar-95,2014,Zach LaVine,Point Guard and Shooting Guard,"University of California, Los Angeles",3202217,2018,2017,Chicago Bulls
+7362,lawalga01,7-Nov-88,2010,Gani Lawal,Power Forward,Georgia Institute of Technology,473640,2011,2010,Phoenix Suns
+7375,laymaja01,7-Mar-94,2016,Jake Layman,Small Forward,University of Maryland,600000,2017,2016,Portland Trail Blazers
+7376,laymaja01,7-Mar-94,2016,Jake Layman,Small Forward,University of Maryland,1312611,2018,2017,Portland Trail Blazers
+7377,leaftj01,30-Apr-97,2017,T.J. Leaf,Power Forward,"University of California, Los Angeles",2028360,2018,2017,Indiana Pacers
+7423,leema01,22-May-90,2011,Malcolm Lee,Shooting Guard,"University of California, Los Angeles",500000,2012,2011,Minnesota Timberwolves
+7424,leema01,22-May-90,2011,Malcolm Lee,Shooting Guard,"University of California, Los Angeles",762195,2013,2012,Minnesota Timberwolves
+7425,leema01,22-May-90,2011,Malcolm Lee,Shooting Guard,"University of California, Los Angeles",884293,2014,2013,Phoenix Suns
+7435,lenal01,16-Jun-93,2013,Alex Len,Center,University of Maryland,3492720,2014,2013,Phoenix Suns
+7436,lenal01,16-Jun-93,2013,Alex Len,Center,University of Maryland,3649920,2015,2014,Phoenix Suns
+7437,lenal01,16-Jun-93,2013,Alex Len,Center,University of Maryland,3807120,2016,2015,Phoenix Suns
+7438,lenal01,16-Jun-93,2013,Alex Len,Center,University of Maryland,4823621,2017,2016,Phoenix Suns
+7439,lenal01,16-Jun-93,2013,Alex Len,Center,University of Maryland,4187599,2018,2017,Phoenix Suns
+7452,leonaka01,29-Jun-91,2011,Kawhi Leonard,Small Forward,San Diego State University,1731960,2012,2011,San Antonio Spurs
+7453,leonaka01,29-Jun-91,2011,Kawhi Leonard,Small Forward,San Diego State University,1861920,2013,2012,San Antonio Spurs
+7454,leonaka01,29-Jun-91,2011,Kawhi Leonard,Small Forward,San Diego State University,1887840,2014,2013,San Antonio Spurs
+7455,leonaka01,29-Jun-91,2011,Kawhi Leonard,Small Forward,San Diego State University,2894059,2015,2014,San Antonio Spurs
+7456,leonaka01,29-Jun-91,2011,Kawhi Leonard,Small Forward,San Diego State University,16500000,2016,2015,San Antonio Spurs
+7457,leonaka01,29-Jun-91,2011,Kawhi Leonard,Small Forward,San Diego State University,17638063,2017,2016,San Antonio Spurs
+7458,leonaka01,29-Jun-91,2011,Kawhi Leonard,Small Forward,San Diego State University,18868625,2018,2017,San Antonio Spurs
+7459,leoname01,27-Feb-92,2012,Meyers Leonard,Power Forward and Center,University of Illinois at Urbana-Champaign,2126520,2013,2012,Portland Trail Blazers
+7460,leoname01,27-Feb-92,2012,Meyers Leonard,Power Forward and Center,University of Illinois at Urbana-Champaign,2222160,2014,2013,Portland Trail Blazers
+7461,leoname01,27-Feb-92,2012,Meyers Leonard,Power Forward and Center,University of Illinois at Urbana-Champaign,2317920,2015,2014,Portland Trail Blazers
+7462,leoname01,27-Feb-92,2012,Meyers Leonard,Power Forward and Center,University of Illinois at Urbana-Champaign,3075880,2016,2015,Portland Trail Blazers
+7463,leoname01,27-Feb-92,2012,Meyers Leonard,Power Forward and Center,University of Illinois at Urbana-Champaign,9213484,2017,2016,Portland Trail Blazers
+7464,leoname01,27-Feb-92,2012,Meyers Leonard,Power Forward and Center,University of Illinois at Urbana-Champaign,9904495,2018,2017,Portland Trail Blazers
+7471,leslitr01,29-Mar-90,2011,Travis Leslie,Shooting Guard,University of Georgia,473604,2012,2011,Los Angeles Clippers
+7472,leslitr01,29-Mar-90,2011,Travis Leslie,Shooting Guard,University of Georgia,250000,2013,2012,Los Angeles Clippers
+7475,leuerjo01,14-May-89,2011,Jon Leuer,Center and Power Forward,University of Wisconsin,473604,2012,2011,Milwaukee Bucks
+7476,leuerjo01,14-May-89,2011,Jon Leuer,Center and Power Forward,University of Wisconsin,762195,2013,2012,Memphis Grizzlies
+7477,leuerjo01,14-May-89,2011,Jon Leuer,Center and Power Forward,University of Wisconsin,967500,2015,2014,Memphis Grizzlies
+7478,leuerjo01,14-May-89,2011,Jon Leuer,Center and Power Forward,University of Wisconsin,1035000,2016,2015,Phoenix Suns
+7479,leuerjo01,14-May-89,2011,Jon Leuer,Center and Power Forward,University of Wisconsin,10991957,2017,2016,Detroit Pistons
+7480,leuerjo01,14-May-89,2011,Jon Leuer,Center and Power Forward,University of Wisconsin,10497319,2018,2017,Detroit Pistons
+7490,leverca01,25-Aug-94,2016,Caris LeVert,Small Forward,University of Michigan,1562280,2017,2016,Brooklyn Nets
+7491,leverca01,25-Aug-94,2016,Caris LeVert,Small Forward,University of Michigan,1632480,2018,2017,Brooklyn Nets
+7538,liggide01,31-Mar-88,2011,DeAndre Liggins,Shooting Guard and Small Forward,University of Kentucky,473604,2012,2011,Orlando Magic
+7539,liggide01,31-Mar-88,2011,DeAndre Liggins,Shooting Guard and Small Forward,University of Kentucky,762195,2013,2012,Oklahoma City Thunder
+7540,liggide01,31-Mar-88,2011,DeAndre Liggins,Shooting Guard and Small Forward,University of Kentucky,1015696,2017,2016,Dallas Mavericks
+7541,liggide01,31-Mar-88,2011,DeAndre Liggins,Shooting Guard and Small Forward,University of Kentucky,757427,2018,2017,Milwaukee Bucks
+7542,liggide01,31-Mar-88,2011,DeAndre Liggins,Shooting Guard and Small Forward,University of Kentucky,754378,2018,2017,New Orleans Pelicans
+7543,liggide01,31-Mar-88,2011,DeAndre Liggins,Shooting Guard and Small Forward,University of Kentucky,26773,2018,2017,Atlanta Hawks
+7544,lillada01,15-Jul-90,2012,Damian Lillard,Point Guard,Weber State University,3065040,2013,2012,Portland Trail Blazers
+7545,lillada01,15-Jul-90,2012,Damian Lillard,Point Guard,Weber State University,3202920,2014,2013,Portland Trail Blazers
+7546,lillada01,15-Jul-90,2012,Damian Lillard,Point Guard,Weber State University,3340920,2015,2014,Portland Trail Blazers
+7547,lillada01,15-Jul-90,2012,Damian Lillard,Point Guard,Weber State University,4236287,2016,2015,Portland Trail Blazers
+7548,lillada01,15-Jul-90,2012,Damian Lillard,Point Guard,Weber State University,24328425,2017,2016,Portland Trail Blazers
+7549,lillada01,15-Jul-90,2012,Damian Lillard,Point Guard,Weber State University,26153057,2018,2017,Portland Trail Blazers
+7642,looneke01,6-Feb-96,2015,Kevon Looney,Center and Power Forward,"University of California, Los Angeles",1131960,2016,2015,Golden State Warriors
+7643,looneke01,6-Feb-96,2015,Kevon Looney,Center and Power Forward,"University of California, Los Angeles",1182840,2017,2016,Golden State Warriors
+7644,looneke01,6-Feb-96,2015,Kevon Looney,Center and Power Forward,"University of California, Los Angeles",1471382,2018,2017,Golden State Warriors
+7723,lydonty01,9-Apr-96,2017,Tyler Lydon,Power Forward,Syracuse University,1579440,2018,2017,Denver Nuggets
+7724,lylestr01,5-Nov-95,2015,Trey Lyles,Power Forward,University of Kentucky,2239800,2016,2015,Utah Jazz
+7725,lylestr01,5-Nov-95,2015,Trey Lyles,Power Forward,University of Kentucky,2340600,2017,2016,Utah Jazz
+7726,lylestr01,5-Nov-95,2015,Trey Lyles,Power Forward,University of Kentucky,2441400,2018,2017,Denver Nuggets
+7761,macksh01,22-Apr-90,2011,Shelvin Mack,Shooting Guard and Point Guard,Butler University,473604,2012,2011,Washington Wizards
+7762,macksh01,22-Apr-90,2011,Shelvin Mack,Shooting Guard and Point Guard,Butler University,89670,2013,2012,Philadelphia 76ers
+7763,macksh01,22-Apr-90,2011,Shelvin Mack,Shooting Guard and Point Guard,Butler University,67253,2013,2012,Washington Wizards
+7764,macksh01,22-Apr-90,2011,Shelvin Mack,Shooting Guard and Point Guard,Butler University,884293,2014,2013,Atlanta Hawks
+7765,macksh01,22-Apr-90,2011,Shelvin Mack,Shooting Guard and Point Guard,Butler University,2433333,2015,2014,Atlanta Hawks
+7766,macksh01,22-Apr-90,2011,Shelvin Mack,Shooting Guard and Point Guard,Butler University,2433333,2016,2015,Utah Jazz
+7767,macksh01,22-Apr-90,2011,Shelvin Mack,Shooting Guard and Point Guard,Butler University,2433334,2017,2016,Utah Jazz
+7768,macksh01,22-Apr-90,2011,Shelvin Mack,Shooting Guard and Point Guard,Butler University,6000000,2018,2017,Orlando Magic
+7770,macklve01,20-Sep-86,2011,Vernon Macklin,Center,"Georgetown University, University of Florida",473604,2012,2011,Detroit Pistons
+7937,marblde01,21-Sep-92,2014,Devyn Marble,Shooting Guard,University of Iowa,884879,2015,2014,Orlando Magic
+7938,marblde01,21-Sep-92,2014,Devyn Marble,Shooting Guard,University of Iowa,845059,2016,2015,Orlando Magic
+7979,markkla01,22-May-97,2017,Lauri Markkanen,Power Forward,University of Arizona,3821640,2018,2017,Chicago Bulls
+8013,marshke01,19-Aug-91,2012,Kendall Marshall,Point Guard,University of North Carolina,1919160,2013,2012,Phoenix Suns
+8014,marshke01,19-Aug-91,2012,Kendall Marshall,Point Guard,University of North Carolina,2005560,2014,2013,Phoenix Suns
+8015,marshke01,19-Aug-91,2012,Kendall Marshall,Point Guard,University of North Carolina,915243,2015,2014,Phoenix Suns
+8016,marshke01,19-Aug-91,2012,Kendall Marshall,Point Guard,University of North Carolina,2144722,2016,2015,Philadelphia 76ers
+8036,martija01,24-May-94,2015,Jarell Martin,Power Forward,Louisiana State University,1230840,2016,2015,Memphis Grizzlies
+8037,martija01,24-May-94,2015,Jarell Martin,Power Forward,Louisiana State University,1286160,2017,2016,Memphis Grizzlies
+8038,martija01,24-May-94,2015,Jarell Martin,Power Forward,Louisiana State University,1471382,2018,2017,Memphis Grizzlies
+8109,masonfr01,3-Apr-94,2017,Frank Mason III,Point Guard,University of Kansas,1184385,2018,2017,Sacramento Kings
+8215,mccalra01,12-Jun-91,2013,Ray McCallum,Point Guard,University of Detroit Mercy,816482,2015,2014,Sacramento Kings
+8216,mccalra01,12-Jun-91,2013,Ray McCallum,Point Guard,University of Detroit Mercy,947276,2016,2015,San Antonio Spurs
+8217,mccalra01,12-Jun-91,2013,Ray McCallum,Point Guard,University of Detroit Mercy,111444,2016,2015,Memphis Grizzlies
+8218,mccalra01,12-Jun-91,2013,Ray McCallum,Point Guard,University of Detroit Mercy,119494,2017,2016,Charlotte Hornets
+8219,mccalra01,12-Jun-91,2013,Ray McCallum,Point Guard,University of Detroit Mercy,11949,2017,2016,Detroit Pistons
+8246,mccawpa01,25-Oct-95,2016,Patrick McCaw,Shooting Guard,"University of Nevada, Las Vegas",543471,2017,2016,Golden State Warriors
+8247,mccawpa01,25-Oct-95,2016,Patrick McCaw,Shooting Guard,"University of Nevada, Las Vegas",1312611,2018,2017,Golden State Warriors
+8260,mccolcj01,19-Sep-91,2013,CJ McCollum,Shooting Guard,Lehigh University,2316720,2014,2013,Portland Trail Blazers
+8261,mccolcj01,19-Sep-91,2013,CJ McCollum,Shooting Guard,Lehigh University,2421000,2015,2014,Portland Trail Blazers
+8262,mccolcj01,19-Sep-91,2013,CJ McCollum,Shooting Guard,Lehigh University,2525160,2016,2015,Portland Trail Blazers
+8263,mccolcj01,19-Sep-91,2013,CJ McCollum,Shooting Guard,Lehigh University,3219579,2017,2016,Portland Trail Blazers
+8264,mccolcj01,19-Sep-91,2013,CJ McCollum,Shooting Guard,Lehigh University,23962573,2018,2017,Portland Trail Blazers
+8293,mcculch01,5-Feb-95,2015,Chris McCullough,Power Forward,Syracuse University,1140240,2016,2015,Brooklyn Nets
+8294,mcculch01,5-Feb-95,2015,Chris McCullough,Power Forward,Syracuse University,1191480,2017,2016,Washington Wizards
+8295,mcculch01,5-Feb-95,2015,Chris McCullough,Power Forward,Syracuse University,1471382,2018,2017,Washington Wizards
+8306,mcdankj01,9-Feb-93,2014,K.J. McDaniels,Small Forward and Shooting Guard,Clemson University,507336,2015,2014,Houston Rockets
+8307,mcdankj01,9-Feb-93,2014,K.J. McDaniels,Small Forward and Shooting Guard,Clemson University,3333333,2016,2015,Houston Rockets
+8308,mcdankj01,9-Feb-93,2014,K.J. McDaniels,Small Forward and Shooting Guard,Clemson University,3333333,2017,2016,Brooklyn Nets
+8309,mcdankj01,9-Feb-93,2014,K.J. McDaniels,Small Forward and Shooting Guard,Clemson University,100000,2018,2017,Toronto Raptors
+8310,mcderdo01,3-Jan-92,2014,Doug McDermott,Small Forward,Creighton University,2277960,2015,2014,Chicago Bulls
+8311,mcderdo01,3-Jan-92,2014,Doug McDermott,Small Forward,Creighton University,2380440,2016,2015,Chicago Bulls
+8312,mcderdo01,3-Jan-92,2014,Doug McDermott,Small Forward,Creighton University,2483040,2017,2016,Oklahoma City Thunder
+8313,mcderdo01,3-Jan-92,2014,Doug McDermott,Small Forward,Creighton University,3294994,2018,2017,Dallas Mavericks
+8335,mcgarmi01,6-Jun-92,2014,Mitch McGary,Power Forward,University of Michigan,1400040,2015,2014,Oklahoma City Thunder
+8336,mcgarmi01,6-Jun-92,2014,Mitch McGary,Power Forward,University of Michigan,1463040,2016,2015,Oklahoma City Thunder
+8337,mcgarmi01,6-Jun-92,2014,Mitch McGary,Power Forward,University of Michigan,1526040,2017,2016,Oklahoma City Thunder
+8441,mclembe01,11-Feb-93,2013,Ben McLemore,Shooting Guard,University of Kansas,2895960,2014,2013,Sacramento Kings
+8442,mclembe01,11-Feb-93,2013,Ben McLemore,Shooting Guard,University of Kansas,3026280,2015,2014,Sacramento Kings
+8443,mclembe01,11-Feb-93,2013,Ben McLemore,Shooting Guard,University of Kansas,3156600,2016,2015,Sacramento Kings
+8444,mclembe01,11-Feb-93,2013,Ben McLemore,Shooting Guard,University of Kansas,4008882,2017,2016,Sacramento Kings
+8445,mclembe01,11-Feb-93,2013,Ben McLemore,Shooting Guard,University of Kansas,5200000,2018,2017,Memphis Grizzlies
+8472,mcraejo01,28-Mar-91,2014,Jordan McRae,Shooting Guard and Point Guard,University of Tennessee,172972,2016,2015,Cleveland Cavaliers
+8473,mcraejo01,28-Mar-91,2014,Jordan McRae,Shooting Guard and Point Guard,University of Tennessee,61776,2016,2015,Phoenix Suns
+8474,mcraejo01,28-Mar-91,2014,Jordan McRae,Shooting Guard and Point Guard,University of Tennessee,874636,2017,2016,Cleveland Cavaliers
+8513,melofa01,20-Jun-90,2012,Fab Melo,Center,Syracuse University,1254720,2013,2012,Boston Celtics
+8514,melofa01,20-Jun-90,2012,Fab Melo,Center,Syracuse University,1311240,2014,2013,Memphis Grizzlies
+8515,melofa01,20-Jun-90,2012,Fab Melo,Center,Syracuse University,788872,2014,2013,Dallas Mavericks
+8516,melofa01,20-Jun-90,2012,Fab Melo,Center,Syracuse University,437080,2015,2014,Memphis Grizzlies
+8535,mickejo01,9-Jul-94,2015,Jordan Mickey,Power Forward,Louisiana State University,1200000,2016,2015,Boston Celtics
+8536,mickejo01,9-Jul-94,2015,Jordan Mickey,Power Forward,Louisiana State University,1223653,2017,2016,Boston Celtics
+8537,mickejo01,9-Jul-94,2015,Jordan Mickey,Power Forward,Louisiana State University,1471382,2018,2017,Miami Heat
+8538,middlkh01,12-Aug-91,2012,Khris Middleton,Shooting Guard and Small Forward,Texas A&M University,473604,2013,2012,Detroit Pistons
+8539,middlkh01,12-Aug-91,2012,Khris Middleton,Shooting Guard and Small Forward,Texas A&M University,788872,2014,2013,Milwaukee Bucks
+8540,middlkh01,12-Aug-91,2012,Khris Middleton,Shooting Guard and Small Forward,Texas A&M University,915243,2015,2014,Milwaukee Bucks
+8541,middlkh01,12-Aug-91,2012,Khris Middleton,Shooting Guard and Small Forward,Texas A&M University,15000000,2016,2015,Milwaukee Bucks
+8542,middlkh01,12-Aug-91,2012,Khris Middleton,Shooting Guard and Small Forward,Texas A&M University,15200000,2017,2016,Milwaukee Bucks
+8543,middlkh01,12-Aug-91,2012,Khris Middleton,Shooting Guard and Small Forward,Texas A&M University,14100000,2018,2017,Milwaukee Bucks
+8631,milleda01,21-Mar-90,2012,Darius Miller,Small Forward,University of Kentucky,473604,2013,2012,New Orleans Hornets
+8632,milleda01,21-Mar-90,2012,Darius Miller,Small Forward,University of Kentucky,788872,2014,2013,New Orleans Pelicans
+8633,milleda01,21-Mar-90,2012,Darius Miller,Small Forward,University of Kentucky,400000,2015,2014,New Orleans Pelicans
+8634,milleda01,21-Mar-90,2012,Darius Miller,Small Forward,University of Kentucky,2100000,2018,2017,New Orleans Pelicans
+8662,millequ01,18-Nov-92,2012,Quincy Miller,Power Forward,Baylor University,473604,2013,2012,Denver Nuggets
+8663,millequ01,18-Nov-92,2012,Quincy Miller,Power Forward,Baylor University,788872,2014,2013,Denver Nuggets
+8664,millequ01,18-Nov-92,2012,Quincy Miller,Power Forward,Baylor University,150000,2015,2014,Denver Nuggets
+8665,millequ01,18-Nov-92,2012,Quincy Miller,Power Forward,Baylor University,107676,2015,2014,Sacramento Kings
+8666,millequ01,18-Nov-92,2012,Quincy Miller,Power Forward,Baylor University,107676,2015,2014,Detroit Pistons
+8667,millequ01,18-Nov-92,2012,Quincy Miller,Power Forward,Baylor University,50000,2016,2015,Brooklyn Nets
+8759,mitchdo01,7-Sep-96,2017,Donovan Mitchell,Shooting Guard,University of Louisville,2621280,2018,2017,Utah Jazz
+8774,mitchto02,7-Apr-92,2013,Tony Mitchell,Power Forward,University of North Texas,816482,2015,2014,Phoenix Suns
+8826,monkma01,4-Feb-98,2017,Malik Monk,Shooting Guard,University of Kentucky,2904480,2018,2017,Charlotte Hornets
+8827,monrogr01,4-Jun-90,2010,Greg Monroe,Power Forward and Center,Georgetown University,2798040,2011,2010,Detroit Pistons
+8828,monrogr01,4-Jun-90,2010,Greg Monroe,Power Forward and Center,Georgetown University,3007920,2012,2011,Detroit Pistons
+8829,monrogr01,4-Jun-90,2010,Greg Monroe,Power Forward and Center,Georgetown University,3217680,2013,2012,Detroit Pistons
+8830,monrogr01,4-Jun-90,2010,Greg Monroe,Power Forward and Center,Georgetown University,4086454,2014,2013,Detroit Pistons
+8831,monrogr01,4-Jun-90,2010,Greg Monroe,Power Forward and Center,Georgetown University,5479934,2015,2014,Detroit Pistons
+8832,monrogr01,4-Jun-90,2010,Greg Monroe,Power Forward and Center,Georgetown University,16400000,2016,2015,Milwaukee Bucks
+8833,monrogr01,4-Jun-90,2010,Greg Monroe,Power Forward and Center,Georgetown University,17100000,2017,2016,Milwaukee Bucks
+8834,monrogr01,4-Jun-90,2010,Greg Monroe,Power Forward and Center,Georgetown University,16384175,2018,2017,Phoenix Suns
+8835,monrogr01,4-Jun-90,2010,Greg Monroe,Power Forward and Center,Georgetown University,5000000,2018,2017,Boston Celtics
+8851,mooreet01,25-Feb-89,2011,E'Twaun Moore,Point Guard and Shooting Guard,Purdue University,473604,2012,2011,Boston Celtics
+8852,mooreet01,25-Feb-89,2011,E'Twaun Moore,Point Guard and Shooting Guard,Purdue University,762195,2013,2012,Orlando Magic
+8853,mooreet01,25-Feb-89,2011,E'Twaun Moore,Point Guard and Shooting Guard,Purdue University,884293,2014,2013,Orlando Magic
+8854,mooreet01,25-Feb-89,2011,E'Twaun Moore,Point Guard and Shooting Guard,Purdue University,948163,2015,2014,Chicago Bulls
+8855,mooreet01,25-Feb-89,2011,E'Twaun Moore,Point Guard and Shooting Guard,Purdue University,1015421,2016,2015,Chicago Bulls
+8856,mooreet01,25-Feb-89,2011,E'Twaun Moore,Point Guard and Shooting Guard,Purdue University,8081363,2017,2016,New Orleans Pelicans
+8857,mooreet01,25-Feb-89,2011,E'Twaun Moore,Point Guard and Shooting Guard,Purdue University,8445024,2018,2017,New Orleans Pelicans
+8891,morrida01,3-Jan-91,2011,Darius Morris,Point Guard,University of Michigan,473604,2012,2011,Los Angeles Lakers
+8892,morrida01,3-Jan-91,2011,Darius Morris,Point Guard,University of Michigan,962195,2013,2012,Los Angeles Lakers
+8893,morrida01,3-Jan-91,2011,Darius Morris,Point Guard,University of Michigan,1046269,2014,2013,Philadelphia 76ers
+8894,morrida01,3-Jan-91,2011,Darius Morris,Point Guard,University of Michigan,702756,2015,2014,Brooklyn Nets
+8897,morrima03,2-Sep-89,2011,Marcus Morris,Small Forward and Power Forward,University of Kansas,1823280,2012,2011,Houston Rockets
+8898,morrima03,2-Sep-89,2011,Marcus Morris,Small Forward and Power Forward,University of Kansas,1959960,2013,2012,Phoenix Suns
+8899,morrima03,2-Sep-89,2011,Marcus Morris,Small Forward and Power Forward,University of Kansas,1987320,2014,2013,Phoenix Suns
+8900,morrima03,2-Sep-89,2011,Marcus Morris,Small Forward and Power Forward,University of Kansas,2943221,2015,2014,Phoenix Suns
+8901,morrima03,2-Sep-89,2011,Marcus Morris,Small Forward and Power Forward,University of Kansas,5000000,2016,2015,Detroit Pistons
+8902,morrima03,2-Sep-89,2011,Marcus Morris,Small Forward and Power Forward,University of Kansas,4625000,2017,2016,Detroit Pistons
+8903,morrima03,2-Sep-89,2011,Marcus Morris,Small Forward and Power Forward,University of Kansas,5000000,2018,2017,Boston Celtics
+8904,morrima02,2-Sep-89,2011,Markieff Morris,Power Forward,University of Kansas,1919160,2012,2011,Phoenix Suns
+8905,morrima02,2-Sep-89,2011,Markieff Morris,Power Forward,University of Kansas,2063040,2013,2012,Phoenix Suns
+8906,morrima02,2-Sep-89,2011,Markieff Morris,Power Forward,University of Kansas,2091840,2014,2013,Phoenix Suns
+8907,morrima02,2-Sep-89,2011,Markieff Morris,Power Forward,University of Kansas,2989239,2015,2014,Phoenix Suns
+8908,morrima02,2-Sep-89,2011,Markieff Morris,Power Forward,University of Kansas,8000000,2016,2015,Washington Wizards
+8909,morrima02,2-Sep-89,2011,Markieff Morris,Power Forward,University of Kansas,7400000,2017,2016,Washington Wizards
+8910,morrima02,2-Sep-89,2011,Markieff Morris,Power Forward,University of Kansas,8000000,2018,2017,Washington Wizards
+8943,moultar01,18-Nov-90,2012,Arnett Moultrie,Power Forward,"University of Texas at El Paso, Mississippi State University",1042320,2013,2012,Philadelphia 76ers
+8944,moultar01,18-Nov-90,2012,Arnett Moultrie,Power Forward,"University of Texas at El Paso, Mississippi State University",1089240,2014,2013,Philadelphia 76ers
+8945,moultar01,18-Nov-90,2012,Arnett Moultrie,Power Forward,"University of Texas at El Paso, Mississippi State University",1136160,2015,2014,New York Knicks
+8975,muhamsh01,13-Nov-92,2013,Shabazz Muhammad,Small Forward and Shooting Guard,"University of California, Los Angeles",1887120,2014,2013,Minnesota Timberwolves
+8976,muhamsh01,13-Nov-92,2013,Shabazz Muhammad,Small Forward and Shooting Guard,"University of California, Los Angeles",1971960,2015,2014,Minnesota Timberwolves
+8977,muhamsh01,13-Nov-92,2013,Shabazz Muhammad,Small Forward and Shooting Guard,"University of California, Los Angeles",2056920,2016,2015,Minnesota Timberwolves
+8978,muhamsh01,13-Nov-92,2013,Shabazz Muhammad,Small Forward and Shooting Guard,"University of California, Los Angeles",3046299,2017,2016,Minnesota Timberwolves
+8979,muhamsh01,13-Nov-92,2013,Shabazz Muhammad,Small Forward and Shooting Guard,"University of California, Los Angeles",1238616,2018,2017,Minnesota Timberwolves
+8980,muhamsh01,13-Nov-92,2013,Shabazz Muhammad,Small Forward and Shooting Guard,"University of California, Los Angeles",324203,2018,2017,Milwaukee Bucks
+9020,murpher01,26-Oct-90,2013,Erik Murphy,Center,University of Florida,100000,2015,2014,Boston Celtics
+9023,murphke01,6-Mar-90,2012,Kevin Murphy,Shooting Guard,Tennessee Technological University,473604,2013,2012,Utah Jazz
+9024,murphke01,6-Mar-90,2012,Kevin Murphy,Shooting Guard,Tennessee Technological University,65000,2015,2014,Utah Jazz
+9042,murrade01,19-Sep-96,2016,Dejounte Murray,Point Guard,University of Washington,1180080,2017,2016,San Antonio Spurs
+9043,murrade01,19-Sep-96,2016,Dejounte Murray,Point Guard,University of Washington,1312611,2018,2017,San Antonio Spurs
+9044,murraja01,23-Feb-97,2016,Jamal Murray,Shooting Guard and Point Guard,University of Kentucky,3210840,2017,2016,Denver Nuggets
+9045,murraja01,23-Feb-97,2016,Jamal Murray,Shooting Guard and Point Guard,University of Kentucky,3355320,2018,2017,Denver Nuggets
+9081,muscami01,1-Jul-91,2013,Mike Muscala,Power Forward and Center,Bucknell University,816482,2015,2014,Atlanta Hawks
+9082,muscami01,1-Jul-91,2013,Mike Muscala,Power Forward and Center,Bucknell University,947276,2016,2015,Atlanta Hawks
+9083,muscami01,1-Jul-91,2013,Mike Muscala,Power Forward and Center,Bucknell University,1015696,2017,2016,Atlanta Hawks
+9084,muscami01,1-Jul-91,2013,Mike Muscala,Power Forward and Center,Bucknell University,5000000,2018,2017,Atlanta Hawks
+9117,ndiayha01,12-Jan-87,2010,Hamady N'Diaye,Center,Rutgers University,473604,2011,2010,Washington Wizards
+9118,ndiayha01,12-Jan-87,2010,Hamady N'Diaye,Center,Rutgers University,270427,2012,2011,Washington Wizards
+9133,naderab01,25-Sep-93,2016,Abdel Nader,Small Forward,"Northern Illinois University, Iowa State University",1167333,2018,2017,Boston Celtics
+9160,nancela02,1-Jan-93,2015,Larry Nance Jr.,Center and Power Forward,University of Wyoming,1155600,2016,2015,Los Angeles Lakers
+9161,nancela02,1-Jan-93,2015,Larry Nance Jr.,Center and Power Forward,University of Wyoming,1207680,2017,2016,Los Angeles Lakers
+9162,nancela02,1-Jan-93,2015,Larry Nance Jr.,Center and Power Forward,University of Wyoming,1471382,2018,2017,Cleveland Cavaliers
+9163,napiesh01,14-Jul-91,2014,Shabazz Napier,Point Guard,University of Connecticut,1238640,2015,2014,Miami Heat
+9164,napiesh01,14-Jul-91,2014,Shabazz Napier,Point Guard,University of Connecticut,1294440,2016,2015,Orlando Magic
+9165,napiesh01,14-Jul-91,2014,Shabazz Napier,Point Guard,University of Connecticut,1350120,2017,2016,Portland Trail Blazers
+9166,napiesh01,14-Jul-91,2014,Shabazz Napier,Point Guard,University of Connecticut,2361360,2018,2017,Portland Trail Blazers
+9275,nichoan01,8-Dec-89,2012,Andrew Nicholson,Power Forward,St. Bonaventure University,1418160,2013,2012,Orlando Magic
+9276,nichoan01,8-Dec-89,2012,Andrew Nicholson,Power Forward,St. Bonaventure University,1482000,2014,2013,Orlando Magic
+9277,nichoan01,8-Dec-89,2012,Andrew Nicholson,Power Forward,St. Bonaventure University,1545840,2015,2014,Orlando Magic
+9278,nichoan01,8-Dec-89,2012,Andrew Nicholson,Power Forward,St. Bonaventure University,2380594,2016,2015,Orlando Magic
+9279,nichoan01,8-Dec-89,2012,Andrew Nicholson,Power Forward,St. Bonaventure University,6088993,2017,2016,Brooklyn Nets
+9280,nichoan01,8-Dec-89,2012,Andrew Nicholson,Power Forward,St. Bonaventure University,2844429,2018,2017,Portland Trail Blazers
+9310,noelne01,10-Apr-94,2013,Nerlens Noel,Power Forward and Center,University of Kentucky,3172320,2014,2013,Philadelphia 76ers
+9311,noelne01,10-Apr-94,2013,Nerlens Noel,Power Forward and Center,University of Kentucky,3315120,2015,2014,Philadelphia 76ers
+9312,noelne01,10-Apr-94,2013,Nerlens Noel,Power Forward and Center,University of Kentucky,3457800,2016,2015,Philadelphia 76ers
+9313,noelne01,10-Apr-94,2013,Nerlens Noel,Power Forward and Center,University of Kentucky,4384490,2017,2016,Dallas Mavericks
+9314,noelne01,10-Apr-94,2013,Nerlens Noel,Power Forward and Center,University of Kentucky,4187599,2018,2017,Dallas Mavericks
+9387,obryajo01,1-Jun-93,2014,Johnny O'Bryant,Power Forward,Louisiana State University,600000,2015,2014,Milwaukee Bucks
+9388,obryajo01,1-Jun-93,2014,Johnny O'Bryant,Power Forward,Louisiana State University,845059,2016,2015,Milwaukee Bucks
+9389,obryajo01,1-Jun-93,2014,Johnny O'Bryant,Power Forward,Louisiana State University,276827,2017,2016,Charlotte Hornets
+9390,obryajo01,1-Jun-93,2014,Johnny O'Bryant,Power Forward,Louisiana State University,115344,2017,2016,Denver Nuggets
+9391,obryajo01,1-Jun-93,2014,Johnny O'Bryant,Power Forward,Louisiana State University,1524305,2018,2017,New York Knicks
+9437,oquinky01,26-Mar-90,2012,Kyle O'Quinn,Center and Power Forward,Norfolk State University,788872,2013,2012,Orlando Magic
+9438,oquinky01,26-Mar-90,2012,Kyle O'Quinn,Center and Power Forward,Norfolk State University,788872,2014,2013,Orlando Magic
+9439,oquinky01,26-Mar-90,2012,Kyle O'Quinn,Center and Power Forward,Norfolk State University,915243,2015,2014,Orlando Magic
+9440,oquinky01,26-Mar-90,2012,Kyle O'Quinn,Center and Power Forward,Norfolk State University,3750000,2016,2015,New York Knicks
+9441,oquinky01,26-Mar-90,2012,Kyle O'Quinn,Center and Power Forward,Norfolk State University,3900000,2017,2016,New York Knicks
+9442,oquinky01,26-Mar-90,2012,Kyle O'Quinn,Center and Power Forward,Norfolk State University,4087500,2018,2017,New York Knicks
+9494,ojelese01,5-Dec-94,2017,Semi Ojeleye,Power Forward,Southern Methodist University,1291892,2018,2017,Boston Celtics
+9506,okafoja01,15-Dec-95,2015,Jahlil Okafor,Center,Duke University,4582680,2016,2015,Philadelphia 76ers
+9507,okafoja01,15-Dec-95,2015,Jahlil Okafor,Center,Duke University,4788840,2017,2016,Philadelphia 76ers
+9508,okafoja01,15-Dec-95,2015,Jahlil Okafor,Center,Duke University,4995120,2018,2017,Brooklyn Nets
+9519,oladivi01,4-May-92,2013,Victor Oladipo,Shooting Guard and Point Guard,Indiana University,4763760,2014,2013,Orlando Magic
+9520,oladivi01,4-May-92,2013,Victor Oladipo,Shooting Guard and Point Guard,Indiana University,4978200,2015,2014,Orlando Magic
+9521,oladivi01,4-May-92,2013,Victor Oladipo,Shooting Guard and Point Guard,Indiana University,5192520,2016,2015,Orlando Magic
+9522,oladivi01,4-May-92,2013,Victor Oladipo,Shooting Guard and Point Guard,Indiana University,6552960,2017,2016,Oklahoma City Thunder
+9523,oladivi01,4-May-92,2013,Victor Oladipo,Shooting Guard and Point Guard,Indiana University,21000000,2018,2017,Indiana Pacers
+9581,olynyke01,19-Apr-91,2013,Kelly Olynyk,Center and Power Forward,Gonzaga University,1986360,2014,2013,Boston Celtics
+9582,olynyke01,19-Apr-91,2013,Kelly Olynyk,Center and Power Forward,Gonzaga University,2075760,2015,2014,Boston Celtics
+9583,olynyke01,19-Apr-91,2013,Kelly Olynyk,Center and Power Forward,Gonzaga University,2165160,2016,2015,Boston Celtics
+9584,olynyke01,19-Apr-91,2013,Kelly Olynyk,Center and Power Forward,Gonzaga University,3094014,2017,2016,Boston Celtics
+9585,olynyke01,19-Apr-91,2013,Kelly Olynyk,Center and Power Forward,Gonzaga University,10607169,2018,2017,Miami Heat
+9588,onuakch01,1-Nov-96,2016,Chinanu Onuaku,Center,University of Louisville,543471,2017,2016,Houston Rockets
+9589,onuakch01,1-Nov-96,2016,Chinanu Onuaku,Center,University of Louisville,1312611,2018,2017,Houston Rockets
+9594,ortonda01,6-Aug-90,2010,Daniel Orton,Center and Power Forward,University of Kentucky,1028400,2011,2010,Orlando Magic
+9595,ortonda01,6-Aug-90,2010,Daniel Orton,Center and Power Forward,University of Kentucky,1105560,2012,2011,Orlando Magic
+9596,ortonda01,6-Aug-90,2010,Daniel Orton,Center and Power Forward,University of Kentucky,757712,2013,2012,Oklahoma City Thunder
+9610,oubreke01,9-Dec-95,2015,Kelly Oubre Jr.,Small Forward,University of Kansas,1920240,2016,2015,Washington Wizards
+9611,oubreke01,9-Dec-95,2015,Kelly Oubre Jr.,Small Forward,University of Kansas,2006640,2017,2016,Washington Wizards
+9612,oubreke01,9-Dec-95,2015,Kelly Oubre Jr.,Small Forward,University of Kansas,2093040,2018,2017,Washington Wizards
+9767,parkeja01,15-Mar-95,2014,Jabari Parker,Power Forward,Duke University,4930560,2015,2014,Milwaukee Bucks
+9768,parkeja01,15-Mar-95,2014,Jabari Parker,Power Forward,Duke University,5152440,2016,2015,Milwaukee Bucks
+9769,parkeja01,15-Mar-95,2014,Jabari Parker,Power Forward,Duke University,5374320,2017,2016,Milwaukee Bucks
+9770,parkeja01,15-Mar-95,2014,Jabari Parker,Power Forward,Duke University,6782392,2018,2017,Milwaukee Bucks
+9803,parsoch01,25-Oct-88,2011,Chandler Parsons,Small Forward,University of Florida,850000,2012,2011,Houston Rockets
+9804,parsoch01,25-Oct-88,2011,Chandler Parsons,Small Forward,University of Florida,888250,2013,2012,Houston Rockets
+9805,parsoch01,25-Oct-88,2011,Chandler Parsons,Small Forward,University of Florida,926500,2014,2013,Houston Rockets
+9806,parsoch01,25-Oct-88,2011,Chandler Parsons,Small Forward,University of Florida,14700000,2015,2014,Dallas Mavericks
+9807,parsoch01,25-Oct-88,2011,Chandler Parsons,Small Forward,University of Florida,15361500,2016,2015,Dallas Mavericks
+9808,parsoch01,25-Oct-88,2011,Chandler Parsons,Small Forward,University of Florida,22116750,2017,2016,Memphis Grizzlies
+9809,parsoch01,25-Oct-88,2011,Chandler Parsons,Small Forward,University of Florida,23112004,2018,2017,Memphis Grizzlies
+9813,pattela01,12-Aug-91,2014,Lamar Patterson,Shooting Guard,University of Pittsburgh,525093,2016,2015,Atlanta Hawks
+9814,pattela01,12-Aug-91,2014,Lamar Patterson,Shooting Guard,University of Pittsburgh,128623,2017,2016,Atlanta Hawks
+9815,pattela01,12-Aug-91,2014,Lamar Patterson,Shooting Guard,University of Pittsburgh,100000,2017,2016,Sacramento Kings
+9816,pattepa01,14-Mar-89,2010,Patrick Patterson,Power Forward,University of Kentucky,1823280,2011,2010,Houston Rockets
+9817,pattepa01,14-Mar-89,2010,Patrick Patterson,Power Forward,University of Kentucky,1959960,2012,2011,Houston Rockets
+9818,pattepa01,14-Mar-89,2010,Patrick Patterson,Power Forward,University of Kentucky,2096760,2013,2012,Sacramento Kings
+9819,pattepa01,14-Mar-89,2010,Patrick Patterson,Power Forward,University of Kentucky,3105302,2014,2013,Sacramento Kings
+9820,pattepa01,14-Mar-89,2010,Patrick Patterson,Power Forward,University of Kentucky,5831326,2015,2014,Toronto Raptors
+9821,pattepa01,14-Mar-89,2010,Patrick Patterson,Power Forward,University of Kentucky,6268675,2016,2015,Toronto Raptors
+9822,pattepa01,14-Mar-89,2010,Patrick Patterson,Power Forward,University of Kentucky,6050000,2017,2016,Toronto Raptors
+9823,pattepa01,14-Mar-89,2010,Patrick Patterson,Power Forward,University of Kentucky,5192000,2018,2017,Oklahoma City Thunder
+9834,pattoju01,14-Jun-97,2017,Justin Patton,Center,Creighton University,2247480,2018,2017,Minnesota Timberwolves
+9874,payneca01,8-Aug-94,2015,Cameron Payne,Point Guard,Murray State University,2021520,2016,2015,Oklahoma City Thunder
+9875,payneca01,8-Aug-94,2015,Cameron Payne,Point Guard,Murray State University,2112480,2017,2016,Chicago Bulls
+9876,payneca01,8-Aug-94,2015,Cameron Payne,Point Guard,Murray State University,2203440,2018,2017,Chicago Bulls
+9880,paytoel01,22-Feb-94,2014,Elfrid Payton,Point Guard,University of Louisiana at Lafayette,2397840,2015,2014,Orlando Magic
+9881,paytoel01,22-Feb-94,2014,Elfrid Payton,Point Guard,University of Louisiana at Lafayette,2505720,2016,2015,Orlando Magic
+9882,paytoel01,22-Feb-94,2014,Elfrid Payton,Point Guard,University of Louisiana at Lafayette,2613600,2017,2016,Orlando Magic
+9883,paytoel01,22-Feb-94,2014,Elfrid Payton,Point Guard,University of Louisiana at Lafayette,3332340,2018,2017,Phoenix Suns
+10148,pittmde01,2-Mar-88,2010,Dexter Pittman,Center,University of Texas at Austin,473604,2011,2010,Miami Heat
+10149,pittmde01,2-Mar-88,2010,Dexter Pittman,Center,University of Texas at Austin,762195,2012,2011,Miami Heat
+10150,pittmde01,2-Mar-88,2010,Dexter Pittman,Center,University of Texas at Austin,854389,2013,2012,Memphis Grizzlies
+10158,plumlma01,5-Mar-90,2013,Mason Plumlee,Center,Duke University,1298640,2014,2013,Brooklyn Nets
+10159,plumlma01,5-Mar-90,2013,Mason Plumlee,Center,Duke University,1357080,2015,2014,Brooklyn Nets
+10160,plumlma01,5-Mar-90,2013,Mason Plumlee,Center,Duke University,1415520,2016,2015,Portland Trail Blazers
+10161,plumlma01,5-Mar-90,2013,Mason Plumlee,Center,Duke University,2328530,2017,2016,Denver Nuggets
+10162,plumlma01,5-Mar-90,2013,Mason Plumlee,Center,Duke University,14041096,2018,2017,Denver Nuggets
+10163,plumlmi01,1-Sep-88,2012,Miles Plumlee,Center,Duke University,1073280,2013,2012,Indiana Pacers
+10164,plumlmi01,1-Sep-88,2012,Miles Plumlee,Center,Duke University,1121520,2014,2013,Phoenix Suns
+10165,plumlmi01,1-Sep-88,2012,Miles Plumlee,Center,Duke University,1169880,2015,2014,Milwaukee Bucks
+10166,plumlmi01,1-Sep-88,2012,Miles Plumlee,Center,Duke University,2109294,2016,2015,Milwaukee Bucks
+10167,plumlmi01,1-Sep-88,2012,Miles Plumlee,Center,Duke University,12500000,2017,2016,Milwaukee Bucks
+10168,plumlmi01,1-Sep-88,2012,Miles Plumlee,Center,Duke University,12500000,2018,2017,Atlanta Hawks
+10174,poeltja01,15-Oct-95,2016,Jakob Poeltl,Center,University of Utah,2703960,2017,2016,Toronto Raptors
+10175,poeltja01,15-Oct-95,2016,Jakob Poeltl,Center,University of Utah,2825640,2018,2017,Toronto Raptors
+10203,pondequ01,10-Mar-88,2010,Quincy Pondexter,Small Forward and Shooting Guard,University of Washington,1073280,2011,2010,New Orleans Hornets
+10204,pondequ01,10-Mar-88,2010,Quincy Pondexter,Small Forward and Shooting Guard,University of Washington,1153800,2012,2011,Memphis Grizzlies
+10205,pondequ01,10-Mar-88,2010,Quincy Pondexter,Small Forward and Shooting Guard,University of Washington,1234320,2013,2012,Memphis Grizzlies
+10206,pondequ01,10-Mar-88,2010,Quincy Pondexter,Small Forward and Shooting Guard,University of Washington,2225479,2014,2013,Memphis Grizzlies
+10207,pondequ01,10-Mar-88,2010,Quincy Pondexter,Small Forward and Shooting Guard,University of Washington,3146068,2015,2014,New Orleans Pelicans
+10208,pondequ01,10-Mar-88,2010,Quincy Pondexter,Small Forward and Shooting Guard,University of Washington,3382023,2016,2015,New Orleans Pelicans
+10209,pondequ01,10-Mar-88,2010,Quincy Pondexter,Small Forward and Shooting Guard,University of Washington,3617978,2017,2016,New Orleans Pelicans
+10210,pondequ01,10-Mar-88,2010,Quincy Pondexter,Small Forward and Shooting Guard,University of Washington,3853931,2018,2017,Chicago Bulls
+10224,porteot01,3-Jun-93,2013,Otto Porter,Small Forward,Georgetown University,4278000,2014,2013,Washington Wizards
+10225,porteot01,3-Jun-93,2013,Otto Porter,Small Forward,Georgetown University,4470480,2015,2014,Washington Wizards
+10226,porteot01,3-Jun-93,2013,Otto Porter,Small Forward,Georgetown University,4662960,2016,2015,Washington Wizards
+10227,porteot01,3-Jun-93,2013,Otto Porter,Small Forward,Georgetown University,5893981,2017,2016,Washington Wizards
+10228,porteot01,3-Jun-93,2013,Otto Porter,Small Forward,Georgetown University,24773250,2018,2017,Washington Wizards
+10245,portibo01,10-Feb-95,2015,Bobby Portis,Power Forward,University of Arkansas,1391160,2016,2015,Chicago Bulls
+10246,portibo01,10-Feb-95,2015,Bobby Portis,Power Forward,University of Arkansas,1453680,2017,2016,Chicago Bulls
+10247,portibo01,10-Feb-95,2015,Bobby Portis,Power Forward,University of Arkansas,1516320,2018,2017,Chicago Bulls
+10283,poweldw01,20-Jul-91,2014,Dwight Powell,Power Forward and Center,Stanford University,507336,2015,2014,Dallas Mavericks
+10284,poweldw01,20-Jul-91,2014,Dwight Powell,Power Forward and Center,Stanford University,845059,2016,2015,Dallas Mavericks
+10285,poweldw01,20-Jul-91,2014,Dwight Powell,Power Forward and Center,Stanford University,8375000,2017,2016,Dallas Mavericks
+10286,poweldw01,20-Jul-91,2014,Dwight Powell,Power Forward and Center,Stanford University,9003125,2018,2017,Dallas Mavericks
+10293,powelno01,25-May-93,2015,Norman Powell,Shooting Guard,"University of California, Los Angeles",650000,2016,2015,Toronto Raptors
+10294,powelno01,25-May-93,2015,Norman Powell,Shooting Guard,"University of California, Los Angeles",874636,2017,2016,Toronto Raptors
+10295,powelno01,25-May-93,2015,Norman Powell,Shooting Guard,"University of California, Los Angeles",1471382,2018,2017,Toronto Raptors
+10407,rabbiv01,4-Feb-97,2017,Ivan Rabb,Power Forward,University of California,950000,2018,2017,Memphis Grizzlies
+10455,randlju01,29-Nov-94,2014,Julius Randle,Power Forward and Center,University of Kentucky,2997360,2015,2014,Los Angeles Lakers
+10456,randlju01,29-Nov-94,2014,Julius Randle,Power Forward and Center,University of Kentucky,3132240,2016,2015,Los Angeles Lakers
+10457,randlju01,29-Nov-94,2014,Julius Randle,Power Forward and Center,University of Kentucky,3267120,2017,2016,Los Angeles Lakers
+10458,randlju01,29-Nov-94,2014,Julius Randle,Power Forward and Center,University of Kentucky,4149242,2018,2017,Los Angeles Lakers
+10517,rautian01,2-Nov-86,2010,Andy Rautins,Shooting Guard,Syracuse University,600000,2011,2010,New York Knicks
+10518,rautian01,2-Nov-86,2010,Andy Rautins,Shooting Guard,Syracuse University,788872,2012,2011,Dallas Mavericks
+10556,reedda01,11-Jun-95,2017,Davon Reed,Shooting Guard,University of Miami,815615,2018,2017,Phoenix Suns
+10605,reidry01,30-Oct-86,2010,Ryan Reid,Power Forward,Florida State University,475000,2012,2011,Oklahoma City Thunder
+10645,ricegl02,1-Jan-91,2013,Glen Rice Jr.,Shooting Guard,Georgia Institute of Technology,400000,2015,2014,Washington Wizards
+10670,richajo01,15-Sep-93,2015,Josh Richardson,Shooting Guard and Small Forward,University of Tennessee,525093,2016,2015,Miami Heat
+10671,richajo01,15-Sep-93,2015,Josh Richardson,Shooting Guard and Small Forward,University of Tennessee,874636,2017,2016,Miami Heat
+10672,richajo01,15-Sep-93,2015,Josh Richardson,Shooting Guard and Small Forward,University of Tennessee,1471382,2018,2017,Miami Heat
+10673,richama01,5-Jan-96,2016,Malachi Richardson,Shooting Guard,Syracuse University,1439880,2017,2016,Sacramento Kings
+10674,richama01,5-Jan-96,2016,Malachi Richardson,Shooting Guard,Syracuse University,1504560,2018,2017,Toronto Raptors
+10745,riverau01,1-Aug-92,2012,Austin Rivers,Point Guard and Shooting Guard,Duke University,2238360,2013,2012,New Orleans Hornets
+10746,riverau01,1-Aug-92,2012,Austin Rivers,Point Guard and Shooting Guard,Duke University,2339040,2014,2013,New Orleans Pelicans
+10747,riverau01,1-Aug-92,2012,Austin Rivers,Point Guard and Shooting Guard,Duke University,2439840,2015,2014,Los Angeles Clippers
+10748,riverau01,1-Aug-92,2012,Austin Rivers,Point Guard and Shooting Guard,Duke University,3100000,2016,2015,Los Angeles Clippers
+10749,riverau01,1-Aug-92,2012,Austin Rivers,Point Guard and Shooting Guard,Duke University,11000000,2017,2016,Los Angeles Clippers
+10750,riverau01,1-Aug-92,2012,Austin Rivers,Point Guard and Shooting Guard,Duke University,11825000,2018,2017,Los Angeles Clippers
+10764,roberan03,4-Dec-91,2013,Andre Roberson,Shooting Guard and Small Forward,University of Colorado,1110840,2014,2013,Oklahoma City Thunder
+10765,roberan03,4-Dec-91,2013,Andre Roberson,Shooting Guard and Small Forward,University of Colorado,1160880,2015,2014,Oklahoma City Thunder
+10766,roberan03,4-Dec-91,2013,Andre Roberson,Shooting Guard and Small Forward,University of Colorado,1210800,2016,2015,Oklahoma City Thunder
+10767,roberan03,4-Dec-91,2013,Andre Roberson,Shooting Guard and Small Forward,University of Colorado,2183072,2017,2016,Oklahoma City Thunder
+10768,roberan03,4-Dec-91,2013,Andre Roberson,Shooting Guard and Small Forward,University of Colorado,9259259,2018,2017,Oklahoma City Thunder
+10873,robingl02,8-Jan-94,2014,Glenn Robinson III,Shooting Guard and Small Forward,University of Michigan,507336,2015,2014,Philadelphia 76ers
+10874,robingl02,8-Jan-94,2014,Glenn Robinson III,Shooting Guard and Small Forward,University of Michigan,845000,2016,2015,Indiana Pacers
+10875,robingl02,8-Jan-94,2014,Glenn Robinson III,Shooting Guard and Small Forward,University of Michigan,1050500,2017,2016,Indiana Pacers
+10876,robingl02,8-Jan-94,2014,Glenn Robinson III,Shooting Guard and Small Forward,University of Michigan,1524305,2018,2017,Indiana Pacers
+10910,robinth01,17-Mar-91,2012,Thomas Robinson,Power Forward,University of Kansas,3374640,2013,2012,Houston Rockets
+10911,robinth01,17-Mar-91,2012,Thomas Robinson,Power Forward,University of Kansas,3526440,2014,2013,Portland Trail Blazers
+10912,robinth01,17-Mar-91,2012,Thomas Robinson,Power Forward,University of Kansas,3678360,2015,2014,Philadelphia 76ers
+10913,robinth01,17-Mar-91,2012,Thomas Robinson,Power Forward,University of Kansas,981300,2016,2015,Brooklyn Nets
+10914,robinth01,17-Mar-91,2012,Thomas Robinson,Power Forward,University of Kansas,1050961,2017,2016,Los Angeles Lakers
+11042,rosste01,5-Feb-91,2012,Terrence Ross,Small Forward and Shooting Guard,University of Washington,2563320,2013,2012,Toronto Raptors
+11043,rosste01,5-Feb-91,2012,Terrence Ross,Small Forward and Shooting Guard,University of Washington,2678640,2014,2013,Toronto Raptors
+11044,rosste01,5-Feb-91,2012,Terrence Ross,Small Forward and Shooting Guard,University of Washington,2793960,2015,2014,Toronto Raptors
+11045,rosste01,5-Feb-91,2012,Terrence Ross,Small Forward and Shooting Guard,University of Washington,3553917,2016,2015,Toronto Raptors
+11046,rosste01,5-Feb-91,2012,Terrence Ross,Small Forward and Shooting Guard,University of Washington,10000000,2017,2016,Orlando Magic
+11047,rosste01,5-Feb-91,2012,Terrence Ross,Small Forward and Shooting Guard,University of Washington,10500000,2018,2017,Orlando Magic
+11072,roziete01,17-Mar-94,2015,Terry Rozier,Point Guard,University of Louisville,1824360,2016,2015,Boston Celtics
+11073,roziete01,17-Mar-94,2015,Terry Rozier,Point Guard,University of Louisville,1906440,2017,2016,Boston Celtics
+11074,roziete01,17-Mar-94,2015,Terry Rozier,Point Guard,University of Louisville,1988520,2018,2017,Boston Celtics
+11134,russeda01,23-Feb-96,2015,D'Angelo Russell,Point Guard,Ohio State University,5103120,2016,2015,Los Angeles Lakers
+11135,russeda01,23-Feb-96,2015,D'Angelo Russell,Point Guard,Ohio State University,5332800,2017,2016,Los Angeles Lakers
+11136,russeda01,23-Feb-96,2015,D'Angelo Russell,Point Guard,Ohio State University,5562360,2018,2017,Brooklyn Nets
+11146,sabondo01,3-May-96,2016,Domantas Sabonis,Center and Power Forward,Gonzaga University,2440200,2017,2016,Oklahoma City Thunder
+11147,sabondo01,3-May-96,2016,Domantas Sabonis,Center and Power Forward,Gonzaga University,2550000,2018,2017,Indiana Pacers
+11148,sacrero01,6-Jun-89,2012,Robert Sacre,Center,Gonzaga University,473604,2013,2012,Los Angeles Lakers
+11149,sacrero01,6-Jun-89,2012,Robert Sacre,Center,Gonzaga University,788872,2014,2013,Los Angeles Lakers
+11150,sacrero01,6-Jun-89,2012,Robert Sacre,Center,Gonzaga University,915243,2015,2014,Los Angeles Lakers
+11151,sacrero01,6-Jun-89,2012,Robert Sacre,Center,Gonzaga University,981348,2016,2015,Los Angeles Lakers
+11206,sandela01,21-Nov-88,2010,Larry Sanders,Power Forward and Center,Virginia Commonwealth University,1731960,2011,2010,Milwaukee Bucks
+11207,sandela01,21-Nov-88,2010,Larry Sanders,Power Forward and Center,Virginia Commonwealth University,1861920,2012,2011,Milwaukee Bucks
+11208,sandela01,21-Nov-88,2010,Larry Sanders,Power Forward and Center,Virginia Commonwealth University,1991760,2013,2012,Milwaukee Bucks
+11209,sandela01,21-Nov-88,2010,Larry Sanders,Power Forward and Center,Virginia Commonwealth University,3053368,2014,2013,Milwaukee Bucks
+11210,sandela01,21-Nov-88,2010,Larry Sanders,Power Forward and Center,Virginia Commonwealth University,11000000,2015,2014,Milwaukee Bucks
+11211,sandela01,21-Nov-88,2010,Larry Sanders,Power Forward and Center,Virginia Commonwealth University,1865547,2016,2015,Milwaukee Bucks
+11212,sandela01,21-Nov-88,2010,Larry Sanders,Power Forward and Center,Virginia Commonwealth University,1865547,2017,2016,Milwaukee Bucks
+11213,sandela01,21-Nov-88,2010,Larry Sanders,Power Forward and Center,Virginia Commonwealth University,207722,2017,2016,Cleveland Cavaliers
+11214,sandela01,21-Nov-88,2010,Larry Sanders,Power Forward and Center,Virginia Commonwealth University,1865547,2018,2017,Milwaukee Bucks
+11346,scottmi01,16-Jul-88,2012,Mike Scott,Power Forward,University of Virginia,473604,2013,2012,Atlanta Hawks
+11347,scottmi01,16-Jul-88,2012,Mike Scott,Power Forward,University of Virginia,788872,2014,2013,Atlanta Hawks
+11348,scottmi01,16-Jul-88,2012,Mike Scott,Power Forward,University of Virginia,3333333,2015,2014,Atlanta Hawks
+11349,scottmi01,16-Jul-88,2012,Mike Scott,Power Forward,University of Virginia,3333333,2016,2015,Atlanta Hawks
+11350,scottmi01,16-Jul-88,2012,Mike Scott,Power Forward,University of Virginia,3333334,2017,2016,Phoenix Suns
+11351,scottmi01,16-Jul-88,2012,Mike Scott,Power Forward,University of Virginia,1471382,2018,2017,Washington Wizards
+11389,selbyjo01,27-Mar-91,2011,Josh Selby,Point Guard,University of Kansas,550000,2012,2011,Memphis Grizzlies
+11390,selbyjo01,27-Mar-91,2011,Josh Selby,Point Guard,University of Kansas,762195,2013,2012,Cleveland Cavaliers
+11468,shumpim01,26-Jun-90,2011,Iman Shumpert,Shooting Guard and Point Guard,Georgia Institute of Technology,1563120,2012,2011,New York Knicks
+11469,shumpim01,26-Jun-90,2011,Iman Shumpert,Shooting Guard and Point Guard,Georgia Institute of Technology,1680360,2013,2012,New York Knicks
+11470,shumpim01,26-Jun-90,2011,Iman Shumpert,Shooting Guard and Point Guard,Georgia Institute of Technology,1703760,2014,2013,New York Knicks
+11471,shumpim01,26-Jun-90,2011,Iman Shumpert,Shooting Guard and Point Guard,Georgia Institute of Technology,2616975,2015,2014,Cleveland Cavaliers
+11472,shumpim01,26-Jun-90,2011,Iman Shumpert,Shooting Guard and Point Guard,Georgia Institute of Technology,9000000,2016,2015,Cleveland Cavaliers
+11473,shumpim01,26-Jun-90,2011,Iman Shumpert,Shooting Guard and Point Guard,Georgia Institute of Technology,9700000,2017,2016,Cleveland Cavaliers
+11474,shumpim01,26-Jun-90,2011,Iman Shumpert,Shooting Guard and Point Guard,Georgia Institute of Technology,10337079,2018,2017,Sacramento Kings
+11478,siakapa01,2-Apr-94,2016,Pascal Siakam,Power Forward,New Mexico State University,1196040,2017,2016,Toronto Raptors
+11479,siakapa01,2-Apr-94,2016,Pascal Siakam,Power Forward,New Mexico State University,1312611,2018,2017,Toronto Raptors
+11497,simmobe01,20-Jul-96,2016,Ben Simmons,Point Guard,Louisiana State University,5903160,2017,2016,Philadelphia 76ers
+11498,simmobe01,20-Jul-96,2016,Ben Simmons,Point Guard,Louisiana State University,6168840,2018,2017,Philadelphia 76ers
+11539,singlky01,4-May-88,2011,Kyle Singler,Small Forward,Duke University,1000000,2013,2012,Detroit Pistons
+11540,singlky01,4-May-88,2011,Kyle Singler,Small Forward,Duke University,1045000,2014,2013,Detroit Pistons
+11541,singlky01,4-May-88,2011,Kyle Singler,Small Forward,Duke University,1090000,2015,2014,Oklahoma City Thunder
+11542,singlky01,4-May-88,2011,Kyle Singler,Small Forward,Duke University,5000000,2016,2015,Oklahoma City Thunder
+11543,singlky01,4-May-88,2011,Kyle Singler,Small Forward,Duke University,4837500,2017,2016,Oklahoma City Thunder
+11544,singlky01,4-May-88,2011,Kyle Singler,Small Forward,Duke University,4666500,2018,2017,Oklahoma City Thunder
+11546,singlch01,21-Nov-89,2011,Chris Singleton,Small Forward and Power Forward,Florida State University,1485000,2012,2011,Washington Wizards
+11547,singlch01,21-Nov-89,2011,Chris Singleton,Small Forward and Power Forward,Florida State University,1596360,2013,2012,Washington Wizards
+11548,singlch01,21-Nov-89,2011,Chris Singleton,Small Forward and Power Forward,Florida State University,1618680,2014,2013,Washington Wizards
+11553,sivape01,24-Oct-90,2013,Peyton Siva,Shooting Guard,University of Louisville,100000,2015,2014,Orlando Magic
+11593,smartma01,6-Mar-94,2014,Marcus Smart,Shooting Guard and Point Guard,Oklahoma State University,3283320,2015,2014,Boston Celtics
+11594,smartma01,6-Mar-94,2014,Marcus Smart,Shooting Guard and Point Guard,Oklahoma State University,3431040,2016,2015,Boston Celtics
+11595,smartma01,6-Mar-94,2014,Marcus Smart,Shooting Guard and Point Guard,Oklahoma State University,3578880,2017,2016,Boston Celtics
+11596,smartma01,6-Mar-94,2014,Marcus Smart,Shooting Guard and Point Guard,Oklahoma State University,4538020,2018,2017,Boston Celtics
+11623,smithde03,25-Nov-97,2017,Dennis Smith Jr.,Point Guard,North Carolina State University,3218280,2018,2017,Dallas Mavericks
+11748,smithno01,25-Jul-88,2011,Nolan Smith,Point Guard,Duke University,1306920,2012,2011,Portland Trail Blazers
+11749,smithno01,25-Jul-88,2011,Nolan Smith,Point Guard,Duke University,1404960,2013,2012,Portland Trail Blazers
+11756,smithru01,19-Apr-91,2014,Russ Smith,Point Guard,University of Louisville,816482,2015,2014,Memphis Grizzlies
+11757,smithru01,19-Apr-91,2014,Russ Smith,Point Guard,University of Louisville,816482,2016,2015,Memphis Grizzlies
+11797,snellto01,10-Nov-91,2013,Tony Snell,Shooting Guard and Small Forward,University of New Mexico,1409040,2014,2013,Chicago Bulls
+11798,snellto01,10-Nov-91,2013,Tony Snell,Shooting Guard and Small Forward,University of New Mexico,1472400,2015,2014,Chicago Bulls
+11799,snellto01,10-Nov-91,2013,Tony Snell,Shooting Guard and Small Forward,University of New Mexico,1535880,2016,2015,Chicago Bulls
+11800,snellto01,10-Nov-91,2013,Tony Snell,Shooting Guard and Small Forward,University of New Mexico,2368327,2017,2016,Milwaukee Bucks
+11801,snellto01,10-Nov-91,2013,Tony Snell,Shooting Guard and Small Forward,University of New Mexico,9821429,2018,2017,Milwaukee Bucks
+11929,stausni01,7-Oct-93,2014,Nik Stauskas,Shooting Guard,University of Michigan,2745840,2015,2014,Sacramento Kings
+11930,stausni01,7-Oct-93,2014,Nik Stauskas,Shooting Guard,University of Michigan,2869440,2016,2015,Philadelphia 76ers
+11931,stausni01,7-Oct-93,2014,Nik Stauskas,Shooting Guard,University of Michigan,2993040,2017,2016,Philadelphia 76ers
+11932,stausni01,7-Oct-93,2014,Nik Stauskas,Shooting Guard,University of Michigan,3807147,2018,2017,Brooklyn Nets
+11944,stephla01,5-Sep-90,2010,Lance Stephenson,Small Forward and Shooting Guard,University of Cincinnati,750000,2011,2010,Indiana Pacers
+11945,stephla01,5-Sep-90,2010,Lance Stephenson,Small Forward and Shooting Guard,University of Cincinnati,810000,2012,2011,Indiana Pacers
+11946,stephla01,5-Sep-90,2010,Lance Stephenson,Small Forward and Shooting Guard,University of Cincinnati,870000,2013,2012,Indiana Pacers
+11947,stephla01,5-Sep-90,2010,Lance Stephenson,Small Forward and Shooting Guard,University of Cincinnati,1005000,2014,2013,Indiana Pacers
+11948,stephla01,5-Sep-90,2010,Lance Stephenson,Small Forward and Shooting Guard,University of Cincinnati,9000000,2015,2014,Charlotte Hornets
+11949,stephla01,5-Sep-90,2010,Lance Stephenson,Small Forward and Shooting Guard,University of Cincinnati,9000000,2016,2015,Memphis Grizzlies
+11950,stephla01,5-Sep-90,2010,Lance Stephenson,Small Forward and Shooting Guard,University of Cincinnati,4000000,2017,2016,Indiana Pacers
+11951,stephla01,5-Sep-90,2010,Lance Stephenson,Small Forward and Shooting Guard,University of Cincinnati,1227286,2017,2016,New Orleans Pelicans
+11952,stephla01,5-Sep-90,2010,Lance Stephenson,Small Forward and Shooting Guard,University of Cincinnati,144386,2017,2016,Minnesota Timberwolves
+11953,stephla01,5-Sep-90,2010,Lance Stephenson,Small Forward and Shooting Guard,University of Cincinnati,4180000,2018,2017,Indiana Pacers
+12039,stokeja01,7-Jan-94,2014,Jarnell Stokes,Center and Power Forward,University of Tennessee,725000,2015,2014,Memphis Grizzlies
+12040,stokeja01,7-Jan-94,2014,Jarnell Stokes,Center and Power Forward,University of Tennessee,845059,2016,2015,New Orleans Pelicans
+12041,stokeja01,7-Jan-94,2014,Jarnell Stokes,Center and Power Forward,University of Tennessee,150000,2017,2016,Denver Nuggets
+12042,stonedi01,10-Feb-97,2016,Diamond Stone,Center,University of Maryland,543471,2017,2016,Los Angeles Clippers
+12043,stonedi01,10-Feb-97,2016,Diamond Stone,Center,University of Maryland,1312611,2018,2017,Atlanta Hawks
+12044,stonedi01,10-Feb-97,2016,Diamond Stone,Center,University of Maryland,50000,2018,2017,Chicago Bulls
+12140,sullija01,4-Mar-92,2012,Jared Sullinger,Power Forward,Ohio State University,1306920,2013,2012,Boston Celtics
+12141,sullija01,4-Mar-92,2012,Jared Sullinger,Power Forward,Ohio State University,1365720,2014,2013,Boston Celtics
+12142,sullija01,4-Mar-92,2012,Jared Sullinger,Power Forward,Ohio State University,1424520,2015,2014,Boston Celtics
+12143,sullija01,4-Mar-92,2012,Jared Sullinger,Power Forward,Ohio State University,2269260,2016,2015,Boston Celtics
+12144,sullija01,4-Mar-92,2012,Jared Sullinger,Power Forward,Ohio State University,5628000,2017,2016,Phoenix Suns
+12178,swanica01,18-Apr-97,2017,Caleb Swanigan,Power Forward,Purdue University,1465920,2018,2017,Portland Trail Blazers
+12227,tatumja01,3-Mar-98,2017,Jayson Tatum,Small Forward,Duke University,5645400,2018,2017,Boston Celtics
+12236,tayloje03,23-May-89,2012,Jeff Taylor,Small Forward,Vanderbilt University,575000,2013,2012,Charlotte Bobcats
+12237,tayloje03,23-May-89,2012,Jeff Taylor,Small Forward,Vanderbilt University,788872,2014,2013,Charlotte Bobcats
+12238,tayloje03,23-May-89,2012,Jeff Taylor,Small Forward,Vanderbilt University,915243,2015,2014,Charlotte Hornets
+12256,tayloty01,12-Apr-90,2012,Tyshawn Taylor,Point Guard,University of Kansas,473604,2013,2012,Brooklyn Nets
+12257,tayloty01,12-Apr-90,2012,Tyshawn Taylor,Point Guard,University of Kansas,788872,2014,2013,Brooklyn Nets
+12272,teaguma01,28-Feb-93,2012,Marquis Teague,Point Guard and Shooting Guard,University of Kentucky,1028400,2013,2012,Chicago Bulls
+12273,teaguma01,28-Feb-93,2012,Marquis Teague,Point Guard and Shooting Guard,University of Kentucky,1074720,2014,2013,Chicago Bulls
+12274,teaguma01,28-Feb-93,2012,Marquis Teague,Point Guard and Shooting Guard,University of Kentucky,1120920,2015,2014,Philadelphia 76ers
+12275,teaguma01,28-Feb-93,2012,Marquis Teague,Point Guard and Shooting Guard,University of Kentucky,157945,2018,2017,Memphis Grizzlies
+12350,thomais02,7-Feb-89,2011,Isaiah Thomas,Point Guard and Shooting Guard,University of Washington,473604,2012,2011,Sacramento Kings
+12351,thomais02,7-Feb-89,2011,Isaiah Thomas,Point Guard and Shooting Guard,University of Washington,762195,2013,2012,Sacramento Kings
+12352,thomais02,7-Feb-89,2011,Isaiah Thomas,Point Guard and Shooting Guard,University of Washington,884293,2014,2013,Sacramento Kings
+12353,thomais02,7-Feb-89,2011,Isaiah Thomas,Point Guard and Shooting Guard,University of Washington,7238606,2015,2014,Boston Celtics
+12354,thomais02,7-Feb-89,2011,Isaiah Thomas,Point Guard and Shooting Guard,University of Washington,6912869,2016,2015,Boston Celtics
+12355,thomais02,7-Feb-89,2011,Isaiah Thomas,Point Guard and Shooting Guard,University of Washington,6587132,2017,2016,Boston Celtics
+12356,thomais02,7-Feb-89,2011,Isaiah Thomas,Point Guard and Shooting Guard,University of Washington,6261395,2018,2017,Los Angeles Lakers
+12436,thomptr02,20-May-90,2011,Trey Thompkins,Center,University of Georgia,473604,2012,2011,Los Angeles Clippers
+12437,thomptr02,20-May-90,2011,Trey Thompkins,Center,University of Georgia,762195,2013,2012,Los Angeles Clippers
+12466,thompkl01,8-Feb-90,2011,Klay Thompson,Shooting Guard,Washington State University,2126520,2012,2011,Golden State Warriors
+12467,thompkl01,8-Feb-90,2011,Klay Thompson,Shooting Guard,Washington State University,2286000,2013,2012,Golden State Warriors
+12468,thompkl01,8-Feb-90,2011,Klay Thompson,Shooting Guard,Washington State University,2317920,2014,2013,Golden State Warriors
+12469,thompkl01,8-Feb-90,2011,Klay Thompson,Shooting Guard,Washington State University,3075880,2015,2014,Golden State Warriors
+12470,thompkl01,8-Feb-90,2011,Klay Thompson,Shooting Guard,Washington State University,15500000,2016,2015,Golden State Warriors
+12471,thompkl01,8-Feb-90,2011,Klay Thompson,Shooting Guard,Washington State University,16663575,2017,2016,Golden State Warriors
+12472,thompkl01,8-Feb-90,2011,Klay Thompson,Shooting Guard,Washington State University,17826150,2018,2017,Golden State Warriors
+12493,thomptr01,13-Mar-91,2011,Tristan Thompson,Power Forward and Center,University of Texas at Austin,3726600,2012,2011,Cleveland Cavaliers
+12494,thomptr01,13-Mar-91,2011,Tristan Thompson,Power Forward and Center,University of Texas at Austin,4006080,2013,2012,Cleveland Cavaliers
+12495,thomptr01,13-Mar-91,2011,Tristan Thompson,Power Forward and Center,University of Texas at Austin,4062000,2014,2013,Cleveland Cavaliers
+12496,thomptr01,13-Mar-91,2011,Tristan Thompson,Power Forward and Center,University of Texas at Austin,5138430,2015,2014,Cleveland Cavaliers
+12497,thomptr01,13-Mar-91,2011,Tristan Thompson,Power Forward and Center,University of Texas at Austin,14260870,2016,2015,Cleveland Cavaliers
+12498,thomptr01,13-Mar-91,2011,Tristan Thompson,Power Forward and Center,University of Texas at Austin,15330435,2017,2016,Cleveland Cavaliers
+12499,thomptr01,13-Mar-91,2011,Tristan Thompson,Power Forward and Center,University of Texas at Austin,16400000,2018,2017,Cleveland Cavaliers
+12519,thornsi01,15-Nov-94,2017,Sindarius Thornwell,Shooting Guard,University of South Carolina,815615,2018,2017,Los Angeles Clippers
+12608,townska01,15-Nov-95,2015,Karl-Anthony Towns,Center,University of Kentucky,5703600,2016,2015,Minnesota Timberwolves
+12609,townska01,15-Nov-95,2015,Karl-Anthony Towns,Center,University of Kentucky,5960160,2017,2016,Minnesota Timberwolves
+12610,townska01,15-Nov-95,2015,Karl-Anthony Towns,Center,University of Kentucky,6216840,2018,2017,Minnesota Timberwolves
+12703,turneev01,27-Oct-88,2010,Evan Turner,Small Forward and Shooting Guard and Point Guard,Ohio State University,4602720,2011,2010,Philadelphia 76ers
+12704,turneev01,27-Oct-88,2010,Evan Turner,Small Forward and Shooting Guard and Point Guard,Ohio State University,4947840,2012,2011,Philadelphia 76ers
+12705,turneev01,27-Oct-88,2010,Evan Turner,Small Forward and Shooting Guard and Point Guard,Ohio State University,5293080,2013,2012,Philadelphia 76ers
+12706,turneev01,27-Oct-88,2010,Evan Turner,Small Forward and Shooting Guard and Point Guard,Ohio State University,6679867,2014,2013,Philadelphia 76ers
+12707,turneev01,27-Oct-88,2010,Evan Turner,Small Forward and Shooting Guard and Point Guard,Ohio State University,3278000,2015,2014,Boston Celtics
+12708,turneev01,27-Oct-88,2010,Evan Turner,Small Forward and Shooting Guard and Point Guard,Ohio State University,3425510,2016,2015,Boston Celtics
+12709,turneev01,27-Oct-88,2010,Evan Turner,Small Forward and Shooting Guard and Point Guard,Ohio State University,16393443,2017,2016,Portland Trail Blazers
+12710,turneev01,27-Oct-88,2010,Evan Turner,Small Forward and Shooting Guard and Point Guard,Ohio State University,17131148,2018,2017,Portland Trail Blazers
+12720,turnemy01,24-Mar-96,2015,Myles Turner,Center,University of Texas at Austin,2357760,2016,2015,Indiana Pacers
+12721,turnemy01,24-Mar-96,2015,Myles Turner,Center,University of Texas at Austin,2463840,2017,2016,Indiana Pacers
+12722,turnemy01,24-Mar-96,2015,Myles Turner,Center,University of Texas at Austin,2569920,2018,2017,Indiana Pacers
+12741,udohek01,20-May-87,2010,Ekpe Udoh,Power Forward and Center,"University of Michigan, Baylor University",3065040,2011,2010,Golden State Warriors
+12742,udohek01,20-May-87,2010,Ekpe Udoh,Power Forward and Center,"University of Michigan, Baylor University",3294960,2012,2011,Golden State Warriors
+12743,udohek01,20-May-87,2010,Ekpe Udoh,Power Forward and Center,"University of Michigan, Baylor University",3524880,2013,2012,Milwaukee Bucks
+12744,udohek01,20-May-87,2010,Ekpe Udoh,Power Forward and Center,"University of Michigan, Baylor University",4469548,2014,2013,Milwaukee Bucks
+12745,udohek01,20-May-87,2010,Ekpe Udoh,Power Forward and Center,"University of Michigan, Baylor University",981084,2015,2014,Los Angeles Clippers
+12746,udohek01,20-May-87,2010,Ekpe Udoh,Power Forward and Center,"University of Michigan, Baylor University",3200000,2018,2017,Utah Jazz
+12769,ulisty01,5-Jan-96,2016,Tyler Ulis,Point Guard,University of Kentucky,918369,2017,2016,Phoenix Suns
+12770,ulisty01,5-Jan-96,2016,Tyler Ulis,Point Guard,University of Kentucky,1312611,2018,2017,Phoenix Suns
+12790,valende01,16-Nov-93,2016,Denzel Valentine,Shooting Guard,Michigan State University,2092200,2017,2016,Chicago Bulls
+12791,valende01,16-Nov-93,2016,Denzel Valentine,Shooting Guard,Michigan State University,2186400,2018,2017,Chicago Bulls
+12845,varnaja01,1-Mar-88,2010,Jarvis Varnado,Power Forward,Mississippi State University,275805,2013,2012,Miami Heat
+12846,varnaja01,1-Mar-88,2010,Jarvis Varnado,Power Forward,Mississippi State University,33431,2013,2012,Boston Celtics
+12847,varnaja01,1-Mar-88,2010,Jarvis Varnado,Power Forward,Mississippi State University,788872,2014,2013,Miami Heat
+12848,varnaja01,1-Mar-88,2010,Jarvis Varnado,Power Forward,Mississippi State University,75000,2015,2014,Philadelphia 76ers
+12849,vasqugr01,16-Jan-87,2010,Greivis Vasquez,Point Guard and Shooting Guard,University of Maryland,1035960,2011,2010,Memphis Grizzlies
+12850,vasqugr01,16-Jan-87,2010,Greivis Vasquez,Point Guard and Shooting Guard,University of Maryland,1113600,2012,2011,New Orleans Hornets
+12851,vasqugr01,16-Jan-87,2010,Greivis Vasquez,Point Guard and Shooting Guard,University of Maryland,1191240,2013,2012,New Orleans Hornets
+12852,vasqugr01,16-Jan-87,2010,Greivis Vasquez,Point Guard and Shooting Guard,University of Maryland,2150188,2014,2013,Sacramento Kings
+12853,vasqugr01,16-Jan-87,2010,Greivis Vasquez,Point Guard and Shooting Guard,University of Maryland,6400000,2015,2014,Toronto Raptors
+12854,vasqugr01,16-Jan-87,2010,Greivis Vasquez,Point Guard and Shooting Guard,University of Maryland,6600000,2016,2015,Milwaukee Bucks
+12855,vasqugr01,16-Jan-87,2010,Greivis Vasquez,Point Guard and Shooting Guard,University of Maryland,4347826,2017,2016,Brooklyn Nets
+12872,vaughra01,16-Aug-96,2015,Rashad Vaughn,Shooting Guard,"University of Nevada, Las Vegas",1733040,2016,2015,Milwaukee Bucks
+12873,vaughra01,16-Aug-96,2015,Rashad Vaughn,Shooting Guard,"University of Nevada, Las Vegas",1811040,2017,2016,Milwaukee Bucks
+12874,vaughra01,16-Aug-96,2015,Rashad Vaughn,Shooting Guard,"University of Nevada, Las Vegas",1889040,2018,2017,New Orleans Pelicans
+12875,vaughra01,16-Aug-96,2015,Rashad Vaughn,Shooting Guard,"University of Nevada, Las Vegas",166258,2018,2017,Orlando Magic
+12924,vonleno01,24-Aug-95,2014,Noah Vonleh,Power Forward,Indiana University,2524200,2015,2014,Charlotte Hornets
+12925,vonleno01,24-Aug-95,2014,Noah Vonleh,Power Forward,Indiana University,2637720,2016,2015,Portland Trail Blazers
+12926,vonleno01,24-Aug-95,2014,Noah Vonleh,Power Forward,Indiana University,2751360,2017,2016,Portland Trail Blazers
+12927,vonleno01,24-Aug-95,2014,Noah Vonleh,Power Forward,Indiana University,3505233,2018,2017,Chicago Bulls
+12952,vucevni01,24-Oct-90,2011,Nikola Vucevic,Center,University of Southern California,1645400,2012,2011,Philadelphia 76ers
+12953,vucevni01,24-Oct-90,2011,Nikola Vucevic,Center,University of Southern California,1768800,2013,2012,Orlando Magic
+12954,vucevni01,24-Oct-90,2011,Nikola Vucevic,Center,University of Southern California,1793520,2014,2013,Orlando Magic
+12955,vucevni01,24-Oct-90,2011,Nikola Vucevic,Center,University of Southern California,2751260,2015,2014,Orlando Magic
+12956,vucevni01,24-Oct-90,2011,Nikola Vucevic,Center,University of Southern California,11250000,2016,2015,Orlando Magic
+12957,vucevni01,24-Oct-90,2011,Nikola Vucevic,Center,University of Southern California,11750000,2017,2016,Orlando Magic
+12958,vucevni01,24-Oct-90,2011,Nikola Vucevic,Center,University of Southern California,12250000,2018,2017,Orlando Magic
+12994,waitedi01,10-Dec-91,2012,Dion Waiters,Shooting Guard,Syracuse University,3726600,2013,2012,Cleveland Cavaliers
+12995,waitedi01,10-Dec-91,2012,Dion Waiters,Shooting Guard,Syracuse University,3894240,2014,2013,Cleveland Cavaliers
+12996,waitedi01,10-Dec-91,2012,Dion Waiters,Shooting Guard,Syracuse University,4062000,2015,2014,Oklahoma City Thunder
+12997,waitedi01,10-Dec-91,2012,Dion Waiters,Shooting Guard,Syracuse University,5138430,2016,2015,Oklahoma City Thunder
+12998,waitedi01,10-Dec-91,2012,Dion Waiters,Shooting Guard,Syracuse University,2898000,2017,2016,Miami Heat
+12999,waitedi01,10-Dec-91,2012,Dion Waiters,Shooting Guard,Syracuse University,11000000,2018,2017,Miami Heat
+13027,walkeke02,8-May-90,2011,Kemba Walker,Point Guard,University of Connecticut,2356320,2012,2011,Charlotte Bobcats
+13028,walkeke02,8-May-90,2011,Kemba Walker,Point Guard,University of Connecticut,2532960,2013,2012,Charlotte Bobcats
+13029,walkeke02,8-May-90,2011,Kemba Walker,Point Guard,University of Connecticut,2568360,2014,2013,Charlotte Bobcats
+13030,walkeke02,8-May-90,2011,Kemba Walker,Point Guard,University of Connecticut,3272091,2015,2014,Charlotte Hornets
+13031,walkeke02,8-May-90,2011,Kemba Walker,Point Guard,University of Connecticut,12000000,2016,2015,Charlotte Hornets
+13032,walkeke02,8-May-90,2011,Kemba Walker,Point Guard,University of Connecticut,12000000,2017,2016,Charlotte Hornets
+13033,walkeke02,8-May-90,2011,Kemba Walker,Point Guard,University of Connecticut,12000000,2018,2017,Charlotte Hornets
+13049,walljo01,6-Sep-90,2010,John Wall,Point Guard,University of Kentucky,5144280,2011,2010,Washington Wizards
+13050,walljo01,6-Sep-90,2010,John Wall,Point Guard,University of Kentucky,5530080,2012,2011,Washington Wizards
+13051,walljo01,6-Sep-90,2010,John Wall,Point Guard,University of Kentucky,5915880,2013,2012,Washington Wizards
+13052,walljo01,6-Sep-90,2010,John Wall,Point Guard,University of Kentucky,7459925,2014,2013,Washington Wizards
+13053,walljo01,6-Sep-90,2010,John Wall,Point Guard,University of Kentucky,14746000,2015,2014,Washington Wizards
+13054,walljo01,6-Sep-90,2010,John Wall,Point Guard,University of Kentucky,15851950,2016,2015,Washington Wizards
+13055,walljo01,6-Sep-90,2010,John Wall,Point Guard,University of Kentucky,16957900,2017,2016,Washington Wizards
+13056,walljo01,6-Sep-90,2010,John Wall,Point Guard,University of Kentucky,18063850,2018,2017,Washington Wizards
+13112,princta02,22-Mar-94,2016,Taurean Prince,Small Forward,Baylor University,2318280,2017,2016,Atlanta Hawks
+13113,princta02,22-Mar-94,2016,Taurean Prince,Small Forward,Baylor University,2422560,2018,2017,Atlanta Hawks
+13151,warretj01,5-Sep-93,2014,T.J. Warren,Small Forward,North Carolina State University,1953120,2015,2014,Phoenix Suns
+13152,warretj01,5-Sep-93,2014,T.J. Warren,Small Forward,North Carolina State University,2041080,2016,2015,Phoenix Suns
+13153,warretj01,5-Sep-93,2014,T.J. Warren,Small Forward,North Carolina State University,2128920,2017,2016,Phoenix Suns
+13154,warretj01,5-Sep-93,2014,T.J. Warren,Small Forward,North Carolina State University,3152931,2018,2017,Phoenix Suns
+13155,warrewi01,22-Oct-89,2010,Willie Warren,Point Guard,University of Oklahoma,500000,2011,2010,Los Angeles Clippers
+13398,whitede01,2-Jul-94,2017,Derrick White,Point Guard,University of Colorado,1404600,2018,2017,San Antonio Spurs
+13421,whitero03,10-Apr-91,2012,Royce White,Power Forward,Iowa State University,1719480,2014,2013,Philadelphia 76ers
+13424,whiteis01,8-Mar-95,2016,Isaiah Whitehead,Point Guard,Seton Hall University,1074145,2017,2016,Brooklyn Nets
+13425,whiteis01,8-Mar-95,2016,Isaiah Whitehead,Point Guard,Seton Hall University,1312611,2018,2017,Brooklyn Nets
+13432,whiteha01,13-Jun-89,2010,Hassan Whiteside,Center,Marshall University,730437,2011,2010,Sacramento Kings
+13433,whiteha01,13-Jun-89,2010,Hassan Whiteside,Center,Marshall University,762195,2012,2011,Sacramento Kings
+13434,whiteha01,13-Jun-89,2010,Hassan Whiteside,Center,Marshall University,769881,2015,2014,Miami Heat
+13435,whiteha01,13-Jun-89,2010,Hassan Whiteside,Center,Marshall University,981348,2016,2015,Miami Heat
+13436,whiteha01,13-Jun-89,2010,Hassan Whiteside,Center,Marshall University,22116750,2017,2016,Miami Heat
+13437,whiteha01,13-Jun-89,2010,Hassan Whiteside,Center,Marshall University,23775506,2018,2017,Miami Heat
+13450,wiggian01,23-Feb-95,2014,Andrew Wiggins,Small Forward,University of Kansas,5510640,2015,2014,Minnesota Timberwolves
+13451,wiggian01,23-Feb-95,2014,Andrew Wiggins,Small Forward,University of Kansas,5758680,2016,2015,Minnesota Timberwolves
+13452,wiggian01,23-Feb-95,2014,Andrew Wiggins,Small Forward,University of Kansas,6006600,2017,2016,Minnesota Timberwolves
+13453,wiggian01,23-Feb-95,2014,Andrew Wiggins,Small Forward,University of Kansas,7574322,2018,2017,Minnesota Timberwolves
+13590,willide02,25-May-91,2011,Derrick Williams,Power Forward and Small Forward,University of Arizona,4602720,2012,2011,Minnesota Timberwolves
+13591,willide02,25-May-91,2011,Derrick Williams,Power Forward and Small Forward,University of Arizona,4947840,2013,2012,Minnesota Timberwolves
+13592,willide02,25-May-91,2011,Derrick Williams,Power Forward and Small Forward,University of Arizona,5016960,2014,2013,Minnesota Timberwolves
+13593,willide02,25-May-91,2011,Derrick Williams,Power Forward and Small Forward,University of Arizona,6331404,2015,2014,Sacramento Kings
+13594,willide02,25-May-91,2011,Derrick Williams,Power Forward and Small Forward,University of Arizona,4900000,2016,2015,New York Knicks
+13595,willide02,25-May-91,2011,Derrick Williams,Power Forward and Small Forward,University of Arizona,4598000,2017,2016,Miami Heat
+13596,willide02,25-May-91,2011,Derrick Williams,Power Forward and Small Forward,University of Arizona,402043,2017,2016,Cleveland Cavaliers
+13597,willide02,25-May-91,2011,Derrick Williams,Power Forward and Small Forward,University of Arizona,83129,2018,2017,Los Angeles Lakers
+13598,williel01,20-Jun-89,2010,Elliot Williams,Point Guard and Shooting Guard,"Duke University, University of Memphis",1254720,2011,2010,Portland Trail Blazers
+13599,williel01,20-Jun-89,2010,Elliot Williams,Point Guard and Shooting Guard,"Duke University, University of Memphis",1348800,2012,2011,Portland Trail Blazers
+13600,williel01,20-Jun-89,2010,Elliot Williams,Point Guard and Shooting Guard,"Duke University, University of Memphis",1442880,2013,2012,Portland Trail Blazers
+13601,williel01,20-Jun-89,2010,Elliot Williams,Point Guard and Shooting Guard,"Duke University, University of Memphis",107676,2015,2014,New Orleans Pelicans
+13602,williel01,20-Jun-89,2010,Elliot Williams,Point Guard and Shooting Guard,"Duke University, University of Memphis",53838,2015,2014,Utah Jazz
+13603,williel01,20-Jun-89,2010,Elliot Williams,Point Guard and Shooting Guard,"Duke University, University of Memphis",53838,2015,2014,Charlotte Hornets
+13604,williel01,20-Jun-89,2010,Elliot Williams,Point Guard and Shooting Guard,"Duke University, University of Memphis",80000,2016,2015,Charlotte Hornets
+13605,williel01,20-Jun-89,2010,Elliot Williams,Point Guard and Shooting Guard,"Duke University, University of Memphis",55722,2016,2015,Memphis Grizzlies
+13606,williel01,20-Jun-89,2010,Elliot Williams,Point Guard and Shooting Guard,"Duke University, University of Memphis",250000,2017,2016,Golden State Warriors
+13701,willijo03,11-Oct-90,2011,Jordan Williams,Center,University of Maryland,473604,2012,2011,New Jersey Nets
+13702,willijo03,11-Oct-90,2011,Jordan Williams,Center,University of Maryland,762195,2013,2012,Atlanta Hawks
+13894,wilsodj01,19-Feb-96,2017,D.J. Wilson,Power Forward,University of Michigan,2135040,2018,2017,Milwaukee Bucks
+13918,winslju01,26-Mar-96,2015,Justise Winslow,Power Forward and Small Forward,Duke University,2481720,2016,2015,Miami Heat
+13919,winslju01,26-Mar-96,2015,Justise Winslow,Power Forward and Small Forward,Duke University,2593440,2017,2016,Miami Heat
+13920,winslju01,26-Mar-96,2015,Justise Winslow,Power Forward and Small Forward,Duke University,2705040,2018,2017,Miami Heat
+13924,witheje01,7-Mar-90,2013,Jeff Withey,Center,University of Kansas,816482,2015,2014,New Orleans Pelicans
+13925,witheje01,7-Mar-90,2013,Jeff Withey,Center,University of Kansas,947276,2016,2015,Utah Jazz
+13926,witheje01,7-Mar-90,2013,Jeff Withey,Center,University of Kansas,1015696,2017,2016,Utah Jazz
+13927,witheje01,7-Mar-90,2013,Jeff Withey,Center,University of Kansas,1577320,2018,2017,Dallas Mavericks
+14049,wrighde01,26-Apr-92,2015,Delon Wright,Point Guard,University of Utah,1509360,2016,2015,Toronto Raptors
+14050,wrighde01,26-Apr-92,2015,Delon Wright,Point Guard,University of Utah,1577280,2017,2016,Toronto Raptors
+14051,wrighde01,26-Apr-92,2015,Delon Wright,Point Guard,University of Utah,1645200,2018,2017,Toronto Raptors
+14089,wroteto01,13-Apr-93,2012,Tony Wroten,Shooting Guard and Point Guard,University of Washington,1110120,2013,2012,Memphis Grizzlies
+14090,wroteto01,13-Apr-93,2012,Tony Wroten,Shooting Guard and Point Guard,University of Washington,1160040,2014,2013,Memphis Grizzlies
+14091,wroteto01,13-Apr-93,2012,Tony Wroten,Shooting Guard and Point Guard,University of Washington,1210080,2015,2014,Philadelphia 76ers
+14092,wroteto01,13-Apr-93,2012,Tony Wroten,Shooting Guard and Point Guard,University of Washington,2179354,2016,2015,Philadelphia 76ers
+14093,wroteto01,13-Apr-93,2012,Tony Wroten,Shooting Guard and Point Guard,University of Washington,167406,2016,2015,New York Knicks
+14094,wroteto01,13-Apr-93,2012,Tony Wroten,Shooting Guard and Point Guard,University of Washington,25000,2017,2016,Memphis Grizzlies
+14105,youngjo01,27-Jun-92,2015,Joe Young,Point Guard,"University of Houston, University of Oregon",1000000,2016,2015,Indiana Pacers
+14106,youngjo01,27-Jun-92,2015,Joe Young,Point Guard,"University of Houston, University of Oregon",1052342,2017,2016,Indiana Pacers
+14107,youngjo01,27-Jun-92,2015,Joe Young,Point Guard,"University of Houston, University of Oregon",1471382,2018,2017,Indiana Pacers
+14137,zelleco01,5-Oct-92,2013,Cody Zeller,Center,Indiana University,3857040,2014,2013,Charlotte Bobcats
+14138,zelleco01,5-Oct-92,2013,Cody Zeller,Center,Indiana University,4030560,2015,2014,Charlotte Hornets
+14139,zelleco01,5-Oct-92,2013,Cody Zeller,Center,Indiana University,4204200,2016,2015,Charlotte Hornets
+14140,zelleco01,5-Oct-92,2013,Cody Zeller,Center,Indiana University,5318313,2017,2016,Charlotte Hornets
+14141,zelleco01,5-Oct-92,2013,Cody Zeller,Center,Indiana University,12584270,2018,2017,Charlotte Hornets
+14143,zellety01,17-Jan-90,2012,Tyler Zeller,Center,University of North Carolina,1563120,2013,2012,Cleveland Cavaliers
+14144,zellety01,17-Jan-90,2012,Tyler Zeller,Center,University of North Carolina,1633440,2014,2013,Cleveland Cavaliers
+14145,zellety01,17-Jan-90,2012,Tyler Zeller,Center,University of North Carolina,1703760,2015,2014,Boston Celtics
+14146,zellety01,17-Jan-90,2012,Tyler Zeller,Center,University of North Carolina,2616975,2016,2015,Boston Celtics
+14147,zellety01,17-Jan-90,2012,Tyler Zeller,Center,University of North Carolina,8000000,2017,2016,Boston Celtics
+14148,zellety01,17-Jan-90,2012,Tyler Zeller,Center,University of North Carolina,1709538,2018,2017,Milwaukee Bucks
+14157,zimmest01,9-Sep-96,2016,Stephen Zimmerman,Center,"University of Nevada, Las Vegas",950000,2017,2016,Orlando Magic
