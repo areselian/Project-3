@@ -117,12 +117,14 @@ for (let [key, value] of Object.entries(salary_max_map)) {
               color: 'rgb(204, 204, 204)'
             }
           },
+          tickangle : 65,
           tickfont: {
             font: {
               color: 'rgb(102, 102, 102)'
             }
           },
           autotick: false,
+          rotate: 80,
           // dtick: 10,
           ticks: 'outside',
           tickcolor: 'rgb(102, 102, 102)'
@@ -130,7 +132,7 @@ for (let [key, value] of Object.entries(salary_max_map)) {
         margin: {
           l: 40,
           r: 40,
-          b: 150,
+          b: 160,
           t: 80
         },
         padding: 50,

@@ -3,6 +3,7 @@ var myMap = L.map("map-id", {
   zoom: 4,
 });
 var layerscontrol
+var legendcontrol
 // Define variables for our tile layers
 function buildMap(sample) {
 
@@ -67,7 +68,7 @@ function buildMap(sample) {
           // loop through the cities array, create a new marker, push it to the cityMarkers array
         if (college_data[i].count > 30){
           collegeMarkers.push(
-            L.circle(college_data[i].location,college_data[i].count*10000).setStyle({fillColor :'red', fillOpacity: 0.4})
+            L.circle(college_data[i].location,college_data[i].count*10000).setStyle({fillColor :'red', fillOpacity: 0.3})
             .bindPopup("<b>" + college_data[i].name + "</b><hr> Players Drafted: "+ college_data[i].count)
           );
         }else if (college_data[i].count > 20){
@@ -77,12 +78,12 @@ function buildMap(sample) {
           );
         }else if (college_data[i].count > 10){
           collegeMarkers.push(
-            L.circle(college_data[i].location,college_data[i].count*10000).setStyle({fillColor :'green', fillOpacity: 0.2})
+            L.circle(college_data[i].location,college_data[i].count*10000).setStyle({fillColor :'green', fillOpacity: 0.3})
             .bindPopup("<b>" + college_data[i].name + "</b><hr> Players Drafted: "+ college_data[i].count)
           );
         }else{
           collegeMarkers.push(
-            L.circle(college_data[i].location,college_data[i].count*10000).setStyle({fillColor :'blue', fillOpacity: 0.15})
+            L.circle(college_data[i].location,college_data[i].count*10000).setStyle({fillColor :'blue', fillOpacity: 0.3})
             .bindPopup("<b>" + college_data[i].name + "</b><hr> Players Drafted: "+ college_data[i].count)
           );
         }
@@ -121,6 +122,34 @@ function buildMap(sample) {
         Collges: collegeLayer, 
         Salaries: salaryLayer
       }; 
+      
+      var legend = L.control({position: 'bottomright'});
+
+      function getColor(d) {
+        return d > 30   ? 'red' :
+               d > 20   ? 'yellow' :
+               d > 10   ? 'green' :
+                          'blue';
+    }
+
+
+      legend.onAdd = function (map) {
+      
+          var div = L.DomUtil.create('div', 'info legend'),
+              grades = [0, 10, 20, 30],
+              labels = ["less than 10","more than 10","more than 20","more than 30" ];
+      
+          // loop through our density intervals and generate a label with a colored square for each interval
+          for (var i = 0; i < grades.length; i++) {
+              div.innerHTML +=
+                  '<i style="background:' + getColor(grades[i] + 1) + '"></i> ' +
+                  grades[i] + (grades[i + 1] ? '&ndash;' + grades[i + 1] + ' players<br>' : '+ players');
+          }
+      
+          return div;
+      };
+      
+      legendcontrol = legend.addTo(myMap);
       layerscontrol = L.control.layers(baseMaps, overlayMaps).addTo(myMap)
 
   }).catch(function(error) {
@@ -134,6 +163,7 @@ function updateMap(sample){
     myMap.removeLayer(layer);
 });
   myMap.removeControl(layerscontrol);
+  myMap.removeControl(legendcontrol)
   buildMap(sample);
 
 }
