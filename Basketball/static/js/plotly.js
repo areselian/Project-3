@@ -78,7 +78,7 @@ for (let [key, value] of Object.entries(salary_max_map)) {
         mode: 'markers',
         name: 'AVG SALARY',
         marker: {
-          color: 'rgba(156, 165, 196, 0.95)',
+          color: 'rgba(123, 86, 224, 0.85)',
           line: {
             color: 'rgba(156, 165, 196, 1.0)',
             width: 1,
@@ -94,7 +94,7 @@ for (let [key, value] of Object.entries(salary_max_map)) {
         mode: 'markers',
         name: 'Max Salary',
         marker: {
-          color: 'rgba(204, 204, 204, 0.95)',
+          color: 'rgba(184, 71, 71, 0.85)',
           line: {
             color: 'rgba(217, 217, 217, 1.0)',
             width: 1,
@@ -141,8 +141,8 @@ for (let [key, value] of Object.entries(salary_max_map)) {
           yanchor: 'middle',
           xanchor: 'right'
         },
-        paper_bgcolor: 'rgb(254, 247, 234)',
-        plot_bgcolor: 'rgb(254, 247, 234)',
+        paper_bgcolor: 'rgb(223, 238, 255)',
+        plot_bgcolor: 'rgb(223, 238, 255)',
         hovermode: 'closest'
       };
 

@@ -14,32 +14,32 @@ function multiplemax(test_array) {
 var svg = d3.select("#court-svg")
   .append("svg")
   .attr("height", "500")
-  .attr("width", "600");
+  .attr("width", "550");
 
 // drawing the court
 var chartGroup = svg.append("g");
 
 chartGroup.append('image')
 .attr('link:href', './static/images/court.png')
-.attr('width', 600)
+.attr('width', 550)
 .attr('height', 500);
 
 chartGroup.append("circle")
   .classed("court basket", true)
   .attr("r", 15)
-  .attr("cx", 300)
+  .attr("cx", 275)
   .attr("cy", 430);
 
 chartGroup.append("line")
   .classed("court glass" , true)
-  .attr("x1", 265)
+  .attr("x1", 245)
   .attr("y1", 450)
-  .attr("x2", 335)
+  .attr("x2", 305)
   .attr("y2", 450);
 
 chartGroup.append("rect")
   .classed("court", true)
-  .attr("width", 600)
+  .attr("width", 550)
   .attr("height", 500)
   .attr("x", 0)
   .attr("y", 0);
@@ -53,11 +53,11 @@ var testpos = "Power Forward"
 
 
 var positions = [
-  {"position": {"PG": "Point Guard"},"loc":{"x": 310, "y": 110}},
-  {"position": {"SG": "Shooting Guard"},"loc":{"x": 145, "y": 180}},
-  {"position": {"SF": "Small Forward"},"loc":{"x": 480, "y": 410}},
-  {"position": {"PF": "Power Forward"},"loc":{"x": 180, "y": 400}},
-  {"position": {"CT": "Center"},"loc":{"x": 400, "y": 350}} 
+  {"position": {"PG": "Point Guard"},"loc":{"x": 295, "y": 110}},
+  {"position": {"SG": "Shooting Guard"},"loc":{"x": 135, "y": 180}},
+  {"position": {"SF": "Small Forward"},"loc":{"x": 475, "y": 410}},
+  {"position": {"PF": "Power Forward"},"loc":{"x": 170, "y": 390}},
+  {"position": {"CT": "Center"},"loc":{"x": 390, "y": 350}} 
 ];
 
 var tooltip = d3.select("body").append("div")	

@@ -65,9 +65,27 @@ function buildMap(sample) {
       var collegeMarkers = [];
       for (var i = 0; i < college_data.length; i++) {
           // loop through the cities array, create a new marker, push it to the cityMarkers array
+        if (college_data[i].count > 30){
           collegeMarkers.push(
-            L.circle(college_data[i].location,college_data[i].count*10000 ).bindPopup("<b>" + college_data[i].name + "</b><hr> Players Drafted: "+ college_data[i].count)
+            L.circle(college_data[i].location,college_data[i].count*10000).setStyle({fillColor :'red', fillOpacity: 0.4})
+            .bindPopup("<b>" + college_data[i].name + "</b><hr> Players Drafted: "+ college_data[i].count)
           );
+        }else if (college_data[i].count > 20){
+          collegeMarkers.push(
+            L.circle(college_data[i].location,college_data[i].count*10000).setStyle({fillColor :'yellow', fillOpacity: 0.3})
+            .bindPopup("<b>" + college_data[i].name + "</b><hr> Players Drafted: "+ college_data[i].count)
+          );
+        }else if (college_data[i].count > 10){
+          collegeMarkers.push(
+            L.circle(college_data[i].location,college_data[i].count*10000).setStyle({fillColor :'green', fillOpacity: 0.2})
+            .bindPopup("<b>" + college_data[i].name + "</b><hr> Players Drafted: "+ college_data[i].count)
+          );
+        }else{
+          collegeMarkers.push(
+            L.circle(college_data[i].location,college_data[i].count*10000).setStyle({fillColor :'blue', fillOpacity: 0.15})
+            .bindPopup("<b>" + college_data[i].name + "</b><hr> Players Drafted: "+ college_data[i].count)
+          );
+        }
         }
 
       // Now we can handle them as one group instead of referencing each individually
