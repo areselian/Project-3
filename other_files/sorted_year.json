@@ -1,0 +1,497 @@
+[
+  {
+    "college": "Arizona State University",
+    "location": [33.4242398999999, -111.9280527],
+    "count": 1
+  },
+  {
+    "college": "Baylor University",
+    "location": [31.5469132, -97.1210998],
+    "count": 6
+  },
+  {
+    "college": "Boston College",
+    "location": [42.3355488, -71.1684945],
+    "count": 1
+  },
+  {
+    "college": "Bowling Green State University",
+    "location": [41.3797788, -83.6300826],
+    "count": 1
+  },
+  {
+    "college": "Brigham Young University",
+    "location": [40.2518435, -111.6493156],
+    "count": 1
+  },
+  {
+    "college": "Bucknell University",
+    "location": [40.9547722, -76.8850758999999],
+    "count": 1
+  },
+  {
+    "college": "Butler University",
+    "location": [39.8405491, -86.1708927],
+    "count": 2
+  },
+  {
+    "college": "Clemson University",
+    "location": [34.6738437, -82.8368654],
+    "count": 2
+  },
+  {
+    "college": "Cleveland State University",
+    "location": [41.5025072, -81.6746268],
+    "count": 1
+  },
+  {
+    "college": "College of Charleston",
+    "location": [32.7834441, -79.9370017999999],
+    "count": 1
+  },
+  {
+    "college": "Creighton University",
+    "location": [41.2655521, -95.9463862],
+    "count": 2
+  },
+  {
+    "college": "Duke University",
+    "location": [36.0014258, -78.9382286],
+    "count": 16
+  },
+  {
+    "college": "Florida State University",
+    "location": [30.4418778, -84.2984889],
+    "count": 7
+  },
+  {
+    "college": "Georgetown University",
+    "location": [38.9076089, -77.0722584999999],
+    "count": 2
+  },
+  {
+    "college": "Georgia Institute of Technology",
+    "location": [33.7756178, -84.3962849999999],
+    "count": 4
+  },
+  {
+    "college": "Gonzaga University",
+    "location": [47.6670321, -117.401434299999],
+    "count": 4
+  },
+  {
+    "college": "Hofstra University",
+    "location": [40.7166872, -73.5993965],
+    "count": 1
+  },
+  {
+    "college": "Indiana University",
+    "location": [39.1754487, -86.512627],
+    "count": 5
+  },
+  {
+    "college": "Iowa State University",
+    "location": [42.0266187, -93.6464654],
+    "count": 2
+  },
+  {
+    "college": "Kansas State University",
+    "location": [39.1974437, -96.5847249],
+    "count": 1
+  },
+  {
+    "college": "Lehigh University",
+    "location": [40.6048687, -75.3775187],
+    "count": 1
+  },
+  {
+    "college": "Louisiana State University",
+    "location": [30.4132578999999, -91.1800023],
+    "count": 4
+  },
+  {
+    "college": "Marquette University",
+    "location": [43.0388337, -87.9285666999999],
+    "count": 5
+  },
+  {
+    "college": "Marshall University",
+    "location": [38.4235252, -82.4264144999999],
+    "count": 1
+  },
+  {
+    "college": "Michigan State University",
+    "location": [42.701848, -84.4821719],
+    "count": 5
+  },
+  {
+    "college": "Mississippi State University",
+    "location": [33.4551741999999, -88.7943765999999],
+    "count": 1
+  },
+  {
+    "college": "Morehead State University",
+    "location": [38.1886162, -83.4315122],
+    "count": 1
+  },
+  {
+    "college": "Murray State University",
+    "location": [36.6163842, -88.3214979],
+    "count": 2
+  },
+  {
+    "college": "New Mexico State University",
+    "location": [32.2787745, -106.7479059],
+    "count": 1
+  },
+  {
+    "college": "Norfolk State University",
+    "location": [36.8480161, -76.262085],
+    "count": 1
+  },
+  {
+    "college": "North Carolina State University",
+    "location": [35.7846633, -78.6820946],
+    "count": 2
+  },
+  {
+    "college": "Oakland University",
+    "location": [42.6679486, -83.2081632],
+    "count": 1
+  },
+  {
+    "college": "Ohio State University",
+    "location": [40.0068362999999, -83.0306222],
+    "count": 3
+  },
+  {
+    "college": "Oklahoma State University",
+    "location": [36.1270236, -97.0737222],
+    "count": 3
+  },
+  {
+    "college": "Oregon State University",
+    "location": [44.5637806, -123.2794443],
+    "count": 1
+  },
+  {
+    "college": "Providence College",
+    "location": [41.8440925, -71.4381653],
+    "count": 3
+  },
+  {
+    "college": "Purdue University",
+    "location": [40.4237054, -86.9211945999999],
+    "count": 5
+  },
+  {
+    "college": "Rutgers University",
+    "location": [40.741078, -74.1732735999999],
+    "count": 1
+  },
+  {
+    "college": "Saint Joseph's University",
+    "location": [39.9951217, -75.2399327999999],
+    "count": 1
+  },
+  {
+    "college": "San Diego State University",
+    "location": [32.7759894, -117.0712533],
+    "count": 2
+  },
+  {
+    "college": "Seton Hall University",
+    "location": [40.7433773, -74.2465446],
+    "count": 1
+  },
+  {
+    "college": "Southern Methodist University",
+    "location": [32.8412178, -96.7845175],
+    "count": 2
+  },
+  {
+    "college": "St. Bonaventure University",
+    "location": [42.0794875, -78.4842702999999],
+    "count": 1
+  },
+  {
+    "college": "St. John's University",
+    "location": [40.7220627, -73.7942111999999],
+    "count": 1
+  },
+  {
+    "college": "Stanford University",
+    "location": [37.4274745, -122.169719],
+    "count": 3
+  },
+  {
+    "college": "Syracuse University",
+    "location": [43.0391534, -76.1351158],
+    "count": 11
+  },
+  {
+    "college": "Temple University",
+    "location": [39.9805942, -75.1557376],
+    "count": 1
+  },
+  {
+    "college": "Tennessee Technological University",
+    "location": [36.1757592, -85.5086374],
+    "count": 1
+  },
+  {
+    "college": "Texas A&M University",
+    "location": [30.6090918, -96.3337124],
+    "count": 1
+  },
+  {
+    "college": "University of Arizona",
+    "location": [32.2318851, -110.9501094],
+    "count": 8
+  },
+  {
+    "college": "University of Arkansas",
+    "location": [36.0686895, -94.1748471],
+    "count": 1
+  },
+  {
+    "college": "University of California",
+    "location": [37.8718992, -122.2585399],
+    "count": 3
+  },
+  {
+    "college": "University of Cincinnati",
+    "location": [39.1329219, -84.5149503999999],
+    "count": 1
+  },
+  {
+    "college": "University of Colorado",
+    "location": [40.0075809999999, -105.2659417],
+    "count": 4
+  },
+  {
+    "college": "University of Connecticut",
+    "location": [41.8077414, -72.2539805],
+    "count": 4
+  },
+  {
+    "college": "University of Detroit Mercy",
+    "location": [42.4141556, -83.1379932],
+    "count": 1
+  },
+  {
+    "college": "University of Florida",
+    "location": [29.6436325, -82.3549302],
+    "count": 3
+  },
+  {
+    "college": "University of Georgia",
+    "location": [33.9480053, -83.3773220999999],
+    "count": 3
+  },
+  {
+    "college": "University of Illinois at Urbana-Champaign",
+    "location": [40.1019523, -88.2271615],
+    "count": 1
+  },
+  {
+    "college": "University of Iowa",
+    "location": [41.6626963, -91.5548998],
+    "count": 1
+  },
+  {
+    "college": "University of Kansas",
+    "location": [38.9543439, -95.2557960999999],
+    "count": 15
+  },
+  {
+    "college": "University of Kentucky",
+    "location": [38.0306511, -84.5039697],
+    "count": 29
+  },
+  {
+    "college": "University of Louisiana at Lafayette",
+    "location": [30.2114403999999, -92.0204120999999],
+    "count": 1
+  },
+  {
+    "college": "University of Louisville",
+    "location": [38.2122761, -85.7585022999999],
+    "count": 7
+  },
+  {
+    "college": "University of Maryland",
+    "location": [38.9869183, -76.9425543],
+    "count": 5
+  },
+  {
+    "college": "University of Memphis",
+    "location": [35.1187497999999, -89.9374928],
+    "count": 1
+  },
+  {
+    "college": "University of Miami",
+    "location": [25.7178924, -80.2746368],
+    "count": 2
+  },
+  {
+    "college": "University of Michigan",
+    "location": [42.2780436, -83.7382241],
+    "count": 8
+  },
+  {
+    "college": "University of Missouri",
+    "location": [38.9403807999999, -92.3277375],
+    "count": 1
+  },
+  {
+    "college": "University of New Mexico",
+    "location": [35.0843187, -106.619781199999],
+    "count": 3
+  },
+  {
+    "college": "University of North Carolina",
+    "location": [35.9049122, -79.0469134],
+    "count": 10
+  },
+  {
+    "college": "University of North Texas",
+    "location": [33.207488, -97.1525862],
+    "count": 1
+  },
+  {
+    "college": "University of Notre Dame",
+    "location": [41.7055716, -86.2353388],
+    "count": 3
+  },
+  {
+    "college": "University of Oklahoma",
+    "location": [35.2058935999999, -97.4457137],
+    "count": 2
+  },
+  {
+    "college": "University of Oregon",
+    "location": [44.0448302, -123.0726055],
+    "count": 3
+  },
+  {
+    "college": "University of Pittsburgh",
+    "location": [40.4443533, -79.960835],
+    "count": 2
+  },
+  {
+    "college": "University of Richmond",
+    "location": [37.5751669, -77.5407146],
+    "count": 1
+  },
+  {
+    "college": "University of South Carolina",
+    "location": [33.9937575, -81.0299186],
+    "count": 1
+  },
+  {
+    "college": "University of South Florida",
+    "location": [28.0587031, -82.4138538999999],
+    "count": 1
+  },
+  {
+    "college": "University of Southern California",
+    "location": [34.0223519, -118.285117],
+    "count": 1
+  },
+  {
+    "college": "University of Tennessee",
+    "location": [35.9544013, -83.9294563999999],
+    "count": 4
+  },
+  {
+    "college": "University of Texas at Austin",
+    "location": [30.2849185, -97.7340567],
+    "count": 8
+  },
+  {
+    "college": "University of Tulsa",
+    "location": [36.1520526, -95.9460753],
+    "count": 1
+  },
+  {
+    "college": "University of Utah",
+    "location": [40.7649367999999, -111.842102099999],
+    "count": 3
+  },
+  {
+    "college": "University of Virginia",
+    "location": [38.0335529, -78.5079772],
+    "count": 4
+  },
+  {
+    "college": "University of Washington",
+    "location": [47.6912794, -122.317614099999],
+    "count": 7
+  },
+  {
+    "college": "University of Wisconsin",
+    "location": [43.076592, -89.4124875],
+    "count": 3
+  },
+  {
+    "college": "University of Wyoming",
+    "location": [41.3148754, -105.5665744],
+    "count": 1
+  },
+  {
+    "college": "Vanderbilt University",
+    "location": [36.1447034, -86.8026551],
+    "count": 4
+  },
+  {
+    "college": "Villanova University",
+    "location": [40.0378952, -75.3433314999999],
+    "count": 1
+  },
+  {
+    "college": "Virginia Commonwealth University",
+    "location": [37.5483122, -77.4526805],
+    "count": 1
+  },
+  {
+    "college": "Virginia Polytechnic Institute and State University",
+    "location": [37.2283842999999, -80.4234166999999],
+    "count": 1
+  },
+  {
+    "college": "Wake Forest University",
+    "location": [36.1355052, -80.2791958],
+    "count": 2
+  },
+  {
+    "college": "Washington State University",
+    "location": [46.7319224999999, -117.1542121],
+    "count": 1
+  },
+  {
+    "college": "Weber State University",
+    "location": [41.1924682, -111.9444959],
+    "count": 1
+  },
+  {
+    "college": "West Virginia University",
+    "location": [39.6480358999999, -79.9697147],
+    "count": 1
+  },
+  {
+    "college": "Western Kentucky University",
+    "location": [36.983537, -86.4573752],
+    "count": 1
+  },
+  {
+    "college": "Wichita State University",
+    "location": [37.7186367, -97.2941414],
+    "count": 1
+  },
+  {
+    "college": "Xavier University",
+    "location": [39.149448, -84.4736374],
+    "count": 1
+  }
+ ]
